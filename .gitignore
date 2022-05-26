@@ -1,0 +1,5 @@
+.R*
+.DS_Store
+*.json
+*.log
+*.Rproj
