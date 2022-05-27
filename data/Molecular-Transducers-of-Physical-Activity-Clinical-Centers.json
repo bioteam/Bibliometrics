@@ -1,0 +1,2639 @@
+[
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Molecular Mechanisms of Exercise and Healthspan.",
+    "published_date": "2022-03-03",
+    "pmid": "35269492",
+    "journal": "Cells",
+    "openalex": "https://openalex.org/W4214946132",
+    "total_citations": 0,
+    "publication_year": 2022,
+    "is_open_access": true,
+    "citation_counts_by_year": []
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "AMPK and the Adaptation to Exercise.",
+    "published_date": "2022-02-10",
+    "pmid": "35143330",
+    "journal": "Annual review of physiology",
+    "openalex": "https://openalex.org/W4211063119",
+    "total_citations": 0,
+    "publication_year": 2022,
+    "is_open_access": false,
+    "citation_counts_by_year": []
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Body composition and cardiometabolic health across the menopause transition.",
+    "published_date": "2021-12-21",
+    "pmid": "34932890",
+    "journal": "Obesity (Silver Spring, Md.)",
+    "openalex": "https://openalex.org/W4200067424",
+    "total_citations": 0,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": []
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "A wrinkle in time: circadian biology in pulmonary vascular health and disease.",
+    "published_date": "2021-12-01",
+    "pmid": "34850650",
+    "journal": "American journal of physiology. Lung cellular and molecular physiology",
+    "openalex": "https://openalex.org/W3215589594",
+    "total_citations": 0,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": []
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Phenotypic Expression, Natural History, and Risk Stratification of Cardiomyopathy Caused by Filamin C Truncating Variants.",
+    "published_date": "2021-09-07",
+    "pmid": "34587765",
+    "journal": "Circulation",
+    "openalex": "https://openalex.org/W3203785709",
+    "total_citations": 3,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Energy compensation and adiposity in humans.",
+    "published_date": "2021-10-25",
+    "pmid": "34453886",
+    "journal": "Current biology : CB",
+    "openalex": "https://openalex.org/W3197305134",
+    "total_citations": 6,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 3
+      },
+      {
+        "2021": 3
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Author Correction: Human plasma proteomic profiles indicative of cardiorespiratory fitness.",
+    "published_date": "2021-08-27",
+    "pmid": "34446928",
+    "journal": "Nature metabolism",
+    "openalex": "https://openalex.org/W3196258482",
+    "total_citations": 0,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": []
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Human Adipose and Skeletal Muscle Tissue DNA, RNA, and Protein Content.",
+    "published_date": "2021-08-26",
+    "pmid": "34435508",
+    "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+    "openalex": "https://openalex.org/W3195716951",
+    "total_citations": 0,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": []
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Daily energy expenditure through the human life course.",
+    "published_date": "2021-08-13",
+    "pmid": "34385400",
+    "journal": "Science (New York, N.Y.)",
+    "openalex": "https://openalex.org/W3183815414",
+    "total_citations": 25,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 14
+      },
+      {
+        "2021": 13
+      },
+      {
+        "2020": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Pyruvate Kinase M2 Supports Muscle Progenitor Cell Proliferation but Is Dispensable for Skeletal Muscle Regeneration after Injury.",
+    "published_date": "2021-11-02",
+    "pmid": "34383048",
+    "journal": "The Journal of nutrition",
+    "openalex": "https://openalex.org/W3191642722",
+    "total_citations": 0,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": []
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Research Priorities in the Secondary Prevention of Atrial Fibrillation: A National Heart, Lung, and Blood Institute Virtual Workshop Report.",
+    "published_date": "2021-08-17",
+    "pmid": "34351783",
+    "journal": "Journal of the American Heart Association",
+    "openalex": "https://openalex.org/W3192592192",
+    "total_citations": 1,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "A micromachined force sensing apparatus and method for human engineered cardiac tissue and induced pluripotent stem cell characterization.",
+    "published_date": "2021-11-01",
+    "pmid": "34305317",
+    "journal": "Sensors and actuators. A, Physical",
+    "openalex": "https://openalex.org/W3172307239",
+    "total_citations": 0,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": []
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Resin-Assisted Capture Coupled with Isobaric Tandem Mass Tag Labeling for Multiplexed Quantification of Protein Thiol Oxidation.",
+    "published_date": "2021-06-21",
+    "pmid": "34223836",
+    "journal": "Journal of visualized experiments : JoVE",
+    "openalex": "https://openalex.org/W3173390725",
+    "total_citations": 1,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2021": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Nonsense-mediated decay is highly stable across individuals and tissues.",
+    "published_date": "2021-08-05",
+    "pmid": "34216550",
+    "journal": "American journal of human genetics",
+    "openalex": "https://openalex.org/W3177303035",
+    "total_citations": 3,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 3
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Time trajectories in the transcriptomic response to exercise - a meta-analysis.",
+    "published_date": "2021-06-09",
+    "pmid": "34108459",
+    "journal": "Nature communications",
+    "openalex": "https://openalex.org/W3168414855",
+    "total_citations": 8,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 7
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Assessment of TMT Labeling Efficiency in Large-Scale Quantitative Proteomics: The Critical Effect of Sample pH.",
+    "published_date": "2021-05-06",
+    "pmid": "34056417",
+    "journal": "ACS omega",
+    "openalex": "https://openalex.org/W3158950632",
+    "total_citations": 0,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": []
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Human plasma proteomic profiles indicative of cardiorespiratory fitness.",
+    "published_date": "2021-05-27",
+    "pmid": "34045743",
+    "journal": "Nature metabolism",
+    "openalex": "https://openalex.org/W3165518547",
+    "total_citations": 2,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 2
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Rapid report on using data to make standardized decisions about enrollment during the COVID-19 pandemic: perspectives from the MoTrPAC study.",
+    "published_date": "2021-05-03",
+    "pmid": "33957248",
+    "journal": "Annals of epidemiology",
+    "openalex": "https://openalex.org/W3157474674",
+    "total_citations": 0,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": []
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Mechanisms of exercise as a preventative measure to muscle wasting.",
+    "published_date": "2021-05-05",
+    "pmid": "33950699",
+    "journal": "American journal of physiology. Cell physiology",
+    "openalex": "https://openalex.org/W3158840951",
+    "total_citations": 3,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 3
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Muscle transcriptional networks linked to resistance exercise training hypertrophic response heterogeneity.",
+    "published_date": "2021-04-19",
+    "pmid": "33870722",
+    "journal": "Physiological genomics",
+    "openalex": "https://openalex.org/W3154863794",
+    "total_citations": 0,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": []
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Cardiac Rehabilitation for Patients With Heart Failure: JACC Expert Panel.",
+    "published_date": "2021-03-23",
+    "pmid": "33736829",
+    "journal": "Journal of the American College of Cardiology",
+    "openalex": "https://openalex.org/W3138718115",
+    "total_citations": 16,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2022": 6
+      },
+      {
+        "2021": 10
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Triboelectric Nanogenerator Ion Mobility-Mass Spectrometry for In-Depth Lipid Annotation.",
+    "published_date": "2021-03-15",
+    "pmid": "33720699",
+    "journal": "Analytical chemistry",
+    "openalex": "https://openalex.org/W3137886605",
+    "total_citations": 6,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 4
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Influence of low-dose aspirin, resistance exercise, and sex on human skeletal muscle PGE2 /COX pathway activity.",
+    "published_date": "2021-03-01",
+    "pmid": "33661544",
+    "journal": "Physiological reports",
+    "openalex": "https://openalex.org/W3135654871",
+    "total_citations": 1,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "CBL mutations drive PI3K/AKT signaling via increased interaction with LYN and PIK3R1.",
+    "published_date": "2021-04-22",
+    "pmid": "33512474",
+    "journal": "Blood",
+    "openalex": "https://openalex.org/W3121090851",
+    "total_citations": 4,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 2
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Time of Day and Muscle Strength: A Circadian Output?",
+    "published_date": "2021-01-01",
+    "pmid": "33325817",
+    "journal": "Physiology (Bethesda, Md.)",
+    "openalex": "https://openalex.org/W3110707218",
+    "total_citations": 4,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2021": 4
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Characterization of cellular oxidative stress response by stoichiometric redox proteomics.",
+    "published_date": "2021-02-01",
+    "pmid": "33264075",
+    "journal": "American journal of physiology. Cell physiology.",
+    "openalex": "https://openalex.org/W3107983660",
+    "total_citations": 7,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 7
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Barriers in translating preclinical rodent exercise metabolism findings to human health.",
+    "published_date": "2021-01-01",
+    "pmid": "33180643",
+    "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+    "openalex": "https://openalex.org/W3098141554",
+    "total_citations": 4,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 3
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "A Role for Exercise to Counter Skeletal Muscle Clock Disruption.",
+    "published_date": "2021-01-01",
+    "pmid": "33044328",
+    "journal": "Exercise and sport sciences reviews",
+    "openalex": "https://openalex.org/W3091906943",
+    "total_citations": 3,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2021": 3
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Cardiovascular Biomarkers and Imaging in Older Adults: JACC Council Perspectives.",
+    "published_date": "2020-09-29",
+    "pmid": "32972536",
+    "journal": "Journal of the American College of Cardiology.",
+    "openalex": "https://openalex.org/W3087158683",
+    "total_citations": 6,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 5
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Exercise sets the muscle clock with a calcium assist.",
+    "published_date": "2020-09-28",
+    "pmid": "32949163",
+    "journal": "The Journal of physiology",
+    "openalex": "https://openalex.org/W3087043498",
+    "total_citations": 0,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": []
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "DataRemix: a universal data transformation for optimal inference from gene expression datasets.",
+    "published_date": "2021-05-17",
+    "pmid": "32821903",
+    "journal": "Bioinformatics (Oxford, England)",
+    "openalex": "https://openalex.org/W3081204786",
+    "total_citations": 1,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2020": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Heterogeneous origins and functions of mouse skeletal muscle-resident macrophages.",
+    "published_date": "2020-08-25",
+    "pmid": "32796104",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America.",
+    "openalex": "https://openalex.org/W3049578589",
+    "total_citations": 9,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 8
+      },
+      {
+        "2020": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Rehabilitative Impact of Exercise Training on Human Skeletal Muscle Transcriptional Programs in Parkinson's Disease.",
+    "published_date": "2020-06-17",
+    "pmid": "32625117",
+    "journal": "Frontiers in physiology.",
+    "openalex": "https://openalex.org/W3035403369",
+    "total_citations": 4,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 4
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Molecular Transducers of Physical Activity Consortium (MoTrPAC): Mapping the Dynamic Responses to Exercise.",
+    "published_date": "2020-06-25",
+    "pmid": "32589957",
+    "journal": "Cell.",
+    "openalex": "https://openalex.org/W3037214432",
+    "total_citations": 40,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 5
+      },
+      {
+        "2021": 31
+      },
+      {
+        "2020": 9
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Sedentary and Trained Older Men Have Distinct Circulating Exosomal microRNA Profiles at Baseline and in Response to Acute Exercise.",
+    "published_date": "2020-06-10",
+    "pmid": "32587527",
+    "journal": "Frontiers in physiology.",
+    "openalex": "https://openalex.org/W3034560398",
+    "total_citations": 16,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 14
+      },
+      {
+        "2020": 2
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Time-of-day dependent effects of contractile activity on the phase of the skeletal muscle clock.",
+    "published_date": "2020-07-01",
+    "pmid": "32537739",
+    "journal": "The Journal of physiology.",
+    "openalex": "https://openalex.org/W3035212993",
+    "total_citations": 16,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 8
+      },
+      {
+        "2020": 7
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "The COVID-19 MS Coalition-accelerating diagnostics, prognostics, and treatment.",
+    "published_date": "2020-06-06",
+    "pmid": "32473097",
+    "journal": "Lancet (London, England).",
+    "openalex": "https://openalex.org/W3029424699",
+    "total_citations": 40,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 20
+      },
+      {
+        "2020": 19
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Ticking for Metabolic Health: The Skeletal-Muscle Clocks.",
+    "published_date": "2020-05-28",
+    "pmid": "32468732",
+    "journal": "Obesity (Silver Spring, Md.).",
+    "openalex": "https://openalex.org/W3032205120",
+    "total_citations": 9,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 3
+      },
+      {
+        "2021": 4
+      },
+      {
+        "2020": 2
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Metabolomics and Proteomics in Type 2 Diabetes.",
+    "published_date": "2020-05-22",
+    "pmid": "32437301",
+    "journal": "Circulation research",
+    "openalex": "https://openalex.org/W3027408571",
+    "total_citations": 11,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 10
+      },
+      {
+        "2020": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Rapid and deep-scale ubiquitylation profiling for biology and translational research.",
+    "published_date": "2020-01-17",
+    "pmid": "31953384",
+    "journal": "Nature communications.",
+    "openalex": "https://openalex.org/W2999253180",
+    "total_citations": 39,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 6
+      },
+      {
+        "2021": 27
+      },
+      {
+        "2020": 9
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Cardiac Rehabilitation in Frail Older Adults With Cardiovascular Disease: A NEW DIAGNOSTIC AND TREATMENT PARADIGM.",
+    "published_date": "2020-03-01",
+    "pmid": "31939755",
+    "journal": "Journal of cardiopulmonary rehabilitation and prevention.",
+    "openalex": "https://openalex.org/W2999077224",
+    "total_citations": 8,
+    "publication_year": 2020,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 6
+      },
+      {
+        "2020": 2
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Exercise Timing and Circadian Rhythms.",
+    "published_date": "2019-08-01",
+    "pmid": "31938759",
+    "journal": "Current opinion in physiology.",
+    "openalex": "https://openalex.org/W2942242324",
+    "total_citations": 18,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 10
+      },
+      {
+        "2020": 6
+      },
+      {
+        "2019": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Single-cell transcriptional profiles in human skeletal muscle.",
+    "published_date": "2020-01-14",
+    "pmid": "31937892",
+    "journal": "Scientific reports.",
+    "openalex": "https://openalex.org/W2999612022",
+    "total_citations": 57,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 6
+      },
+      {
+        "2021": 35
+      },
+      {
+        "2020": 19
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Metabolomics and adductomics of newborn bloodspots to retrospectively assess the early-life exposome.",
+    "published_date": "2020-04-01",
+    "pmid": "31913157",
+    "journal": "Current opinion in pediatrics.",
+    "openalex": "https://openalex.org/W2999164628",
+    "total_citations": 5,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 3
+      },
+      {
+        "2020": 1
+      },
+      {
+        "2019": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Exercise preserves muscle mass and force in a prostate cancer mouse model.",
+    "published_date": "2019-11-12",
+    "pmid": "31908747",
+    "journal": "European journal of translational myology.",
+    "openalex": "https://openalex.org/W2989129462",
+    "total_citations": 9,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 4
+      },
+      {
+        "2020": 4
+      },
+      {
+        "2019": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Nexrutine and exercise similarly prevent high grade prostate tumors in transgenic mouse model.",
+    "published_date": "2019-12-19",
+    "pmid": "31856170",
+    "journal": "PloS one.",
+    "openalex": "https://openalex.org/W2995828811",
+    "total_citations": 1,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Skeletal muscle transcriptional networks linked to type I myofiber grouping in Parkinson's disease.",
+    "published_date": "2020-02-01",
+    "pmid": "31829804",
+    "journal": "Journal of applied physiology (Bethesda, Md. : 1985).",
+    "openalex": "https://openalex.org/W2998582618",
+    "total_citations": 6,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 4
+      },
+      {
+        "2020": 1
+      },
+      {
+        "2018": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "The importance of physical function as a clinical outcome: Assessment and enhancement.",
+    "published_date": "2020-02-01",
+    "pmid": "31825137",
+    "journal": "Clinical cardiology.",
+    "openalex": "https://openalex.org/W2996305950",
+    "total_citations": 12,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 9
+      },
+      {
+        "2020": 2
+      },
+      {
+        "2019": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Impact of Age on Comorbidities and Outcomes in Heart Failure With Reduced Ejection Fraction.",
+    "published_date": "2019-12-01",
+    "pmid": "31779928",
+    "journal": "JACC. Heart failure.",
+    "openalex": "https://openalex.org/W2989593724",
+    "total_citations": 9,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 7
+      },
+      {
+        "2020": 1
+      },
+      {
+        "2019": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Emerging Affinity Reagents for High Throughput Proteomics: Trust, but Verify.",
+    "published_date": "2019-11-12",
+    "pmid": "31710523",
+    "journal": "Circulation.",
+    "openalex": "https://openalex.org/W2989325095",
+    "total_citations": 8,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 3
+      },
+      {
+        "2021": 2
+      },
+      {
+        "2020": 3
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "International Ring Trial of a High Resolution Targeted Metabolomics and Lipidomics Platform for Serum and Plasma Analysis.",
+    "published_date": "2019-11-19",
+    "pmid": "31638379",
+    "journal": "Analytical chemistry.",
+    "openalex": "https://openalex.org/W2981692361",
+    "total_citations": 39,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 4
+      },
+      {
+        "2021": 24
+      },
+      {
+        "2020": 11
+      },
+      {
+        "2019": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Cardiac Rehabilitation to Optimize Medication Regimens in Heart Failure.",
+    "published_date": "2019-06-21",
+    "pmid": "31543185",
+    "journal": "Clinics in geriatric medicine.",
+    "openalex": "https://openalex.org/W2950292159",
+    "total_citations": 4,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 1
+      },
+      {
+        "2020": 1
+      },
+      {
+        "2018": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Never Too Old for Cardiac Rehabilitation.",
+    "published_date": "2019-07-02",
+    "pmid": "31543175",
+    "journal": "Clinics in geriatric medicine.",
+    "openalex": "https://openalex.org/W2953450490",
+    "total_citations": 10,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 3
+      },
+      {
+        "2021": 6
+      },
+      {
+        "2020": 2
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Pathway-level information extractor (PLIER) for gene expression data.",
+    "published_date": "2019-06-27",
+    "pmid": "31249421",
+    "journal": "Nature methods.",
+    "openalex": "https://openalex.org/W2954825129",
+    "total_citations": 28,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 14
+      },
+      {
+        "2020": 11
+      },
+      {
+        "2019": 2
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Association of Dimethylguanidino Valeric Acid With Partial Resistance to Metabolic Health Benefits of Regular Exercise.",
+    "published_date": "2019-07-01",
+    "pmid": "31166569",
+    "journal": "JAMA cardiology.",
+    "openalex": "https://openalex.org/W2948207261",
+    "total_citations": 21,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 9
+      },
+      {
+        "2020": 7
+      },
+      {
+        "2019": 3
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Targeted Long-Read RNA Sequencing Demonstrates Transcriptional Diversity Driven by Splice-Site Variation in MYBPC3.",
+    "published_date": "2019-05-01",
+    "pmid": "31112421",
+    "journal": "Circulation. Genomic and precision medicine.",
+    "openalex": "https://openalex.org/W2951269108",
+    "total_citations": 4,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 4
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "The role of androgens in microvascular endothelial dysfunction in polycystic ovary syndrome: does size matter?",
+    "published_date": "2019-06-01",
+    "pmid": "31025703",
+    "journal": "The Journal of physiology.",
+    "openalex": "https://openalex.org/W2940836733",
+    "total_citations": 4,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2020": 3
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "TMT Labeling for the Masses: A Robust and Cost-efficient, In-solution Labeling Approach.",
+    "published_date": "2019-07-01",
+    "pmid": "30967486",
+    "journal": "Molecular & cellular proteomics : MCP.",
+    "openalex": "https://openalex.org/W2937573806",
+    "total_citations": 108,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 12
+      },
+      {
+        "2021": 58
+      },
+      {
+        "2020": 38
+      },
+      {
+        "2019": 5
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Untargeted Metabolomics Differentiates l-Carnitine Treated Septic Shock 1-Year Survivors and Nonsurvivors.",
+    "published_date": "2019-05-03",
+    "pmid": "30895797",
+    "journal": "Journal of proteome research.",
+    "openalex": "https://openalex.org/W2924713006",
+    "total_citations": 3,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 1
+      },
+      {
+        "2020": 1
+      },
+      {
+        "2019": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "The Importance of Resistance Exercise Training to Combat Neuromuscular Aging.",
+    "published_date": "2019-03-01",
+    "pmid": "30724133",
+    "journal": "Physiology (Bethesda, Md.).",
+    "openalex": "https://openalex.org/W2912406175",
+    "total_citations": 39,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 7
+      },
+      {
+        "2021": 21
+      },
+      {
+        "2020": 9
+      },
+      {
+        "2019": 5
+      },
+      {
+        "2018": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Supramax exercise testing in cystic fibrosis: not ready for prime time.",
+    "published_date": "2019-01-01",
+    "pmid": "30694710",
+    "journal": "Journal of applied physiology (Bethesda, Md. : 1985).",
+    "openalex": "https://openalex.org/W2912598676",
+    "total_citations": 2,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2020": 1
+      },
+      {
+        "2019": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Insulin deficiency and intranasal insulin alter brain mitochondrial function: a potential factor for dementia in diabetes.",
+    "published_date": "2019-01-24",
+    "pmid": "30676773",
+    "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology.",
+    "openalex": "https://openalex.org/W2912725195",
+    "total_citations": 21,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 15
+      },
+      {
+        "2020": 3
+      },
+      {
+        "2019": 2
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Succinate links atrial dysfunction and cardioembolic stroke.",
+    "published_date": "2019-02-19",
+    "pmid": "30674589",
+    "journal": "Neurology",
+    "openalex": "https://openalex.org/W2912079779",
+    "total_citations": 9,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 7
+      },
+      {
+        "2020": 2
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Rapidly Assessing the Quality of Targeted Proteomics Experiments through Monitoring Stable-Isotope Labeled Standards.",
+    "published_date": "2019-02-01",
+    "pmid": "30525668",
+    "journal": "Journal of proteome research.",
+    "openalex": "https://openalex.org/W2892298341",
+    "total_citations": 4,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 1
+      },
+      {
+        "2020": 3
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Dynamic DNA methylation: In the right place at the right time.",
+    "published_date": "2018-09-28",
+    "pmid": "30262495",
+    "journal": "Science (New York, N.Y.).",
+    "openalex": "https://openalex.org/W2894083868",
+    "total_citations": 233,
+    "publication_year": 2018,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 17
+      },
+      {
+        "2021": 93
+      },
+      {
+        "2020": 75
+      },
+      {
+        "2019": 50
+      },
+      {
+        "2018": 5
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Impaired Exercise Tolerance in Heart Failure: Role of Skeletal Muscle Morphology and Function.",
+    "published_date": "2018-12-01",
+    "pmid": "30178183",
+    "journal": "Current heart failure reports.",
+    "openalex": "https://openalex.org/W2891411856",
+    "total_citations": 29,
+    "publication_year": 2018,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 4
+      },
+      {
+        "2021": 11
+      },
+      {
+        "2020": 14
+      },
+      {
+        "2019": 3
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Modified penetrance of coding variants by cis-regulatory variation contributes to disease risk.",
+    "published_date": "2018-08-20",
+    "pmid": "30127527",
+    "journal": "Nature genetics.",
+    "openalex": "https://openalex.org/W2885204059",
+    "total_citations": 112,
+    "publication_year": 2018,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 4
+      },
+      {
+        "2021": 34
+      },
+      {
+        "2020": 40
+      },
+      {
+        "2019": 32
+      },
+      {
+        "2018": 4
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Cardiovascular Precision Medicine in the Genomics Era.",
+    "published_date": "2018-04-01",
+    "pmid": "30062216",
+    "journal": "JACC. Basic to translational science.",
+    "openalex": "https://openalex.org/W2802873999",
+    "total_citations": 31,
+    "publication_year": 2018,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 3
+      },
+      {
+        "2021": 14
+      },
+      {
+        "2020": 7
+      },
+      {
+        "2019": 5
+      },
+      {
+        "2018": 1
+      },
+      {
+        "2017": 2
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Fatiguing contractions increase protein S-glutathionylation occupancy in mouse skeletal muscle.",
+    "published_date": "2018-05-23",
+    "pmid": "29857311",
+    "journal": "Redox biology.",
+    "openalex": "https://openalex.org/W2803552542",
+    "total_citations": 38,
+    "publication_year": 2018,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 11
+      },
+      {
+        "2020": 17
+      },
+      {
+        "2019": 9
+      },
+      {
+        "2018": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Medical relevance of protein-truncating variants across 337,205 individuals in the UK Biobank study.",
+    "published_date": "2018-04-24",
+    "pmid": "29691392",
+    "journal": "Nature communications.",
+    "openalex": "https://openalex.org/W2917494953",
+    "total_citations": 70,
+    "publication_year": 2018,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 21
+      },
+      {
+        "2020": 24
+      },
+      {
+        "2019": 21
+      },
+      {
+        "2018": 4
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Nursing Research, CER, PICO and PCORI.",
+    "published_date": "2018-01-01",
+    "pmid": "29676399",
+    "journal": "Journal of community & public health nursing.",
+    "openalex": "https://openalex.org/W2790026941",
+    "total_citations": 0,
+    "publication_year": 2018,
+    "is_open_access": true,
+    "citation_counts_by_year": []
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Cardiovascular disease: The rise of the genetic risk score.",
+    "published_date": "2018-03-30",
+    "pmid": "29601582",
+    "journal": "PLoS medicine.",
+    "openalex": "https://openalex.org/W2794819865",
+    "total_citations": 95,
+    "publication_year": 2018,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 5
+      },
+      {
+        "2021": 25
+      },
+      {
+        "2020": 30
+      },
+      {
+        "2019": 27
+      },
+      {
+        "2018": 11
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Plasma Metabolite Profiles in Response to Chronic Exercise.",
+    "published_date": "2018-07-01",
+    "pmid": "29509640",
+    "journal": "Medicine and science in sports and exercise.",
+    "openalex": "https://openalex.org/W2792779470",
+    "total_citations": 15,
+    "publication_year": 2018,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 3
+      },
+      {
+        "2021": 5
+      },
+      {
+        "2020": 6
+      },
+      {
+        "2019": 2
+      },
+      {
+        "2018": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Cardiovascular Risk Beyond Low-Density Lipoprotein Cholesterol.",
+    "published_date": "2018-02-13",
+    "pmid": "29420959",
+    "journal": "Journal of the American College of Cardiology.",
+    "openalex": "https://openalex.org/W2786623458",
+    "total_citations": 7,
+    "publication_year": 2018,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 2
+      },
+      {
+        "2020": 2
+      },
+      {
+        "2018": 2
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Reinventing the wheel: comparison of two wheel cage styles for assessing mouse voluntary running activity.",
+    "published_date": "2018-04-01",
+    "pmid": "29357507",
+    "journal": "Journal of applied physiology (Bethesda, Md. : 1985).",
+    "openalex": "https://openalex.org/W2777870061",
+    "total_citations": 2,
+    "publication_year": 2018,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 2
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Dimethylguanidino valeric acid is a marker of liver fat and predicts diabetes.",
+    "published_date": "2017-10-30",
+    "pmid": "29083323",
+    "journal": "The Journal of clinical investigation.",
+    "openalex": "https://openalex.org/W2765418108",
+    "total_citations": 69,
+    "publication_year": 2017,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 5
+      },
+      {
+        "2021": 27
+      },
+      {
+        "2020": 14
+      },
+      {
+        "2019": 20
+      },
+      {
+        "2018": 6
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Genetic regulatory effects modified by immune activation contribute to autoimmune disease associations.",
+    "published_date": "2017-08-16",
+    "pmid": "28814792",
+    "journal": "Nature communications.",
+    "openalex": "https://openalex.org/W2951130888",
+    "total_citations": 114,
+    "publication_year": 2017,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 7
+      },
+      {
+        "2021": 40
+      },
+      {
+        "2020": 35
+      },
+      {
+        "2019": 20
+      },
+      {
+        "2018": 15
+      },
+      {
+        "2017": 2
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Ambient mass spectrometry in metabolomics.",
+    "published_date": "2017-08-21",
+    "pmid": "28792022",
+    "journal": "The Analyst.",
+    "openalex": "https://openalex.org/W2738984463",
+    "total_citations": 41,
+    "publication_year": 2017,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 14
+      },
+      {
+        "2020": 11
+      },
+      {
+        "2019": 8
+      },
+      {
+        "2018": 7
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2022 Mar 03",
+    "published_date": "1996-01-01",
+    "pmid": "8909156",
+    "journal": "Cells",
+    "openalex": "https://openalex.org/W1492792966",
+    "total_citations": 49,
+    "publication_year": 1996,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2021": 1
+      },
+      {
+        "2020": 2
+      },
+      {
+        "2018": 1
+      },
+      {
+        "2017": 1
+      },
+      {
+        "2016": 1
+      },
+      {
+        "2015": 3
+      },
+      {
+        "2013": 2
+      },
+      {
+        "2011": 2
+      },
+      {
+        "2010": 1
+      },
+      {
+        "2009": 2
+      },
+      {
+        "2008": 2
+      },
+      {
+        "2007": 1
+      },
+      {
+        "2005": 2
+      },
+      {
+        "2004": 1
+      },
+      {
+        "2003": 3
+      },
+      {
+        "2002": 1
+      },
+      {
+        "2001": 5
+      },
+      {
+        "2000": 3
+      },
+      {
+        "1999": 9
+      },
+      {
+        "1998": 4
+      },
+      {
+        "1997": 2
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2021 06 21",
+    "published_date": "1996-03-01",
+    "pmid": "8828046",
+    "journal": "Journal of visualized experiments : JoVE",
+    "openalex": "https://openalex.org/W2032364198",
+    "total_citations": 0,
+    "publication_year": 1996,
+    "is_open_access": false,
+    "citation_counts_by_year": []
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2020 06 25",
+    "published_date": "1996-06-01",
+    "pmid": "8800485",
+    "journal": "Cell",
+    "openalex": "https://openalex.org/W2085424713",
+    "total_citations": 3,
+    "publication_year": 1996,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2013": 1
+      },
+      {
+        "2004": 1
+      },
+      {
+        "1999": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2021 11 16",
+    "published_date": "1993-03-01",
+    "pmid": "8595845",
+    "journal": "Circulation",
+    "openalex": "https://openalex.org/W2085748313",
+    "total_citations": 1,
+    "publication_year": 1993,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2009": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2021 11 02",
+    "published_date": "1996-01-01",
+    "pmid": "8562082",
+    "journal": "The Journal of nutrition",
+    "openalex": "https://openalex.org/W2017832591",
+    "total_citations": 75,
+    "publication_year": 1996,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 1
+      },
+      {
+        "2020": 1
+      },
+      {
+        "2017": 1
+      },
+      {
+        "2016": 2
+      },
+      {
+        "2015": 2
+      },
+      {
+        "2014": 2
+      },
+      {
+        "2013": 3
+      },
+      {
+        "2012": 2
+      },
+      {
+        "2011": 3
+      },
+      {
+        "2010": 5
+      },
+      {
+        "2009": 5
+      },
+      {
+        "2008": 3
+      },
+      {
+        "2007": 2
+      },
+      {
+        "2006": 6
+      },
+      {
+        "2005": 2
+      },
+      {
+        "2004": 3
+      },
+      {
+        "2003": 3
+      },
+      {
+        "2002": 3
+      },
+      {
+        "2001": 6
+      },
+      {
+        "2000": 7
+      },
+      {
+        "1999": 5
+      },
+      {
+        "1998": 5
+      },
+      {
+        "1997": 3
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2021 10 01",
+    "published_date": "1996-01-01",
+    "pmid": "8560392",
+    "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+    "openalex": "https://openalex.org/W2039106998",
+    "total_citations": 7,
+    "publication_year": 1996,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2015": 1
+      },
+      {
+        "2008": 3
+      },
+      {
+        "2005": 2
+      },
+      {
+        "1998": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2021 Oct 25",
+    "published_date": "1995-10-01",
+    "pmid": "8551017",
+    "journal": "Current biology : CB",
+    "openalex": "https://openalex.org/W2077593479",
+    "total_citations": 14,
+    "publication_year": 1995,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2006": 1
+      },
+      {
+        "2005": 2
+      },
+      {
+        "2004": 3
+      },
+      {
+        "2002": 1
+      },
+      {
+        "2000": 1
+      },
+      {
+        "1998": 4
+      },
+      {
+        "1997": 1
+      },
+      {
+        "1996": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2021 08 17",
+    "published_date": "1993-04-15",
+    "pmid": "8475065",
+    "journal": "Journal of the American Heart Association",
+    "openalex": "https://openalex.org/W2022848524",
+    "total_citations": 50,
+    "publication_year": 1993,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 1
+      },
+      {
+        "2019": 2
+      },
+      {
+        "2018": 2
+      },
+      {
+        "2017": 2
+      },
+      {
+        "2016": 1
+      },
+      {
+        "2015": 2
+      },
+      {
+        "2014": 1
+      },
+      {
+        "2013": 4
+      },
+      {
+        "2011": 1
+      },
+      {
+        "2009": 1
+      },
+      {
+        "2008": 2
+      },
+      {
+        "2007": 4
+      },
+      {
+        "2006": 3
+      },
+      {
+        "2005": 2
+      },
+      {
+        "2004": 5
+      },
+      {
+        "2003": 4
+      },
+      {
+        "2002": 1
+      },
+      {
+        "2001": 2
+      },
+      {
+        "2000": 1
+      },
+      {
+        "1999": 3
+      },
+      {
+        "1996": 3
+      },
+      {
+        "1994": 1
+      },
+      {
+        "1993": 2
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2021 07 01",
+    "published_date": "1993-01-01",
+    "pmid": "8424676",
+    "journal": "American journal of physiology. Cell physiology",
+    "openalex": "https://openalex.org/W2096289625",
+    "total_citations": 3,
+    "publication_year": 1993,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "1999": 1
+      },
+      {
+        "1995": 1
+      },
+      {
+        "1994": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2021 08 13",
+    "published_date": "1993-09-01",
+    "pmid": "8370708",
+    "journal": "Science (New York, N.Y.)",
+    "openalex": "https://openalex.org/W1979781546",
+    "total_citations": 30,
+    "publication_year": 1993,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2013": 1
+      },
+      {
+        "2012": 2
+      },
+      {
+        "2011": 1
+      },
+      {
+        "2010": 1
+      },
+      {
+        "2006": 1
+      },
+      {
+        "2004": 3
+      },
+      {
+        "2002": 1
+      },
+      {
+        "2001": 1
+      },
+      {
+        "1999": 3
+      },
+      {
+        "1998": 7
+      },
+      {
+        "1997": 2
+      },
+      {
+        "1996": 3
+      },
+      {
+        "1995": 3
+      },
+      {
+        "1994": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2021 06 09",
+    "published_date": "1994-05-01",
+    "pmid": "8190306",
+    "journal": "Nature communications",
+    "openalex": "https://openalex.org/W2069275960",
+    "total_citations": 78,
+    "publication_year": 1994,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 3
+      },
+      {
+        "2020": 2
+      },
+      {
+        "2019": 1
+      },
+      {
+        "2018": 3
+      },
+      {
+        "2017": 3
+      },
+      {
+        "2016": 7
+      },
+      {
+        "2015": 2
+      },
+      {
+        "2014": 14
+      },
+      {
+        "2013": 1
+      },
+      {
+        "2012": 5
+      },
+      {
+        "2011": 1
+      },
+      {
+        "2010": 3
+      },
+      {
+        "2009": 5
+      },
+      {
+        "2008": 3
+      },
+      {
+        "2007": 2
+      },
+      {
+        "2006": 2
+      },
+      {
+        "2005": 3
+      },
+      {
+        "2004": 3
+      },
+      {
+        "2003": 4
+      },
+      {
+        "2001": 4
+      },
+      {
+        "2000": 3
+      },
+      {
+        "1998": 2
+      },
+      {
+        "1996": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2021 10",
+    "published_date": "1994-05-01",
+    "pmid": "8089030",
+    "journal": "Annals of epidemiology",
+    "openalex": "https://openalex.org/W1985222930",
+    "total_citations": 3,
+    "publication_year": 1994,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "1997": 2
+      },
+      {
+        "1996": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2021 04 22",
+    "published_date": "1994-05-01",
+    "pmid": "8063090",
+    "journal": "Blood",
+    "openalex": "https://openalex.org/W2078473411",
+    "total_citations": 3,
+    "publication_year": 1994,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2012": 1
+      },
+      {
+        "1998": 1
+      },
+      {
+        "1997": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2021 02 01",
+    "published_date": "1994-11-17",
+    "pmid": "7948008",
+    "journal": "American journal of physiology. Cell physiology",
+    "openalex": "https://openalex.org/W1994920684",
+    "total_citations": 14,
+    "publication_year": 1994,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2019": 1
+      },
+      {
+        "2006": 3
+      },
+      {
+        "2001": 2
+      },
+      {
+        "2000": 1
+      },
+      {
+        "1999": 3
+      },
+      {
+        "1998": 1
+      },
+      {
+        "1996": 2
+      },
+      {
+        "1995": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2021 03",
+    "published_date": "1994-08-20",
+    "pmid": "7931802",
+    "journal": "Physiological reports",
+    "openalex": "https://openalex.org/W2332443186",
+    "total_citations": 0,
+    "publication_year": 1994,
+    "is_open_access": true,
+    "citation_counts_by_year": []
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2020 12",
+    "published_date": "1995-03-01",
+    "pmid": "7774824",
+    "journal": "The Journal of physiology",
+    "openalex": "https://openalex.org/W2169985427",
+    "total_citations": 43,
+    "publication_year": 1995,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2020": 1
+      },
+      {
+        "2019": 1
+      },
+      {
+        "2016": 2
+      },
+      {
+        "2015": 4
+      },
+      {
+        "2014": 2
+      },
+      {
+        "2013": 1
+      },
+      {
+        "2012": 6
+      },
+      {
+        "2011": 2
+      },
+      {
+        "2010": 1
+      },
+      {
+        "2009": 2
+      },
+      {
+        "2007": 2
+      },
+      {
+        "2006": 2
+      },
+      {
+        "2005": 5
+      },
+      {
+        "2004": 2
+      },
+      {
+        "2003": 1
+      },
+      {
+        "2002": 2
+      },
+      {
+        "2001": 4
+      },
+      {
+        "2000": 1
+      },
+      {
+        "1998": 1
+      },
+      {
+        "1997": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2020 09 29",
+    "published_date": "1995-01-01",
+    "pmid": "7540920",
+    "journal": "Journal of the American College of Cardiology",
+    "openalex": "https://openalex.org/W2080641611",
+    "total_citations": 1,
+    "publication_year": 1995,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2006": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2020 09",
+    "published_date": "1995-10-24",
+    "pmid": "7479806",
+    "journal": "The Journal of physiology",
+    "openalex": "https://openalex.org/W2051350553",
+    "total_citations": 2,
+    "publication_year": 1995,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2000": 1
+      },
+      {
+        "1998": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2020 08 25",
+    "published_date": "1980-11-01",
+    "pmid": "7456122",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "openalex": "https://openalex.org/W36326630",
+    "total_citations": 3,
+    "publication_year": 1980,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2020": 1
+      },
+      {
+        "1990": 1
+      },
+      {
+        "1983": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2018 12",
+    "published_date": "1980-08-19",
+    "pmid": "6250583",
+    "journal": "Current heart failure reports",
+    "openalex": "https://openalex.org/W1983041459",
+    "total_citations": 277,
+    "publication_year": 1980,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2021": 7
+      },
+      {
+        "2020": 3
+      },
+      {
+        "2019": 2
+      },
+      {
+        "2018": 5
+      },
+      {
+        "2017": 8
+      },
+      {
+        "2016": 2
+      },
+      {
+        "2015": 7
+      },
+      {
+        "2014": 5
+      },
+      {
+        "2013": 3
+      },
+      {
+        "2012": 3
+      },
+      {
+        "2011": 8
+      },
+      {
+        "2010": 2
+      },
+      {
+        "2009": 1
+      },
+      {
+        "2008": 7
+      },
+      {
+        "2007": 7
+      },
+      {
+        "2006": 2
+      },
+      {
+        "2005": 2
+      },
+      {
+        "2004": 5
+      },
+      {
+        "2003": 2
+      },
+      {
+        "2002": 6
+      },
+      {
+        "2001": 3
+      },
+      {
+        "2000": 7
+      },
+      {
+        "1999": 1
+      },
+      {
+        "1998": 5
+      },
+      {
+        "1997": 7
+      },
+      {
+        "1996": 6
+      },
+      {
+        "1995": 8
+      },
+      {
+        "1994": 9
+      },
+      {
+        "1993": 8
+      },
+      {
+        "1992": 10
+      },
+      {
+        "1991": 8
+      },
+      {
+        "1990": 15
+      },
+      {
+        "1989": 8
+      },
+      {
+        "1988": 7
+      },
+      {
+        "1987": 9
+      },
+      {
+        "1986": 15
+      },
+      {
+        "1985": 10
+      },
+      {
+        "1984": 14
+      },
+      {
+        "1983": 16
+      },
+      {
+        "1982": 15
+      },
+      {
+        "1981": 8
+      },
+      {
+        "1980": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2018 09 28",
+    "published_date": "1984-02-10",
+    "pmid": "6197482",
+    "journal": "Science (New York, N.Y.)",
+    "openalex": "https://openalex.org/W2043938429",
+    "total_citations": 24,
+    "publication_year": 1984,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2015": 1
+      },
+      {
+        "2001": 1
+      },
+      {
+        "1996": 2
+      },
+      {
+        "1994": 1
+      },
+      {
+        "1992": 2
+      },
+      {
+        "1991": 1
+      },
+      {
+        "1990": 1
+      },
+      {
+        "1989": 2
+      },
+      {
+        "1988": 1
+      },
+      {
+        "1987": 2
+      },
+      {
+        "1986": 4
+      },
+      {
+        "1985": 5
+      },
+      {
+        "1983": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2018 09",
+    "published_date": "1981-12-01",
+    "pmid": "6119105",
+    "journal": "Nature genetics",
+    "openalex": "https://openalex.org/W1983509724",
+    "total_citations": 3,
+    "publication_year": 1981,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "1984": 2
+      },
+      {
+        "1983": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2018 Apr",
+    "published_date": "1967-03-01",
+    "pmid": "6059349",
+    "journal": "JACC. Basic to translational science",
+    "openalex": "https://openalex.org/W2078528934",
+    "total_citations": 16,
+    "publication_year": 1967,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2021": 1
+      },
+      {
+        "2020": 1
+      },
+      {
+        "2019": 2
+      },
+      {
+        "2018": 2
+      },
+      {
+        "2017": 1
+      },
+      {
+        "2015": 1
+      },
+      {
+        "2013": 1
+      },
+      {
+        "2011": 1
+      },
+      {
+        "2008": 1
+      },
+      {
+        "1987": 1
+      },
+      {
+        "1983": 1
+      },
+      {
+        "1982": 1
+      },
+      {
+        "1975": 1
+      },
+      {
+        "1968": 1
+      }
+    ]
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2018 07",
+    "published_date": "1966-06-10",
+    "pmid": "6007084",
+    "journal": "Redox biology",
+    "openalex": "https://openalex.org/W2406199888",
+    "total_citations": 0,
+    "publication_year": 1966,
+    "is_open_access": true,
+    "citation_counts_by_year": []
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2017 08 16",
+    "published_date": "1971-07-01",
+    "pmid": "5559603",
+    "journal": "Nature communications",
+    "openalex": "https://openalex.org/W1974871280",
+    "total_citations": 13,
+    "publication_year": 1971,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2008": 1
+      },
+      {
+        "1994": 1
+      },
+      {
+        "1987": 2
+      },
+      {
+        "1983": 2
+      },
+      {
+        "1981": 1
+      },
+      {
+        "1980": 1
+      },
+      {
+        "1979": 1
+      },
+      {
+        "1976": 3
+      },
+      {
+        "1973": 1
+      }
+    ]
+  }
+]

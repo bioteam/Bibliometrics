@@ -1,6 +1,5 @@
 .R*
 .DS_Store
-*.json
 *.log
 *.Rproj
 .Rproj.user

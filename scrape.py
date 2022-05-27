@@ -150,7 +150,7 @@ def run(url):
 if __name__ == "__main__":
     print("[INFO] Starting")
     TARGET_PROGRAMS = [
-        # "Genotype-Tissue Expression (GTEx)", # September 2010
+        "Genotype-Tissue Expression (GTEx)",  # September 2010
         "Human Microbiome Project",  # 2007 for part 1, then 2014 again
         "Library of Integrated Network-Based Cellular Signatures (LINCS)",  # 2010 pilot, now on 2014 phase. has a very nice publication filter https://lincsproject.org/LINCS/publications
         "Metabolomics",
