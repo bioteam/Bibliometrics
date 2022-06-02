@@ -4,9 +4,9 @@
 The CFDE DCCs are tasked with creating FAIR datasets that will be used by the scientific community. One method of assessing the "value" of a dataset is by measuring the number of times that dataset or DCC has been cited in the literature compared to similar non-CFDE funded datasets or repositories. 
 Here, we explored the citations of CFDE DCC datasets over time, identifying highly cited DCCs and compared them to "similar" dataset repositories to paint a better picture of where CFDE DCC datasets stand in relation to others in the field. 
 
-## Identifying CFDE DCC Publications
+## DCC Flagship Publications
 
-CFDE DCCs typically provide instructions for data use, including a "flagship publication" that researchers are instructed to cite in any publications resulting from use of their data. For example, The 4D Nucleome project provides [data use guidelines](https://data.4dnucleome.org/) on the portal home page requesting researchers cite [*The 4D nucleome project*](https://www.nature.com/articles/nature23884). We consider these publications "Flagship Publications", because they introduce the DCCs goals, data types, and philosophies, but do not typically contain original research material. We use Flagship Publications as a primary guide to track citations of a particular DCC. Table 1 lists the Flagship Publications we identified for the CFDE DCCs[^flagship_note]( **NOTE IN PROGRESS**).
+CFDE DCCs typically provide instructions for data use, including a "Flagship Publication" that researchers are instructed to cite in any publications resulting from use of their data. For example, The 4D Nucleome project provides [data use guidelines](https://data.4dnucleome.org/) on the portal home page requesting researchers cite [*The 4D nucleome project*](https://www.nature.com/articles/nature23884). We consider these publications "Flagship Publications", because they introduce the DCCs goals, data types, and philosophies, but do not typically contain original research material. We use Flagship Publications as a primary guide to track citations of a particular DCC. Table 1 lists the Flagship Publications we identified for the CFDE DCCs[^flagship_note]( **NOTE IN PROGRESS**).
 
 
 | DCC                  | Flagship Publication Title                                                                                       | PMID     | Year Published | Direct Citations |
@@ -35,8 +35,6 @@ CFDE DCCs typically provide instructions for data use, including a "flagship pub
 [^flagship_note]: In some cases, we identified multiple Flagship Publications for DCCs (e.g. LINCS), and in others we could not identify a Flagship Publication based on our definition (e.g. IDG). In those cases, we used the closest approximations to a flagship publication (listed in Table 1, also see footnotes for individual entries). 
 
 
-## Building the primary dataset
-
 Tracking data DCC data usage via publications citing the Flagship Publication can provide an overview of data use, some flagship publications have only recently been published, while the datasets created by the consortium may have existed for significantly longer (e.g. Metabolomics **NICK PROVIDE CITATIONS FOR BOTH ROUNDS**). Additionally, some DCC datasets can be cited directly via DOI, for example in [SPARC](https://sparc.science/about/sparc-portal/6nqPLAgegexTuRSPsDi5nL/#publications-and-citations). Clicking the "Publications" link on the SPARC page provides a link to a PubMed search for [publications citing grants associated with SPARC](https://pubmed.ncbi.nlm.nih.gov/?term=(OD023873[gr])+OR+(OD023857[gr])+OR+(OD026580[gr])+OR+(OD025308[gr])+OR+(OD026545[gr])+OR+(TR002205[gr])+OR+(OD023854[gr])+OR+(OD025349[gr])+OR+(OD023848[gr])+OR+(OD025348[gr])+OR+(OD023850[gr])+OR+(NS113868[gr])+OR+(OD028183[gr])+OR+(OD023864[gr])+OR+(NS113873[gr])+OR+(OD028203[gr])+OR+(OD023872[gr])+OR+(OD023852[gr])+OR+(OD028191[gr])+OR+(OD024907[gr])+OR+(OD023847[gr])+OR+(DK116320[gr])+OR+(OD028201[gr])+OR+(OD026539[gr])+OR+(OD026577[gr])+OR+(OD023859[gr])+OR+(OD024899[gr])+OR+(OD025297[gr])+OR+(OD025307[gr])+OR+(TR002208[gr])+OR+(OD028190[gr])+OR+(OD024909[gr])+OR+(OD025306[gr])+OR+(DK116317[gr])+OR+(OD024898[gr])+OR+(OD023861[gr])+OR+(OD023871[gr])+OR+(DK116312[gr])+OR+(OD024912[gr])+OR+(OD025340[gr])+OR+(NS113869[gr])+OR+(OD026585[gr])+OR+(OD023860[gr])+OR+(OD025342[gr])+OR+(DK116311[gr])+OR+(OD026582[gr])+OR+(OD023867[gr])+OR+(OD023853[gr])+OR+(OD025347[gr])+OR+(OD024908[gr])+OR+(NS113871[gr])+OR+(NS113867[gr])+OR+(EB021716[gr])+OR+(EB021760[gr])+OR+(EB021780[gr])+OR+(EB021799[gr])+OR+(TR001925[gr])+OR+(18017[gr])+OR+(EB021787[gr])+OR+(EB021792[gr])+OR+(EB021759[gr])+OR+(EB021772[gr])+OR+(EB021793[gr])+OR+(TR001926[gr])+OR+(EB021790[gr])+OR+(TR001920[gr])+OR+(EB021877[gr])+OR+(OD023849[gr])+OR+(EB021789[gr])&sort=), revealing more publications that may have been missed by a cursory search by the flagship publications listed in Table 1. 
 
 The CFDE website also provides an automatically updated list of [publications for each DCC](https://commonfund.nih.gov/publications?pid=0), updated monthly.
@@ -50,6 +48,13 @@ We performed all keyword searches using the `[Text Word]` filter (e.g. `LINCS[Te
 
 Data was then processed to remove duplicate citations within a DCC (e.g. if a publication cited both the Flagship Publication and used the DCC name in the text, it would only be counted once), and analyzed the citation data in the following sections. 
 
+## Building the Primary Citation Dataset
+
+All searches and data processing steps are written as Python and R scripts that can be re-run at will to update the citation dataset used in this section. Citation results will change as time goes on, and this analysis can be re-run periodically to obtain updated results. 
+
+To build the full dataset and re-run the analysis, run:
+
+**TODO** Add script run instructions. Create Docker container to run all analysis in a reproducible manner. Can set up periodic updates on cloud if they want to keep the analysis as a dashboard. 
 
 # TODO Section on primary citations
 
