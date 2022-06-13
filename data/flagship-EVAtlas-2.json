@@ -1,0 +1,50 @@
+[
+  {
+    "flagship_pmid": "34387689",
+    "program": "EVAtlas",
+    "pmid": "35326397",
+    "openalex": "https://openalex.org/W4220652836",
+    "publication_title": "Noncoding RNAs of Extracellular Vesicles in Tumor Angiogenesis: From Biological Functions to Clinical Significance",
+    "published_date": "2022-03-10",
+    "publication_year": 2022,
+    "journal": "Cells",
+    "total_citations": 0,
+    "is_open_access": true
+  },
+  {
+    "flagship_pmid": "34387689",
+    "program": "EVAtlas",
+    "pmid": "",
+    "openalex": "https://openalex.org/W3216893499",
+    "publication_title": "Exosomal miRNAs and lncRNAs: The Modulator Keys of Cancer-Associated Fibroblasts in the Genesis and Progression of Malignant Neoplasms",
+    "published_date": "2021-11-29",
+    "publication_year": 2021,
+    "journal": "Frontiers in Cell and Developmental Biology",
+    "total_citations": 0,
+    "is_open_access": true
+  },
+  {
+    "flagship_pmid": "34387689",
+    "program": "EVAtlas",
+    "pmid": "34918744",
+    "openalex": "https://openalex.org/W4200439253",
+    "publication_title": "exoRBase 2.0: an atlas of mRNA, lncRNA and circRNA in extracellular vesicles from human biofluids.",
+    "published_date": "2021-11-19",
+    "publication_year": 2021,
+    "journal": "Nucleic Acids Research",
+    "total_citations": 5,
+    "is_open_access": true
+  },
+  {
+    "flagship_pmid": "34387689",
+    "program": "EVAtlas",
+    "pmid": "34842804",
+    "openalex": "https://openalex.org/W3208601761",
+    "publication_title": "Advances in Non-Coding RNA Sequencing.",
+    "published_date": "2021-10-30",
+    "publication_year": 2021,
+    "journal": "Non-Coding RNA",
+    "total_citations": 0,
+    "is_open_access": true
+  }
+]
