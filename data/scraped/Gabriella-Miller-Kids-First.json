@@ -1,0 +1,612 @@
+[
+  {
+    "program": "Gabriella Miller Kids First",
+    "publication_title": "Cancer Informatics for Cancer Centers: Scientific Drivers for Informatics, Data Science, and Care in Pediatric, Adolescent, and Young Adult Cancer.",
+    "published_date": "2021-08-24",
+    "pmid": "34428097",
+    "journal": "JCO clinical cancer informatics",
+    "openalex": "https://openalex.org/W3194890103",
+    "total_citations": 1,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2021": 1
+      }
+    ]
+  },
+  {
+    "program": "Gabriella Miller Kids First",
+    "publication_title": "Immunogenomic determinants of tumor microenvironment correlate with superior survival in high-risk neuroblastoma",
+    "published_date": "2021-07-01",
+    "pmid": "34272305",
+    "journal": "J Immunother Cancer",
+    "openalex": "https://openalex.org/W3181403910",
+    "total_citations": 3,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 3
+      }
+    ]
+  },
+  {
+    "program": "Gabriella Miller Kids First",
+    "publication_title": "NTRK Fusions Identified in Pediatric Tumors: The Frequency, Fusion Partners, and Clinical Outcome.",
+    "published_date": "2021-01-14",
+    "pmid": "34036219",
+    "journal": "JCO precision oncology",
+    "openalex": "https://openalex.org/W3120665670",
+    "total_citations": 6,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 3
+      },
+      {
+        "2021": 6
+      }
+    ]
+  },
+  {
+    "program": "Gabriella Miller Kids First",
+    "publication_title": "A Survey of Compound Heterozygous Variants in Pediatric Cancers and Structural Birth Defects",
+    "published_date": "2021-03-22",
+    "pmid": "33828584",
+    "journal": "Front Genetics",
+    "openalex": "https://openalex.org/W3137339592",
+    "total_citations": 1,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 1
+      }
+    ]
+  },
+  {
+    "program": "Gabriella Miller Kids First",
+    "publication_title": "Genomic characterization of a PPP1CB-ALK fusion with fusion gene amplification in a congenital glioblastoma.",
+    "published_date": "2021-04-01",
+    "pmid": "33341678",
+    "journal": "Cancer genetics",
+    "openalex": "https://openalex.org/W3112636249",
+    "total_citations": 3,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 2
+      }
+    ]
+  },
+  {
+    "program": "Gabriella Miller Kids First",
+    "publication_title": "Deep whole-genome sequencing of multiple proband tissues and parental blood reveals the complex genetic etiology of congenital diaphragmatic hernias",
+    "published_date": "2020-10-22",
+    "pmid": "33263113",
+    "journal": "Human Genetics and Genomics Advances",
+    "openalex": "https://openalex.org/W3080354035",
+    "total_citations": 2,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 2
+      }
+    ]
+  },
+  {
+    "program": "Gabriella Miller Kids First",
+    "publication_title": "Integrated Proteogenomic Characterization across Major Histological Types of Pediatric Brain Cancer",
+    "published_date": "2020-12-23",
+    "pmid": "33242424",
+    "journal": "Cell",
+    "openalex": "https://openalex.org/W3108158555",
+    "total_citations": 39,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 14
+      },
+      {
+        "2021": 29
+      }
+    ]
+  },
+  {
+    "program": "Gabriella Miller Kids First",
+    "publication_title": "Likely damaging de novo variants in congenital diaphragmatic hernia patients are associated with worse clinical outcomes",
+    "published_date": "2020-07-28",
+    "pmid": "32719394",
+    "journal": "Genetics in Medicine",
+    "openalex": "https://openalex.org/W3044603230",
+    "total_citations": 10,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 7
+      },
+      {
+        "2020": 2
+      }
+    ]
+  },
+  {
+    "program": "Gabriella Miller Kids First",
+    "publication_title": "Genomic analyses implicate noncoding de novo variants in congenital heart disease",
+    "published_date": "2020-08-01",
+    "pmid": "32601476",
+    "journal": "Nature Genetics",
+    "openalex": "https://openalex.org/W3037530452",
+    "total_citations": 36,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 5
+      },
+      {
+        "2021": 31
+      },
+      {
+        "2020": 3
+      }
+    ]
+  },
+  {
+    "program": "Gabriella Miller Kids First",
+    "publication_title": "Genome-wide Enrichment of De Novo Coding Mutations in Orofacial Cleft Trios",
+    "published_date": "2020-07-02",
+    "pmid": "32574564",
+    "journal": "American journal of human genetics.",
+    "openalex": "https://openalex.org/W3035795654",
+    "total_citations": 9,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 3
+      },
+      {
+        "2021": 4
+      },
+      {
+        "2020": 2
+      }
+    ]
+  },
+  {
+    "program": "Gabriella Miller Kids First",
+    "publication_title": "A germline PALB2 pathogenic variant identified in a pediatric high-grade glioma.",
+    "published_date": "2020-08-25",
+    "pmid": "32554798",
+    "journal": "Cold Spring Harbor molecular case studies.",
+    "openalex": "https://openalex.org/W3035897188",
+    "total_citations": 1,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 1
+      }
+    ]
+  },
+  {
+    "program": "Gabriella Miller Kids First",
+    "publication_title": "Elucidation of de novo small insertion/deletion biology with parent-of-origin phasing.",
+    "published_date": "2020-01-03",
+    "pmid": "31898844",
+    "journal": "Human mutation.",
+    "openalex": "https://openalex.org/W2996849075",
+    "total_citations": 2,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 1
+      },
+      {
+        "2020": 1
+      }
+    ]
+  },
+  {
+    "program": "Gabriella Miller Kids First",
+    "publication_title": "Whole genome sequencing of orofacial cleft trios from the Gabriella Miller Kids First Pediatric Research Consortium identifies a new locus on chromosome 21",
+    "published_date": "2020-02-01",
+    "pmid": "31848685",
+    "journal": "Human genetics.",
+    "openalex": "https://openalex.org/W2995937822",
+    "total_citations": 9,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 4
+      },
+      {
+        "2020": 4
+      }
+    ]
+  },
+  {
+    "program": "Gabriella Miller Kids First",
+    "publication_title": "Germline microsatellite genotypes differentiate children with medulloblastoma.",
+    "published_date": "2020-01-11",
+    "pmid": "31562520",
+    "journal": "Neuro-oncology.",
+    "openalex": "https://openalex.org/W2975390373",
+    "total_citations": 2,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 1
+      },
+      {
+        "2020": 1
+      }
+    ]
+  },
+  {
+    "program": "Gabriella Miller Kids First",
+    "publication_title": "Germline 16p11.2 Microdeletion Predisposes to Neuroblastoma.",
+    "published_date": "2019-09-05",
+    "pmid": "31474320",
+    "journal": "American journal of human genetics.",
+    "openalex": "https://openalex.org/W2970446624",
+    "total_citations": 13,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 5
+      },
+      {
+        "2020": 8
+      }
+    ]
+  },
+  {
+    "program": "Gabriella Miller Kids First",
+    "publication_title": "MAGEL2-Related Disorders: A study and case series.",
+    "published_date": "2019-08-22",
+    "pmid": "31397880",
+    "journal": "Clinical genetics.",
+    "openalex": "https://openalex.org/W2968210574",
+    "total_citations": 11,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 6
+      },
+      {
+        "2020": 3
+      },
+      {
+        "2019": 1
+      },
+      {
+        "2018": 1
+      }
+    ]
+  },
+  {
+    "program": "Gabriella Miller Kids First",
+    "publication_title": "Phenotype delineation of ZNF462 related syndrome.",
+    "published_date": "2019-10-01",
+    "pmid": "31361404",
+    "journal": "American journal of medical genetics. Part A.",
+    "openalex": "https://openalex.org/W2966556167",
+    "total_citations": 13,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 3
+      },
+      {
+        "2021": 5
+      },
+      {
+        "2020": 5
+      },
+      {
+        "2019": 1
+      }
+    ]
+  },
+  {
+    "program": "Gabriella Miller Kids First",
+    "publication_title": "Development and Clinical Validation of a Large Fusion Gene Panel for Pediatric Cancers.",
+    "published_date": "2019-09-01",
+    "pmid": "31255796",
+    "journal": "The Journal of molecular diagnostics : JMD.",
+    "openalex": "https://openalex.org/W2955237688",
+    "total_citations": 22,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 3
+      },
+      {
+        "2021": 14
+      },
+      {
+        "2020": 5
+      }
+    ]
+  },
+  {
+    "program": "Gabriella Miller Kids First",
+    "publication_title": "Decreased ACKR3 (CXCR7) function causes oculomotor synkinesis in mice and humans.",
+    "published_date": "2019-09-15",
+    "pmid": "31211835",
+    "journal": "Human molecular genetics.",
+    "openalex": "https://openalex.org/W2951866992",
+    "total_citations": 3,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2020": 2
+      },
+      {
+        "2018": 1
+      }
+    ]
+  },
+  {
+    "program": "Gabriella Miller Kids First",
+    "publication_title": "Deleterious de novo variants of X-linked ZC4H2 in females cause a variable phenotype with neurogenic arthrogryposis multiplex congenita.",
+    "published_date": "2019-12-01",
+    "pmid": "31206972",
+    "journal": "Human mutation.",
+    "openalex": "https://openalex.org/W2952177710",
+    "total_citations": 10,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 6
+      },
+      {
+        "2020": 4
+      }
+    ]
+  },
+  {
+    "program": "Gabriella Miller Kids First",
+    "publication_title": "The Pediatric Cell Atlas: Defining the Growth Phase of Human Development at Single-Cell Resolution.",
+    "published_date": "2019-04-08",
+    "pmid": "30930166",
+    "journal": "Developmental cell.",
+    "openalex": "https://openalex.org/W2928090978",
+    "total_citations": 40,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 3
+      },
+      {
+        "2021": 16
+      },
+      {
+        "2020": 17
+      },
+      {
+        "2019": 6
+      }
+    ]
+  },
+  {
+    "program": "Gabriella Miller Kids First",
+    "publication_title": "ORE identifies extreme expression effects enriched for rare variants.",
+    "published_date": "2019-10-15",
+    "pmid": "30903145",
+    "journal": "Bioinformatics (Oxford, England).",
+    "openalex": "https://openalex.org/W2940517989",
+    "total_citations": 2,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 1
+      },
+      {
+        "2020": 1
+      }
+    ]
+  },
+  {
+    "program": "Gabriella Miller Kids First",
+    "publication_title": "De novo variants in congenital diaphragmatic hernia identify MYRF as a new syndrome and reveal genetic overlaps with other developmental disorders",
+    "published_date": "2018-12-10",
+    "pmid": "30532227",
+    "journal": "PLoS genetics.",
+    "openalex": "https://openalex.org/W2905150311",
+    "total_citations": 50,
+    "publication_year": 2018,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 4
+      },
+      {
+        "2021": 24
+      },
+      {
+        "2020": 17
+      },
+      {
+        "2019": 7
+      }
+    ]
+  },
+  {
+    "program": "Gabriella Miller Kids First",
+    "publication_title": "MACF1 mutations encoding highly conserved zinc-binding residues of the GAR domain cause defects in neuronal migration and axon guidance.",
+    "published_date": "2018-12-06",
+    "pmid": "30471716",
+    "journal": "American journal of human genetics.",
+    "openalex": "https://openalex.org/W2900777844",
+    "total_citations": 31,
+    "publication_year": 2018,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 3
+      },
+      {
+        "2021": 17
+      },
+      {
+        "2020": 5
+      },
+      {
+        "2019": 6
+      },
+      {
+        "2018": 1
+      }
+    ]
+  },
+  {
+    "program": "Gabriella Miller Kids First",
+    "publication_title": "Clinically Relevant and Minimally Invasive Tumor Surveillance of Pediatric Diffuse Midline Gliomas Using Patient-Derived Liquid Biopsy.",
+    "published_date": "2018-12-01",
+    "pmid": "30322880",
+    "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research.",
+    "openalex": "https://openalex.org/W2897593242",
+    "total_citations": 56,
+    "publication_year": 2018,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 19
+      },
+      {
+        "2020": 22
+      },
+      {
+        "2019": 14
+      },
+      {
+        "2018": 1
+      }
+    ]
+  },
+  {
+    "program": "Gabriella Miller Kids First",
+    "publication_title": "Genome-wide association study identifies a susceptibility locus for comitant esotropia and suggests a parent-of-origin effect.",
+    "published_date": "2018-08-01",
+    "pmid": "30098192",
+    "journal": "Investigative ophthalmology & visual science.",
+    "openalex": "https://openalex.org/W2886421883",
+    "total_citations": 12,
+    "publication_year": 2018,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 3
+      },
+      {
+        "2021": 4
+      },
+      {
+        "2020": 5
+      },
+      {
+        "2019": 2
+      }
+    ]
+  },
+  {
+    "program": "Gabriella Miller Kids First",
+    "publication_title": "A multi-ethnic genome-wide association study identifies novel loci for non-syndromic cleft lip with or without cleft palate on 2p24.2, 17q23 and 19q13",
+    "published_date": "2016-03-30",
+    "pmid": "27033726",
+    "journal": "Hum Mol Genet",
+    "openalex": "https://openalex.org/W2322931078",
+    "total_citations": 127,
+    "publication_year": 2016,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 22
+      },
+      {
+        "2020": 21
+      },
+      {
+        "2019": 26
+      },
+      {
+        "2018": 34
+      },
+      {
+        "2017": 20
+      },
+      {
+        "2016": 2
+      }
+    ]
+  },
+  {
+    "program": "Gabriella Miller Kids First",
+    "publication_title": "A Genome-wide Association Study of Nonsyndromic Cleft Palate Identifies an Etiologic Missense Variant in GRHL3.",
+    "published_date": "2016-04-07",
+    "pmid": "27018472",
+    "journal": "Am J Hum Genet",
+    "openalex": "https://openalex.org/W2307675788",
+    "total_citations": 100,
+    "publication_year": 2016,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 19
+      },
+      {
+        "2020": 21
+      },
+      {
+        "2019": 13
+      },
+      {
+        "2018": 22
+      },
+      {
+        "2017": 22
+      },
+      {
+        "2016": 2
+      }
+    ]
+  }
+]

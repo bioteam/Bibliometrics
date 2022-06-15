@@ -1,0 +1,3360 @@
+[
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Molecular Mechanisms of Exercise and Healthspan.",
+    "published_date": "2022-03-03",
+    "pmid": "35269492",
+    "journal": "Cells",
+    "openalex": "https://openalex.org/W4214946132",
+    "total_citations": 0,
+    "publication_year": 2022,
+    "is_open_access": true,
+    "citation_counts_by_year": [],
+    "institute_name": null,
+    "institute_url": null,
+    "geo_country": null,
+    "geo_region": null,
+    "last_author_openalex": null,
+    "last_author_raw_affil_string": null,
+    "author_error": "Unhandled Exception: 'NoneType' object has no attribute 'replace'"
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "AMPK and the Adaptation to Exercise.",
+    "published_date": "2022-02-10",
+    "pmid": "35143330",
+    "journal": "Annual review of physiology",
+    "openalex": "https://openalex.org/W4211063119",
+    "total_citations": 0,
+    "publication_year": 2022,
+    "is_open_access": false,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A4211873216",
+    "last_author_raw_affil_string": "Departments of Medicine, Pharmacology, and Molecular Physiology and Biological Physics, University of Virginia School of Medicine, Charlottesville, Virginia, USA.",
+    "institute_name": "University of Virginia",
+    "institute_url": "https://api.openalex.org/I51556381",
+    "geo_country": "US",
+    "geo_region": "Virginia",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Body composition and cardiometabolic health across the menopause transition.",
+    "published_date": "2021-12-21",
+    "pmid": "34932890",
+    "journal": "Obesity (Silver Spring, Md.)",
+    "openalex": "https://openalex.org/W4200067424",
+    "total_citations": 0,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A637019354",
+    "last_author_raw_affil_string": "Division of Geriatric Medicine Department of MedicineUniversity of Colorado Anschutz Medical Campus  Aurora Colorado USA",
+    "institute_name": "University of Colorado Anschutz Medical Campus",
+    "institute_url": "https://api.openalex.org/I51713134",
+    "geo_country": "US",
+    "geo_region": "Colorado",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "A wrinkle in time: circadian biology in pulmonary vascular health and disease.",
+    "published_date": "2021-12-01",
+    "pmid": "34850650",
+    "journal": "American journal of physiology. Lung cellular and molecular physiology",
+    "openalex": "https://openalex.org/W3215589594",
+    "total_citations": 0,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A2002490840",
+    "last_author_raw_affil_string": "College of Medicine, University of Florida Gainesville, FL, United States.",
+    "institute_name": "University of Florida",
+    "institute_url": "https://api.openalex.org/I33213144",
+    "geo_country": "US",
+    "geo_region": "Florida",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Phenotypic Expression, Natural History, and Risk Stratification of Cardiomyopathy Caused by Filamin C Truncating Variants.",
+    "published_date": "2021-09-07",
+    "pmid": "34587765",
+    "journal": "Circulation",
+    "openalex": "https://openalex.org/W3203785709",
+    "total_citations": 3,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A163682253",
+    "last_author_raw_affil_string": "Cardiovascular Institute and Adult Medical Genetics Program, University of Colorado Anschutz Medical Campus, Aurora (S.G., S.N.C., J.J., E.E.S., S.T., M.R.G.T., L.M.).",
+    "institute_name": "University of Colorado Anschutz Medical Campus",
+    "institute_url": "https://api.openalex.org/I51713134",
+    "geo_country": "US",
+    "geo_region": "Colorado",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Energy compensation and adiposity in humans.",
+    "published_date": "2021-10-25",
+    "pmid": "34453886",
+    "journal": "Current biology : CB",
+    "openalex": "https://openalex.org/W3197305134",
+    "total_citations": 6,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 3
+      },
+      {
+        "2021": 3
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2130968869",
+    "last_author_raw_affil_string": null,
+    "institute_name": "Synthes",
+    "institute_url": "https://api.openalex.org/I61055869",
+    "geo_country": "US",
+    "geo_region": null,
+    "author_error": "Author https://api.openalex.org/A2130968869 missing affiliation node for https://api.openalex.org/W3197305134"
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Author Correction: Human plasma proteomic profiles indicative of cardiorespiratory fitness.",
+    "published_date": "2021-08-27",
+    "pmid": "34446928",
+    "journal": "Nature metabolism",
+    "openalex": "https://openalex.org/W3196258482",
+    "total_citations": 0,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A174678796",
+    "last_author_raw_affil_string": "Broad Institute of MIT and Harvard, Cambridge, MA, USA. rgerszte@bidmc.harvard.edu.",
+    "institute_name": "Beth Israel Deaconess Medical Center",
+    "institute_url": "https://api.openalex.org/I1316535847",
+    "geo_country": "US",
+    "geo_region": "Massachusetts",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Human Adipose and Skeletal Muscle Tissue DNA, RNA, and Protein Content.",
+    "published_date": "2021-08-26",
+    "pmid": "34435508",
+    "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+    "openalex": "https://openalex.org/W3195716951",
+    "total_citations": 0,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A2013408222",
+    "last_author_raw_affil_string": "Human Performance Laboratory, Ball State University, Muncie Indiana",
+    "institute_name": "Ball State University",
+    "institute_url": "https://api.openalex.org/I198089087",
+    "geo_country": "US",
+    "geo_region": "Indiana",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Daily energy expenditure through the human life course.",
+    "published_date": "2021-08-13",
+    "pmid": "34385400",
+    "journal": "Science (New York, N.Y.)",
+    "openalex": "https://openalex.org/W3183815414",
+    "total_citations": 25,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 14
+      },
+      {
+        "2021": 13
+      },
+      {
+        "2020": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2130968869",
+    "last_author_raw_affil_string": null,
+    "institute_name": "Synthes",
+    "institute_url": "https://api.openalex.org/I61055869",
+    "geo_country": "US",
+    "geo_region": null,
+    "author_error": "Author https://api.openalex.org/A2130968869 missing affiliation node for https://api.openalex.org/W3183815414"
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Pyruvate Kinase M2 Supports Muscle Progenitor Cell Proliferation but Is Dispensable for Skeletal Muscle Regeneration after Injury.",
+    "published_date": "2021-11-02",
+    "pmid": "34383048",
+    "journal": "The Journal of nutrition",
+    "openalex": "https://openalex.org/W3191642722",
+    "total_citations": 0,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A227078095",
+    "last_author_raw_affil_string": "Department of Cell, Developmental and Integrative Biology, University of Alabama at Birmingham, Birmingham, AL, USA.",
+    "institute_name": "Cornell University",
+    "institute_url": "https://api.openalex.org/I205783295",
+    "geo_country": "US",
+    "geo_region": "New York",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Research Priorities in the Secondary Prevention of Atrial Fibrillation: A National Heart, Lung, and Blood Institute Virtual Workshop Report.",
+    "published_date": "2021-08-17",
+    "pmid": "34351783",
+    "journal": "Journal of the American Heart Association",
+    "openalex": "https://openalex.org/W3192592192",
+    "total_citations": 1,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2160223120",
+    "last_author_raw_affil_string": "Division of Research Kaiser Permanente Northern California Oakland CA.",
+    "institute_name": "Kaiser Permanente",
+    "institute_url": "https://api.openalex.org/I1343052199",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "A micromachined force sensing apparatus and method for human engineered cardiac tissue and induced pluripotent stem cell characterization.",
+    "published_date": "2021-11-01",
+    "pmid": "34305317",
+    "journal": "Sensors and actuators. A, Physical",
+    "openalex": "https://openalex.org/W3172307239",
+    "total_citations": 0,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A111143257",
+    "last_author_raw_affil_string": "Icahn School of Medicine at Mount Sinai, New York, NY 10029, United States",
+    "institute_name": "Icahn School of Medicine at Mount Sinai",
+    "institute_url": "https://api.openalex.org/I98704320",
+    "geo_country": "US",
+    "geo_region": "New York",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Resin-Assisted Capture Coupled with Isobaric Tandem Mass Tag Labeling for Multiplexed Quantification of Protein Thiol Oxidation.",
+    "published_date": "2021-06-21",
+    "pmid": "34223836",
+    "journal": "Journal of visualized experiments : JoVE",
+    "openalex": "https://openalex.org/W3173390725",
+    "total_citations": 1,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2021": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2551911013",
+    "last_author_raw_affil_string": "Integrative Omics, Biological Sciences Division, Pacific Northwest National Laboratory;",
+    "institute_name": "Pacific Northwest National Laboratory",
+    "institute_url": "https://api.openalex.org/I142606810",
+    "geo_country": "US",
+    "geo_region": "Washington",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Nonsense-mediated decay is highly stable across individuals and tissues.",
+    "published_date": "2021-08-05",
+    "pmid": "34216550",
+    "journal": "American journal of human genetics",
+    "openalex": "https://openalex.org/W3177303035",
+    "total_citations": 3,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 3
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2145675469",
+    "last_author_raw_affil_string": "Department of Pathology, School of Medicine, Stanford University, Stanford, CA 94305, USA",
+    "institute_name": "Stanford University",
+    "institute_url": "https://api.openalex.org/I97018004",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Time trajectories in the transcriptomic response to exercise - a meta-analysis.",
+    "published_date": "2021-06-09",
+    "pmid": "34108459",
+    "journal": "Nature communications",
+    "openalex": "https://openalex.org/W3168414855",
+    "total_citations": 8,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 7
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A1990520733",
+    "last_author_raw_affil_string": "Center for Inherited Cardiovascular Disease, School of Medicine, Stanford University, Stanford, CA, USA. euan@stanford.edu.",
+    "institute_name": "Stanford University",
+    "institute_url": "https://api.openalex.org/I97018004",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Assessment of TMT Labeling Efficiency in Large-Scale Quantitative Proteomics: The Critical Effect of Sample pH.",
+    "published_date": "2021-05-06",
+    "pmid": "34056417",
+    "journal": "ACS omega",
+    "openalex": "https://openalex.org/W3158950632",
+    "total_citations": 0,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A2080329924",
+    "last_author_raw_affil_string": "Biological Sciences Division, Pacific Northwest National Laboratory, Richland, Washington 99352 United States",
+    "institute_name": "Pacific Northwest National Laboratory",
+    "institute_url": "https://api.openalex.org/I142606810",
+    "geo_country": "US",
+    "geo_region": "Washington",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Human plasma proteomic profiles indicative of cardiorespiratory fitness.",
+    "published_date": "2021-05-27",
+    "pmid": "34045743",
+    "journal": "Nature metabolism",
+    "openalex": "https://openalex.org/W3165518547",
+    "total_citations": 2,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 2
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A174678796",
+    "last_author_raw_affil_string": "Broad Institute of MIT and Harvard, Cambridge, USA",
+    "institute_name": "Beth Israel Deaconess Medical Center",
+    "institute_url": "https://api.openalex.org/I1316535847",
+    "geo_country": "US",
+    "geo_region": "Massachusetts",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Rapid report on using data to make standardized decisions about enrollment during the COVID-19 pandemic: perspectives from the MoTrPAC study.",
+    "published_date": "2021-05-03",
+    "pmid": "33957248",
+    "journal": "Annals of epidemiology",
+    "openalex": "https://openalex.org/W3157474674",
+    "total_citations": 0,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A306130497",
+    "last_author_raw_affil_string": "University of Pittsburgh, Healthy Lifestyle Institute, Pittsburgh, PA.",
+    "institute_name": "University of Pittsburgh",
+    "institute_url": "https://api.openalex.org/I170201317",
+    "geo_country": "US",
+    "geo_region": "Pennsylvania",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Mechanisms of exercise as a preventative measure to muscle wasting.",
+    "published_date": "2021-05-05",
+    "pmid": "33950699",
+    "journal": "American journal of physiology. Cell physiology",
+    "openalex": "https://openalex.org/W3158840951",
+    "total_citations": 3,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 3
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2196676719",
+    "last_author_raw_affil_string": "Florida Institute for Human and Machine Cognition, Pensacola, Florida.",
+    "institute_name": "Florida Institute for Human and Machine Cognition",
+    "institute_url": "https://api.openalex.org/I1335578998",
+    "geo_country": "US",
+    "geo_region": "Florida",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Muscle transcriptional networks linked to resistance exercise training hypertrophic response heterogeneity.",
+    "published_date": "2021-04-19",
+    "pmid": "33870722",
+    "journal": "Physiological genomics",
+    "openalex": "https://openalex.org/W3154863794",
+    "total_citations": 0,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A2196676719",
+    "last_author_raw_affil_string": "Department of Cell, Developmental, and Integrative Biology, University of Alabama at Birmingham, Birmingham, Alabama",
+    "institute_name": "Florida Institute for Human and Machine Cognition",
+    "institute_url": "https://api.openalex.org/I1335578998",
+    "geo_country": "US",
+    "geo_region": "Florida",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Cardiac Rehabilitation for Patients With Heart Failure: JACC Expert Panel.",
+    "published_date": "2021-03-23",
+    "pmid": "33736829",
+    "journal": "Journal of the American College of Cardiology",
+    "openalex": "https://openalex.org/W3138718115",
+    "total_citations": 16,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2022": 6
+      },
+      {
+        "2021": 10
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A3012667095",
+    "last_author_raw_affil_string": null,
+    "institute_name": null,
+    "institute_url": null,
+    "geo_country": null,
+    "geo_region": null,
+    "author_error": "Author https://api.openalex.org/A3012667095 missing affiliation node for https://api.openalex.org/W3138718115"
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Triboelectric Nanogenerator Ion Mobility-Mass Spectrometry for In-Depth Lipid Annotation.",
+    "published_date": "2021-03-15",
+    "pmid": "33720699",
+    "journal": "Analytical chemistry",
+    "openalex": "https://openalex.org/W3137886605",
+    "total_citations": 6,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 4
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2119118945",
+    "last_author_raw_affil_string": "School of Chemistry and Biochemistry, Georgia Institute of Technology, Atlanta, Georgia 30332, United States",
+    "institute_name": "Georgia Institute of Technology",
+    "institute_url": "https://api.openalex.org/I130701444",
+    "geo_country": "US",
+    "geo_region": "Georgia",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Influence of low-dose aspirin, resistance exercise, and sex on human skeletal muscle PGE2 /COX pathway activity.",
+    "published_date": "2021-03-01",
+    "pmid": "33661544",
+    "journal": "Physiological reports",
+    "openalex": "https://openalex.org/W3135654871",
+    "total_citations": 1,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A572719874",
+    "last_author_raw_affil_string": "Human Performance Laboratory, Ball State University, Muncie, IN, USA;",
+    "institute_name": "Ball State University",
+    "institute_url": "https://api.openalex.org/I198089087",
+    "geo_country": "US",
+    "geo_region": "Indiana",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "CBL mutations drive PI3K/AKT signaling via increased interaction with LYN and PIK3R1.",
+    "published_date": "2021-04-22",
+    "pmid": "33512474",
+    "journal": "Blood",
+    "openalex": "https://openalex.org/W3121090851",
+    "total_citations": 4,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 2
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2129249072",
+    "last_author_raw_affil_string": "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA.",
+    "institute_name": "Howard Hughes Medical Institute",
+    "institute_url": "https://api.openalex.org/I1344073410",
+    "geo_country": "US",
+    "geo_region": "Maryland",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Time of Day and Muscle Strength: A Circadian Output?",
+    "published_date": "2021-01-01",
+    "pmid": "33325817",
+    "journal": "Physiology (Bethesda, Md.)",
+    "openalex": "https://openalex.org/W3110707218",
+    "total_citations": 4,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2021": 4
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2002490840",
+    "last_author_raw_affil_string": "Department of Physiology and Functional Genomics, University of Florida, Gainesville, FloridaMyology Institute, University of Florida, Gainesville, Florida",
+    "institute_name": "University of Florida",
+    "institute_url": "https://api.openalex.org/I33213144",
+    "geo_country": "US",
+    "geo_region": "Florida",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Characterization of cellular oxidative stress response by stoichiometric redox proteomics.",
+    "published_date": "2021-02-01",
+    "pmid": "33264075",
+    "journal": "American journal of physiology. Cell physiology.",
+    "openalex": "https://openalex.org/W3107983660",
+    "total_citations": 7,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 7
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2551911013",
+    "last_author_raw_affil_string": "Integrative Omics, Biological Sciences Division, Pacific Northwest National Laboratory, Richland, Washington.",
+    "institute_name": "Pacific Northwest National Laboratory",
+    "institute_url": "https://api.openalex.org/I142606810",
+    "geo_country": "US",
+    "geo_region": "Washington",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Barriers in translating preclinical rodent exercise metabolism findings to human health.",
+    "published_date": "2021-01-01",
+    "pmid": "33180643",
+    "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+    "openalex": "https://openalex.org/W3098141554",
+    "total_citations": 4,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 3
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A983009460",
+    "last_author_raw_affil_string": "Department of Molecular and Integrative Physiology, University of Kansas Medical Center, Kansas City, Kansas.",
+    "institute_name": "University of Kansas",
+    "institute_url": "https://api.openalex.org/I146416000",
+    "geo_country": "US",
+    "geo_region": "Kansas",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "A Role for Exercise to Counter Skeletal Muscle Clock Disruption.",
+    "published_date": "2021-01-01",
+    "pmid": "33044328",
+    "journal": "Exercise and sport sciences reviews",
+    "openalex": "https://openalex.org/W3091906943",
+    "total_citations": 3,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2021": 3
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2210578181",
+    "last_author_raw_affil_string": "Pennington Biomedical Research Center/Louisiana State University, Baton Rouge, LA.",
+    "institute_name": "Louisiana State University",
+    "institute_url": "https://api.openalex.org/I121820613",
+    "geo_country": "US",
+    "geo_region": "Louisiana",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Cardiovascular Biomarkers and Imaging in Older Adults: JACC Council Perspectives.",
+    "published_date": "2020-09-29",
+    "pmid": "32972536",
+    "journal": "Journal of the American College of Cardiology.",
+    "openalex": "https://openalex.org/W3087158683",
+    "total_citations": 6,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 5
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2165226603",
+    "last_author_raw_affil_string": "Washington University School of Medicine,St Louis,Missouri",
+    "institute_name": "Washington University in St. Louis",
+    "institute_url": "https://api.openalex.org/I204465549",
+    "geo_country": "US",
+    "geo_region": "Missouri",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Exercise sets the muscle clock with a calcium assist.",
+    "published_date": "2020-09-28",
+    "pmid": "32949163",
+    "journal": "The Journal of physiology",
+    "openalex": "https://openalex.org/W3087043498",
+    "total_citations": 0,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A2002490840",
+    "last_author_raw_affil_string": "Myology Institute University of Florida  Gainesville FL USA",
+    "institute_name": "University of Florida",
+    "institute_url": "https://api.openalex.org/I33213144",
+    "geo_country": "US",
+    "geo_region": "Florida",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "DataRemix: a universal data transformation for optimal inference from gene expression datasets.",
+    "published_date": "2021-05-17",
+    "pmid": "32821903",
+    "journal": "Bioinformatics (Oxford, England)",
+    "openalex": "https://openalex.org/W3081204786",
+    "total_citations": 1,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2020": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2607905772",
+    "last_author_raw_affil_string": "Department of Computational and Systems Biology, School of Medicine, University of Pittsburgh, Pittsburgh, PA, 15260, USA",
+    "institute_name": "Carnegie Mellon University",
+    "institute_url": "https://api.openalex.org/I74973139",
+    "geo_country": "US",
+    "geo_region": "Pennsylvania",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Heterogeneous origins and functions of mouse skeletal muscle-resident macrophages.",
+    "published_date": "2020-08-25",
+    "pmid": "32796104",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America.",
+    "openalex": "https://openalex.org/W3049578589",
+    "total_citations": 9,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 8
+      },
+      {
+        "2020": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2711133901",
+    "last_author_raw_affil_string": "Boston Univ",
+    "institute_name": "Boston University",
+    "institute_url": "https://api.openalex.org/I111088046",
+    "geo_country": "US",
+    "geo_region": "Massachusetts",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Rehabilitative Impact of Exercise Training on Human Skeletal Muscle Transcriptional Programs in Parkinson's Disease.",
+    "published_date": "2020-06-17",
+    "pmid": "32625117",
+    "journal": "Frontiers in physiology.",
+    "openalex": "https://openalex.org/W3035403369",
+    "total_citations": 4,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 4
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2196676719",
+    "last_author_raw_affil_string": "Department of Cell, Developmental and Integrative Biology, School of Medicine, University of Alabama at Birmingham, Birmingham, AL, United States.",
+    "institute_name": "University of Alabama at Birmingham",
+    "institute_url": "https://api.openalex.org/I32389192",
+    "geo_country": "US",
+    "geo_region": "Alabama",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Molecular Transducers of Physical Activity Consortium (MoTrPAC): Mapping the Dynamic Responses to Exercise.",
+    "published_date": "2020-06-25",
+    "pmid": "32589957",
+    "journal": "Cell.",
+    "openalex": "https://openalex.org/W3037214432",
+    "total_citations": 40,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 5
+      },
+      {
+        "2021": 31
+      },
+      {
+        "2020": 9
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2002490840",
+    "last_author_raw_affil_string": null,
+    "institute_name": "University of Florida",
+    "institute_url": "https://api.openalex.org/I33213144",
+    "geo_country": "US",
+    "geo_region": "Florida",
+    "author_error": "Author https://api.openalex.org/A2002490840 missing affiliation node for https://api.openalex.org/W3037214432"
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Sedentary and Trained Older Men Have Distinct Circulating Exosomal microRNA Profiles at Baseline and in Response to Acute Exercise.",
+    "published_date": "2020-06-10",
+    "pmid": "32587527",
+    "journal": "Frontiers in physiology.",
+    "openalex": "https://openalex.org/W3034560398",
+    "total_citations": 16,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 14
+      },
+      {
+        "2020": 2
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A318666058",
+    "last_author_raw_affil_string": "Department of Neurology, Center for Advanced Research on Diagnostic Assays, Icahn School of Medicine at Mount Sinai, New York, NY, United States.",
+    "institute_name": "Icahn School of Medicine at Mount Sinai",
+    "institute_url": "https://api.openalex.org/I98704320",
+    "geo_country": "US",
+    "geo_region": "New York",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Time-of-day dependent effects of contractile activity on the phase of the skeletal muscle clock.",
+    "published_date": "2020-07-01",
+    "pmid": "32537739",
+    "journal": "The Journal of physiology.",
+    "openalex": "https://openalex.org/W3035212993",
+    "total_citations": 16,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 8
+      },
+      {
+        "2020": 7
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2002490840",
+    "last_author_raw_affil_string": "Myology Institute University of Florida 1200 Newell Drive Gainesville FL 32610 USA",
+    "institute_name": "University of Florida",
+    "institute_url": "https://api.openalex.org/I33213144",
+    "geo_country": "US",
+    "geo_region": "Florida",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "The COVID-19 MS Coalition-accelerating diagnostics, prognostics, and treatment.",
+    "published_date": "2020-06-06",
+    "pmid": "32473097",
+    "journal": "Lancet (London, England).",
+    "openalex": "https://openalex.org/W3029424699",
+    "total_citations": 40,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 20
+      },
+      {
+        "2020": 19
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A587527496",
+    "last_author_raw_affil_string": "University of Manchester",
+    "institute_name": "University of Manchester",
+    "institute_url": "https://api.openalex.org/I28407311",
+    "geo_country": "GB",
+    "geo_region": "Manchester",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Ticking for Metabolic Health: The Skeletal-Muscle Clocks.",
+    "published_date": "2020-05-28",
+    "pmid": "32468732",
+    "journal": "Obesity (Silver Spring, Md.).",
+    "openalex": "https://openalex.org/W3032205120",
+    "total_citations": 9,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 3
+      },
+      {
+        "2021": 4
+      },
+      {
+        "2020": 2
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2002490840",
+    "last_author_raw_affil_string": "Department of Physiology and Functional Genomics, University of Florida, Florida, USA.",
+    "institute_name": "University of Florida",
+    "institute_url": "https://api.openalex.org/I33213144",
+    "geo_country": "US",
+    "geo_region": "Florida",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Metabolomics and Proteomics in Type 2 Diabetes.",
+    "published_date": "2020-05-22",
+    "pmid": "32437301",
+    "journal": "Circulation research",
+    "openalex": "https://openalex.org/W3027408571",
+    "total_citations": 11,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 10
+      },
+      {
+        "2020": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A174678796",
+    "last_author_raw_affil_string": "Broad Institute of Harvard and MIT, Cambridge, MA (R.E.G.).",
+    "institute_name": "Beth Israel Deaconess Medical Center",
+    "institute_url": "https://api.openalex.org/I1316535847",
+    "geo_country": "US",
+    "geo_region": "Massachusetts",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Rapid and deep-scale ubiquitylation profiling for biology and translational research.",
+    "published_date": "2020-01-17",
+    "pmid": "31953384",
+    "journal": "Nature communications.",
+    "openalex": "https://openalex.org/W2999253180",
+    "total_citations": 39,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 6
+      },
+      {
+        "2021": 27
+      },
+      {
+        "2020": 9
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2098575743",
+    "last_author_raw_affil_string": "Broad Institute of MIT and Harvard, Cambridge,  USA",
+    "institute_name": "Broad Institute",
+    "institute_url": "https://api.openalex.org/I107606265",
+    "geo_country": "US",
+    "geo_region": "Massachusetts",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Cardiac Rehabilitation in Frail Older Adults With Cardiovascular Disease: A NEW DIAGNOSTIC AND TREATMENT PARADIGM.",
+    "published_date": "2020-03-01",
+    "pmid": "31939755",
+    "journal": "Journal of cardiopulmonary rehabilitation and prevention.",
+    "openalex": "https://openalex.org/W2999077224",
+    "total_citations": 8,
+    "publication_year": 2020,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 6
+      },
+      {
+        "2020": 2
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A1964974910",
+    "last_author_raw_affil_string": null,
+    "institute_name": "University of Pittsburgh",
+    "institute_url": "https://api.openalex.org/I170201317",
+    "geo_country": "US",
+    "geo_region": "Pennsylvania",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Exercise Timing and Circadian Rhythms.",
+    "published_date": "2019-08-01",
+    "pmid": "31938759",
+    "journal": "Current opinion in physiology.",
+    "openalex": "https://openalex.org/W2942242324",
+    "total_citations": 18,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 10
+      },
+      {
+        "2020": 6
+      },
+      {
+        "2019": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2002490840",
+    "last_author_raw_affil_string": "Myology Institute University of Florida 1200 Newell Drive Gainesville FL 32610 USA",
+    "institute_name": "University of Florida",
+    "institute_url": "https://api.openalex.org/I33213144",
+    "geo_country": "US",
+    "geo_region": "Florida",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Single-cell transcriptional profiles in human skeletal muscle.",
+    "published_date": "2020-01-14",
+    "pmid": "31937892",
+    "journal": "Scientific reports.",
+    "openalex": "https://openalex.org/W2999612022",
+    "total_citations": 57,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 6
+      },
+      {
+        "2021": 35
+      },
+      {
+        "2020": 19
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A318666058",
+    "last_author_raw_affil_string": "Department of Neurology, Icahn School of Medicine at Mount Sinai, New York, New York, USA",
+    "institute_name": "Icahn School of Medicine at Mount Sinai",
+    "institute_url": "https://api.openalex.org/I98704320",
+    "geo_country": "US",
+    "geo_region": "New York",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Metabolomics and adductomics of newborn bloodspots to retrospectively assess the early-life exposome.",
+    "published_date": "2020-04-01",
+    "pmid": "31913157",
+    "journal": "Current opinion in pediatrics.",
+    "openalex": "https://openalex.org/W2999164628",
+    "total_citations": 5,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 3
+      },
+      {
+        "2020": 1
+      },
+      {
+        "2019": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2145705313",
+    "last_author_raw_affil_string": "Department of Preventive Medicine, Feinberg School of Medicine, Northwestern University, Chicago, Illinois, USA;",
+    "institute_name": "Northwestern University",
+    "institute_url": "https://api.openalex.org/I111979921",
+    "geo_country": "US",
+    "geo_region": "Illinois",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Exercise preserves muscle mass and force in a prostate cancer mouse model.",
+    "published_date": "2019-11-12",
+    "pmid": "31908747",
+    "journal": "European journal of translational myology.",
+    "openalex": "https://openalex.org/W2989129462",
+    "total_citations": 9,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 4
+      },
+      {
+        "2020": 4
+      },
+      {
+        "2019": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A3213583063",
+    "last_author_raw_affil_string": "Department of Urology, School of Medicine, The University of Texas Health at San Antonio, San Antonio, TX, USA.",
+    "institute_name": "The University of Texas MD Anderson Cancer Center",
+    "institute_url": "https://api.openalex.org/I1343551460",
+    "geo_country": "US",
+    "geo_region": "Texas",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Nexrutine and exercise similarly prevent high grade prostate tumors in transgenic mouse model.",
+    "published_date": "2019-12-19",
+    "pmid": "31856170",
+    "journal": "PloS one.",
+    "openalex": "https://openalex.org/W2995828811",
+    "total_citations": 1,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A3180854164",
+    "last_author_raw_affil_string": "Mays Cancer Center at UT Health San Antonio, San Antonio, Texas, United States of America.",
+    "institute_name": "The University of Texas Health Science Center at San Antonio",
+    "institute_url": "https://api.openalex.org/I165951966",
+    "geo_country": "US",
+    "geo_region": "Texas",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Skeletal muscle transcriptional networks linked to type I myofiber grouping in Parkinson's disease.",
+    "published_date": "2020-02-01",
+    "pmid": "31829804",
+    "journal": "Journal of applied physiology (Bethesda, Md. : 1985).",
+    "openalex": "https://openalex.org/W2998582618",
+    "total_citations": 6,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 4
+      },
+      {
+        "2020": 1
+      },
+      {
+        "2018": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2196676719",
+    "last_author_raw_affil_string": "Department of Cell, Developmental, and Integrative Biology, University of Alabama at Birmingham, Birmingham, Alabama",
+    "institute_name": "University of Alabama at Birmingham",
+    "institute_url": "https://api.openalex.org/I32389192",
+    "geo_country": "US",
+    "geo_region": "Alabama",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "The importance of physical function as a clinical outcome: Assessment and enhancement.",
+    "published_date": "2020-02-01",
+    "pmid": "31825137",
+    "journal": "Clinical cardiology.",
+    "openalex": "https://openalex.org/W2996305950",
+    "total_citations": 12,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 9
+      },
+      {
+        "2020": 2
+      },
+      {
+        "2019": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A1964974910",
+    "last_author_raw_affil_string": "Professor of Medicine, University of Pittsburgh University of Pittsburgh Medical Center and VA Pittsburgh Healthcare System, Pittsburgh, Pennsylvania.",
+    "institute_name": "University of Pittsburgh",
+    "institute_url": "https://api.openalex.org/I170201317",
+    "geo_country": "US",
+    "geo_region": "Pennsylvania",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Impact of Age on Comorbidities and Outcomes in Heart Failure With Reduced Ejection Fraction.",
+    "published_date": "2019-12-01",
+    "pmid": "31779928",
+    "journal": "JACC. Heart failure.",
+    "openalex": "https://openalex.org/W2989593724",
+    "total_citations": 9,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 7
+      },
+      {
+        "2020": 1
+      },
+      {
+        "2019": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A1865851915",
+    "last_author_raw_affil_string": "Department of Medicine, Duke University School of Medicine, Durham, North Carolina; Duke Clinical Research Institute, Durham, North Carolina.",
+    "institute_name": "Duke University",
+    "institute_url": "https://api.openalex.org/I170897317",
+    "geo_country": "US",
+    "geo_region": "North Carolina",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Emerging Affinity Reagents for High Throughput Proteomics: Trust, but Verify.",
+    "published_date": "2019-11-12",
+    "pmid": "31710523",
+    "journal": "Circulation.",
+    "openalex": "https://openalex.org/W2989325095",
+    "total_citations": 8,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 3
+      },
+      {
+        "2021": 2
+      },
+      {
+        "2020": 3
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A174678796",
+    "last_author_raw_affil_string": "Division of Cardiovascular Medicine, Beth Israel Deaconess Medical Center, Boston, MA (M.D.B., D.N., R.E.G.).",
+    "institute_name": "Beth Israel Deaconess Medical Center",
+    "institute_url": "https://api.openalex.org/I1316535847",
+    "geo_country": "US",
+    "geo_region": "Massachusetts",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "International Ring Trial of a High Resolution Targeted Metabolomics and Lipidomics Platform for Serum and Plasma Analysis.",
+    "published_date": "2019-11-19",
+    "pmid": "31638379",
+    "journal": "Analytical chemistry.",
+    "openalex": "https://openalex.org/W2981692361",
+    "total_citations": 39,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 4
+      },
+      {
+        "2021": 24
+      },
+      {
+        "2020": 11
+      },
+      {
+        "2019": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2266002177",
+    "last_author_raw_affil_string": "Duke Proteomics and Metabolomics Shared Resource , Duke School of Medicine , 701 W. Main Street , Durham , North Carolina 27701 , United States.",
+    "institute_name": "Duke University",
+    "institute_url": "https://api.openalex.org/I170897317",
+    "geo_country": "US",
+    "geo_region": "North Carolina",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Cardiac Rehabilitation to Optimize Medication Regimens in Heart Failure.",
+    "published_date": "2019-06-21",
+    "pmid": "31543185",
+    "journal": "Clinics in geriatric medicine.",
+    "openalex": "https://openalex.org/W2950292159",
+    "total_citations": 4,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 1
+      },
+      {
+        "2020": 1
+      },
+      {
+        "2018": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A1964974910",
+    "last_author_raw_affil_string": "Section of Geriatric Cardiology, Cardiac Rehabilitation and GeroFit, VA Pittsburgh Healthcare System, University of Pittsburgh, 3471 Fifth Avenue, Suite 500, Kaufmann Medical Building, Pittsburgh, PA 15213, USA.",
+    "institute_name": "University of Pittsburgh",
+    "institute_url": "https://api.openalex.org/I170201317",
+    "geo_country": "US",
+    "geo_region": "Pennsylvania",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Never Too Old for Cardiac Rehabilitation.",
+    "published_date": "2019-07-02",
+    "pmid": "31543175",
+    "journal": "Clinics in geriatric medicine.",
+    "openalex": "https://openalex.org/W2953450490",
+    "total_citations": 10,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 3
+      },
+      {
+        "2021": 6
+      },
+      {
+        "2020": 2
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A1964974910",
+    "last_author_raw_affil_string": "Section of Geriatric Cardiology, Division of Geriatric Medicine, University of Pittsburgh Medical Center, 3471 Fifth Avenue, Suite 500, Pittsburgh, PA 15213, USA",
+    "institute_name": "University of Pittsburgh",
+    "institute_url": "https://api.openalex.org/I170201317",
+    "geo_country": "US",
+    "geo_region": "Pennsylvania",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Pathway-level information extractor (PLIER) for gene expression data.",
+    "published_date": "2019-06-27",
+    "pmid": "31249421",
+    "journal": "Nature methods.",
+    "openalex": "https://openalex.org/W2954825129",
+    "total_citations": 28,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 14
+      },
+      {
+        "2020": 11
+      },
+      {
+        "2019": 2
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2607905772",
+    "last_author_raw_affil_string": "Carnegie Mellon-University of Pittsburgh PhD Program in Computational Biology, Pittsburgh, USA",
+    "institute_name": "University of Pittsburgh",
+    "institute_url": "https://api.openalex.org/I170201317",
+    "geo_country": "US",
+    "geo_region": "Pennsylvania",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Association of Dimethylguanidino Valeric Acid With Partial Resistance to Metabolic Health Benefits of Regular Exercise.",
+    "published_date": "2019-07-01",
+    "pmid": "31166569",
+    "journal": "JAMA cardiology.",
+    "openalex": "https://openalex.org/W2948207261",
+    "total_citations": 21,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 9
+      },
+      {
+        "2020": 7
+      },
+      {
+        "2019": 3
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A174678796",
+    "last_author_raw_affil_string": "Division of Cardiovascular Medicine, Beth Israel Deaconess Medical Center, Boston, Massachusetts",
+    "institute_name": "Beth Israel Deaconess Medical Center",
+    "institute_url": "https://api.openalex.org/I1316535847",
+    "geo_country": "US",
+    "geo_region": "Massachusetts",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Targeted Long-Read RNA Sequencing Demonstrates Transcriptional Diversity Driven by Splice-Site Variation in MYBPC3.",
+    "published_date": "2019-05-01",
+    "pmid": "31112421",
+    "journal": "Circulation. Genomic and precision medicine.",
+    "openalex": "https://openalex.org/W2951269108",
+    "total_citations": 4,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 4
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A1990520733",
+    "last_author_raw_affil_string": "Stanford Center for Inherited Cardiovascular Disease (M.W., E.A.), Stanford University, CA.",
+    "institute_name": "Stanford University",
+    "institute_url": "https://api.openalex.org/I97018004",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "The role of androgens in microvascular endothelial dysfunction in polycystic ovary syndrome: does size matter?",
+    "published_date": "2019-06-01",
+    "pmid": "31025703",
+    "journal": "The Journal of physiology.",
+    "openalex": "https://openalex.org/W2940836733",
+    "total_citations": 4,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2020": 3
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2517907140",
+    "last_author_raw_affil_string": "Department of Health and Human Physiology, University of Iowa, Iowa city, IA, USA",
+    "institute_name": "University of Iowa",
+    "institute_url": "https://api.openalex.org/I126307644",
+    "geo_country": "US",
+    "geo_region": "Iowa",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "TMT Labeling for the Masses: A Robust and Cost-efficient, In-solution Labeling Approach.",
+    "published_date": "2019-07-01",
+    "pmid": "30967486",
+    "journal": "Molecular & cellular proteomics : MCP.",
+    "openalex": "https://openalex.org/W2937573806",
+    "total_citations": 108,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 12
+      },
+      {
+        "2021": 58
+      },
+      {
+        "2020": 38
+      },
+      {
+        "2019": 5
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2149256066",
+    "last_author_raw_affil_string": "From the \u2021Chair of Proteomics and Bioanalytics, Technical University of Munich (TUM), Freising, Germany;",
+    "institute_name": "Technical University of Munich",
+    "institute_url": "https://api.openalex.org/I62916508",
+    "geo_country": "DE",
+    "geo_region": null,
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Untargeted Metabolomics Differentiates l-Carnitine Treated Septic Shock 1-Year Survivors and Nonsurvivors.",
+    "published_date": "2019-05-03",
+    "pmid": "30895797",
+    "journal": "Journal of proteome research.",
+    "openalex": "https://openalex.org/W2924713006",
+    "total_citations": 3,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 1
+      },
+      {
+        "2020": 1
+      },
+      {
+        "2019": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2894375025",
+    "last_author_raw_affil_string": "University of Michigan Ann Arbor",
+    "institute_name": "University of Michigan\u2013Ann Arbor",
+    "institute_url": "https://api.openalex.org/I27837315",
+    "geo_country": "US",
+    "geo_region": "Michigan",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "The Importance of Resistance Exercise Training to Combat Neuromuscular Aging.",
+    "published_date": "2019-03-01",
+    "pmid": "30724133",
+    "journal": "Physiology (Bethesda, Md.).",
+    "openalex": "https://openalex.org/W2912406175",
+    "total_citations": 39,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 7
+      },
+      {
+        "2021": 21
+      },
+      {
+        "2020": 9
+      },
+      {
+        "2019": 5
+      },
+      {
+        "2018": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2196676719",
+    "last_author_raw_affil_string": "UAB Center for Exercise Medicine, University of Alabama at Birmingham, Birmingham, Alabama;",
+    "institute_name": "University of Alabama at Birmingham",
+    "institute_url": "https://api.openalex.org/I32389192",
+    "geo_country": "US",
+    "geo_region": "Alabama",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Supramax exercise testing in cystic fibrosis: not ready for prime time.",
+    "published_date": "2019-01-01",
+    "pmid": "30694710",
+    "journal": "Journal of applied physiology (Bethesda, Md. : 1985).",
+    "openalex": "https://openalex.org/W2912598676",
+    "total_citations": 2,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2020": 1
+      },
+      {
+        "2019": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2587166172",
+    "last_author_raw_affil_string": "Pediatric Exercise and Genomics Research Center, University of California at Irvine, California.",
+    "institute_name": "University of California, Irvine",
+    "institute_url": "https://api.openalex.org/I204250578",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Insulin deficiency and intranasal insulin alter brain mitochondrial function: a potential factor for dementia in diabetes.",
+    "published_date": "2019-01-24",
+    "pmid": "30676773",
+    "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology.",
+    "openalex": "https://openalex.org/W2912725195",
+    "total_citations": 21,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 15
+      },
+      {
+        "2020": 3
+      },
+      {
+        "2019": 2
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2319075276",
+    "last_author_raw_affil_string": "Division of Endocrinology, Diabetes, Metabolism, and Nutrition, Mayo Clinic, Rochester, Minnesota, USA; and.",
+    "institute_name": "Mayo Clinic",
+    "institute_url": "https://api.openalex.org/I1330342723",
+    "geo_country": "US",
+    "geo_region": "Minnesota",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Succinate links atrial dysfunction and cardioembolic stroke.",
+    "published_date": "2019-02-19",
+    "pmid": "30674589",
+    "journal": "Neurology",
+    "openalex": "https://openalex.org/W2912079779",
+    "total_citations": 9,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 7
+      },
+      {
+        "2020": 2
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2018826954",
+    "last_author_raw_affil_string": null,
+    "institute_name": "Johns Hopkins University",
+    "institute_url": "https://api.openalex.org/I145311948",
+    "geo_country": "US",
+    "geo_region": "Maryland",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Rapidly Assessing the Quality of Targeted Proteomics Experiments through Monitoring Stable-Isotope Labeled Standards.",
+    "published_date": "2019-02-01",
+    "pmid": "30525668",
+    "journal": "Journal of proteome research.",
+    "openalex": "https://openalex.org/W2892298341",
+    "total_citations": 4,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 1
+      },
+      {
+        "2020": 3
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2119294323",
+    "last_author_raw_affil_string": "Biological Sciences Division , Pacific Northwest National Laboratory , Richland , Washington 99336 , United States.",
+    "institute_name": "Pacific Northwest National Laboratory",
+    "institute_url": "https://api.openalex.org/I142606810",
+    "geo_country": "US",
+    "geo_region": "Washington",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Dynamic DNA methylation: In the right place at the right time.",
+    "published_date": "2018-09-28",
+    "pmid": "30262495",
+    "journal": "Science (New York, N.Y.).",
+    "openalex": "https://openalex.org/W2894083868",
+    "total_citations": 233,
+    "publication_year": 2018,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 17
+      },
+      {
+        "2021": 93
+      },
+      {
+        "2020": 75
+      },
+      {
+        "2019": 50
+      },
+      {
+        "2018": 5
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A1999902674",
+    "last_author_raw_affil_string": "Howard Hughes Medical Institute The Salk Institute for Biological Studies La Jolla CA 92037 USA",
+    "institute_name": "Salk Institute for Biological Studies",
+    "institute_url": "https://api.openalex.org/I1307098950",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Impaired Exercise Tolerance in Heart Failure: Role of Skeletal Muscle Morphology and Function.",
+    "published_date": "2018-12-01",
+    "pmid": "30178183",
+    "journal": "Current heart failure reports.",
+    "openalex": "https://openalex.org/W2891411856",
+    "total_citations": 29,
+    "publication_year": 2018,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 4
+      },
+      {
+        "2021": 11
+      },
+      {
+        "2020": 14
+      },
+      {
+        "2019": 3
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A1964974910",
+    "last_author_raw_affil_string": "Department of Medicine, Section of Geriatric Cardiology, Veterans Affairs Geriatric Research Education, and Clinical Center, University of Pittsburgh, 3471 Fifth Avenue, Suite 500, Pittsburgh, PA, 15213, USA.",
+    "institute_name": "University of Pittsburgh",
+    "institute_url": "https://api.openalex.org/I170201317",
+    "geo_country": "US",
+    "geo_region": "Pennsylvania",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Modified penetrance of coding variants by cis-regulatory variation contributes to disease risk.",
+    "published_date": "2018-08-20",
+    "pmid": "30127527",
+    "journal": "Nature genetics.",
+    "openalex": "https://openalex.org/W2885204059",
+    "total_citations": 112,
+    "publication_year": 2018,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 4
+      },
+      {
+        "2021": 34
+      },
+      {
+        "2020": 40
+      },
+      {
+        "2019": 32
+      },
+      {
+        "2018": 4
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2053412120",
+    "last_author_raw_affil_string": "Department of Systems Biology, Columbia University, New York, USA",
+    "institute_name": "Columbia University",
+    "institute_url": "https://api.openalex.org/I78577930",
+    "geo_country": "US",
+    "geo_region": "New York",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Cardiovascular Precision Medicine in the Genomics Era.",
+    "published_date": "2018-04-01",
+    "pmid": "30062216",
+    "journal": "JACC. Basic to translational science.",
+    "openalex": "https://openalex.org/W2802873999",
+    "total_citations": 31,
+    "publication_year": 2018,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 3
+      },
+      {
+        "2021": 14
+      },
+      {
+        "2020": 7
+      },
+      {
+        "2019": 5
+      },
+      {
+        "2018": 1
+      },
+      {
+        "2017": 2
+      }
+    ],
+    "institute_name": null,
+    "institute_url": null,
+    "geo_country": null,
+    "geo_region": null,
+    "last_author_openalex": null,
+    "last_author_raw_affil_string": null,
+    "author_error": "Unhandled Exception: 'NoneType' object has no attribute 'replace'"
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Fatiguing contractions increase protein S-glutathionylation occupancy in mouse skeletal muscle.",
+    "published_date": "2018-05-23",
+    "pmid": "29857311",
+    "journal": "Redox biology.",
+    "openalex": "https://openalex.org/W2803552542",
+    "total_citations": 38,
+    "publication_year": 2018,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 11
+      },
+      {
+        "2020": 17
+      },
+      {
+        "2019": 9
+      },
+      {
+        "2018": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A1136816479",
+    "last_author_raw_affil_string": "Department of Radiology, University of Washington, Seattle, WA 98105, United States.",
+    "institute_name": "University of Washington",
+    "institute_url": "https://api.openalex.org/I201448701",
+    "geo_country": "US",
+    "geo_region": "Washington",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Medical relevance of protein-truncating variants across 337,205 individuals in the UK Biobank study.",
+    "published_date": "2018-04-24",
+    "pmid": "29691392",
+    "journal": "Nature communications.",
+    "openalex": "https://openalex.org/W2917494953",
+    "total_citations": 70,
+    "publication_year": 2018,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 21
+      },
+      {
+        "2020": 24
+      },
+      {
+        "2019": 21
+      },
+      {
+        "2018": 4
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2275497799",
+    "last_author_raw_affil_string": "Department of Biomedical Data Science, Stanford University, Stanford, USA",
+    "institute_name": "Stanford University",
+    "institute_url": "https://api.openalex.org/I97018004",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Nursing Research, CER, PICO and PCORI.",
+    "published_date": "2018-01-01",
+    "pmid": "29676399",
+    "journal": "Journal of community & public health nursing.",
+    "openalex": "https://openalex.org/W2790026941",
+    "total_citations": 0,
+    "publication_year": 2018,
+    "is_open_access": true,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A2125642034",
+    "last_author_raw_affil_string": "School of Nursing, The University of Texas Health Science Center at San Antonio, San Antonio, TX, USA",
+    "institute_name": "The University of Texas Health Science Center at San Antonio",
+    "institute_url": "https://api.openalex.org/I165951966",
+    "geo_country": "US",
+    "geo_region": "Texas",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Cardiovascular disease: The rise of the genetic risk score.",
+    "published_date": "2018-03-30",
+    "pmid": "29601582",
+    "journal": "PLoS medicine.",
+    "openalex": "https://openalex.org/W2794819865",
+    "total_citations": 95,
+    "publication_year": 2018,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 5
+      },
+      {
+        "2021": 25
+      },
+      {
+        "2020": 30
+      },
+      {
+        "2019": 27
+      },
+      {
+        "2018": 11
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A1990520733",
+    "last_author_raw_affil_string": "Center for Inherited Cardiovascular Disease, Stanford University, Stanford, California, United States of America.",
+    "institute_name": "Stanford University",
+    "institute_url": "https://api.openalex.org/I97018004",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Plasma Metabolite Profiles in Response to Chronic Exercise.",
+    "published_date": "2018-07-01",
+    "pmid": "29509640",
+    "journal": "Medicine and science in sports and exercise.",
+    "openalex": "https://openalex.org/W2792779470",
+    "total_citations": 15,
+    "publication_year": 2018,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 3
+      },
+      {
+        "2021": 5
+      },
+      {
+        "2020": 6
+      },
+      {
+        "2019": 2
+      },
+      {
+        "2018": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2141399729",
+    "last_author_raw_affil_string": "School of Kinesiology & Health Studies, Queen's University, Kingston, Ontario, Canada",
+    "institute_name": "Queen's University",
+    "institute_url": "https://api.openalex.org/I204722609",
+    "geo_country": "CA",
+    "geo_region": "Ontario",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Cardiovascular Risk Beyond Low-Density Lipoprotein Cholesterol.",
+    "published_date": "2018-02-13",
+    "pmid": "29420959",
+    "journal": "Journal of the American College of Cardiology.",
+    "openalex": "https://openalex.org/W2786623458",
+    "total_citations": 7,
+    "publication_year": 2018,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 2
+      },
+      {
+        "2020": 2
+      },
+      {
+        "2018": 2
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A514027966",
+    "last_author_raw_affil_string": "Department of Neurology, Medical University of Innsbruck, Innsbruck, Austria.",
+    "institute_name": "Innsbruck Medical University",
+    "institute_url": "https://api.openalex.org/I143397708",
+    "geo_country": "AT",
+    "geo_region": null,
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Reinventing the wheel: comparison of two wheel cage styles for assessing mouse voluntary running activity.",
+    "published_date": "2018-04-01",
+    "pmid": "29357507",
+    "journal": "Journal of applied physiology (Bethesda, Md. : 1985).",
+    "openalex": "https://openalex.org/W2777870061",
+    "total_citations": 2,
+    "publication_year": 2018,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 2
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2213657783",
+    "last_author_raw_affil_string": "Department of Physiology, University of Kentucky, Lexington, Kentucky",
+    "institute_name": "University of Kentucky",
+    "institute_url": "https://api.openalex.org/I143302722",
+    "geo_country": "US",
+    "geo_region": "Kentucky",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Dimethylguanidino valeric acid is a marker of liver fat and predicts diabetes.",
+    "published_date": "2017-10-30",
+    "pmid": "29083323",
+    "journal": "The Journal of clinical investigation.",
+    "openalex": "https://openalex.org/W2765418108",
+    "total_citations": 69,
+    "publication_year": 2017,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 5
+      },
+      {
+        "2021": 27
+      },
+      {
+        "2020": 14
+      },
+      {
+        "2019": 20
+      },
+      {
+        "2018": 6
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A174678796",
+    "last_author_raw_affil_string": "Broad Institute",
+    "institute_name": "Harvard University",
+    "institute_url": "https://api.openalex.org/I136199984",
+    "geo_country": "US",
+    "geo_region": "Massachusetts",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Genetic regulatory effects modified by immune activation contribute to autoimmune disease associations.",
+    "published_date": "2017-08-16",
+    "pmid": "28814792",
+    "journal": "Nature communications.",
+    "openalex": "https://openalex.org/W2951130888",
+    "total_citations": 114,
+    "publication_year": 2017,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 7
+      },
+      {
+        "2021": 40
+      },
+      {
+        "2020": 35
+      },
+      {
+        "2019": 20
+      },
+      {
+        "2018": 15
+      },
+      {
+        "2017": 2
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2048621993",
+    "last_author_raw_affil_string": "Gene Center and Department of Biochemistry, Ludwig-Maximilians-Universit\u00e4t Munich, Munich, Germany",
+    "institute_name": "University of Bonn",
+    "institute_url": "https://api.openalex.org/I135140700",
+    "geo_country": "DE",
+    "geo_region": null,
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "Ambient mass spectrometry in metabolomics.",
+    "published_date": "2017-08-21",
+    "pmid": "28792022",
+    "journal": "The Analyst.",
+    "openalex": "https://openalex.org/W2738984463",
+    "total_citations": 41,
+    "publication_year": 2017,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 14
+      },
+      {
+        "2020": 11
+      },
+      {
+        "2019": 8
+      },
+      {
+        "2018": 7
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2119118945",
+    "last_author_raw_affil_string": "School of Chemistry and Biochemistry & Petit Institute for Bioengineering & Bioscience (IBB), Georgia Institute of Technology, 901 Atlantic Drive NW, Atlanta, GA, USA",
+    "institute_name": "Georgia Institute of Technology",
+    "institute_url": "https://api.openalex.org/I130701444",
+    "geo_country": "US",
+    "geo_region": "Georgia",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2022 Mar 03",
+    "published_date": "1996-01-01",
+    "pmid": "8909156",
+    "journal": "Cells",
+    "openalex": "https://openalex.org/W1492792966",
+    "total_citations": 49,
+    "publication_year": 1996,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2021": 1
+      },
+      {
+        "2020": 2
+      },
+      {
+        "2018": 1
+      },
+      {
+        "2017": 1
+      },
+      {
+        "2016": 1
+      },
+      {
+        "2015": 3
+      },
+      {
+        "2013": 2
+      },
+      {
+        "2011": 2
+      },
+      {
+        "2010": 1
+      },
+      {
+        "2009": 2
+      },
+      {
+        "2008": 2
+      },
+      {
+        "2007": 1
+      },
+      {
+        "2005": 2
+      },
+      {
+        "2004": 1
+      },
+      {
+        "2003": 3
+      },
+      {
+        "2002": 1
+      },
+      {
+        "2001": 5
+      },
+      {
+        "2000": 3
+      },
+      {
+        "1999": 9
+      },
+      {
+        "1998": 4
+      },
+      {
+        "1997": 2
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2501488650",
+    "last_author_raw_affil_string": "Human Nutrition Research, Hoffmann-La Roche Inc., Paramus, New Jersey 07652",
+    "institute_name": "Roche",
+    "institute_url": "https://api.openalex.org/I118019719",
+    "geo_country": "CH",
+    "geo_region": null,
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2021 06 21",
+    "published_date": "1996-03-01",
+    "pmid": "8828046",
+    "journal": "Journal of visualized experiments : JoVE",
+    "openalex": "https://openalex.org/W2032364198",
+    "total_citations": 0,
+    "publication_year": 1996,
+    "is_open_access": false,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A2031522042",
+    "last_author_raw_affil_string": "Department of Biomedical Engineering, Technion 32000, Haifa, Israel.",
+    "institute_name": "Technion \u2013 Israel Institute of Technology",
+    "institute_url": "https://api.openalex.org/I174306211",
+    "geo_country": "IL",
+    "geo_region": null,
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2020 06 25",
+    "published_date": "1996-06-01",
+    "pmid": "8800485",
+    "journal": "Cell",
+    "openalex": "https://openalex.org/W2085424713",
+    "total_citations": 3,
+    "publication_year": 1996,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2013": 1
+      },
+      {
+        "2004": 1
+      },
+      {
+        "1999": 1
+      }
+    ],
+    "institute_name": null,
+    "institute_url": null,
+    "geo_country": null,
+    "geo_region": null,
+    "last_author_openalex": null,
+    "last_author_raw_affil_string": null,
+    "author_error": "Unhandled Exception: 'NoneType' object has no attribute 'replace'"
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2021 11 16",
+    "published_date": "1993-03-01",
+    "pmid": "8595845",
+    "journal": "Circulation",
+    "openalex": "https://openalex.org/W2085748313",
+    "total_citations": 1,
+    "publication_year": 1993,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2009": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A1989097551",
+    "last_author_raw_affil_string": "Biomaterials Science Unit, Department of Restorative Dentistry, University of Manchester Dental School, Manchester, England, UK",
+    "institute_name": "University of Manchester",
+    "institute_url": "https://api.openalex.org/I28407311",
+    "geo_country": "GB",
+    "geo_region": "Manchester",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2021 11 02",
+    "published_date": "1996-01-01",
+    "pmid": "8562082",
+    "journal": "The Journal of nutrition",
+    "openalex": "https://openalex.org/W2017832591",
+    "total_citations": 75,
+    "publication_year": 1996,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 1
+      },
+      {
+        "2020": 1
+      },
+      {
+        "2017": 1
+      },
+      {
+        "2016": 2
+      },
+      {
+        "2015": 2
+      },
+      {
+        "2014": 2
+      },
+      {
+        "2013": 3
+      },
+      {
+        "2012": 2
+      },
+      {
+        "2011": 3
+      },
+      {
+        "2010": 5
+      },
+      {
+        "2009": 5
+      },
+      {
+        "2008": 3
+      },
+      {
+        "2007": 2
+      },
+      {
+        "2006": 6
+      },
+      {
+        "2005": 2
+      },
+      {
+        "2004": 3
+      },
+      {
+        "2003": 3
+      },
+      {
+        "2002": 3
+      },
+      {
+        "2001": 6
+      },
+      {
+        "2000": 7
+      },
+      {
+        "1999": 5
+      },
+      {
+        "1998": 5
+      },
+      {
+        "1997": 3
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2007585793",
+    "last_author_raw_affil_string": "Centre for Research in Neuroscience, Montreal General Hospital, McGill University, Montreal, Quebec H3G 1A4, Canada",
+    "institute_name": "McGill University",
+    "institute_url": "https://api.openalex.org/I5023651",
+    "geo_country": "CA",
+    "geo_region": "Quebec",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2021 10 01",
+    "published_date": "1996-01-01",
+    "pmid": "8560392",
+    "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+    "openalex": "https://openalex.org/W2039106998",
+    "total_citations": 7,
+    "publication_year": 1996,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2015": 1
+      },
+      {
+        "2008": 3
+      },
+      {
+        "2005": 2
+      },
+      {
+        "1998": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2113510924",
+    "last_author_raw_affil_string": "Uniformed Services University of the Health Sciences, Bethesda, Md. USA",
+    "institute_name": "Walter Reed Army Medical Center",
+    "institute_url": "https://api.openalex.org/I1343027649",
+    "geo_country": "US",
+    "geo_region": null,
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2021 Oct 25",
+    "published_date": "1995-10-01",
+    "pmid": "8551017",
+    "journal": "Current biology : CB",
+    "openalex": "https://openalex.org/W2077593479",
+    "total_citations": 14,
+    "publication_year": 1995,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2006": 1
+      },
+      {
+        "2005": 2
+      },
+      {
+        "2004": 3
+      },
+      {
+        "2002": 1
+      },
+      {
+        "2000": 1
+      },
+      {
+        "1998": 4
+      },
+      {
+        "1997": 1
+      },
+      {
+        "1996": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2610111949",
+    "last_author_raw_affil_string": "New York University Medical Center, New York, NY, USA",
+    "institute_name": "Public Health Research Institute",
+    "institute_url": "https://api.openalex.org/I147288966",
+    "geo_country": "US",
+    "geo_region": null,
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2021 08 17",
+    "published_date": "1993-04-15",
+    "pmid": "8475065",
+    "journal": "Journal of the American Heart Association",
+    "openalex": "https://openalex.org/W2022848524",
+    "total_citations": 50,
+    "publication_year": 1993,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 1
+      },
+      {
+        "2019": 2
+      },
+      {
+        "2018": 2
+      },
+      {
+        "2017": 2
+      },
+      {
+        "2016": 1
+      },
+      {
+        "2015": 2
+      },
+      {
+        "2014": 1
+      },
+      {
+        "2013": 4
+      },
+      {
+        "2011": 1
+      },
+      {
+        "2009": 1
+      },
+      {
+        "2008": 2
+      },
+      {
+        "2007": 4
+      },
+      {
+        "2006": 3
+      },
+      {
+        "2005": 2
+      },
+      {
+        "2004": 5
+      },
+      {
+        "2003": 4
+      },
+      {
+        "2002": 1
+      },
+      {
+        "2001": 2
+      },
+      {
+        "2000": 1
+      },
+      {
+        "1999": 3
+      },
+      {
+        "1996": 3
+      },
+      {
+        "1994": 1
+      },
+      {
+        "1993": 2
+      }
+    ],
+    "institute_name": null,
+    "institute_url": null,
+    "geo_country": null,
+    "geo_region": null,
+    "last_author_openalex": null,
+    "last_author_raw_affil_string": null,
+    "author_error": "Unhandled Exception: 'NoneType' object has no attribute 'replace'"
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2021 07 01",
+    "published_date": "1993-01-01",
+    "pmid": "8424676",
+    "journal": "American journal of physiology. Cell physiology",
+    "openalex": "https://openalex.org/W2096289625",
+    "total_citations": 3,
+    "publication_year": 1993,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "1999": 1
+      },
+      {
+        "1995": 1
+      },
+      {
+        "1994": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A1991043739",
+    "last_author_raw_affil_string": null,
+    "institute_name": "University of Pisa",
+    "institute_url": "https://api.openalex.org/I108290504",
+    "geo_country": "IT",
+    "geo_region": "Toscana",
+    "author_error": "Author https://api.openalex.org/A1991043739 missing affiliation node for https://api.openalex.org/W2096289625"
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2021 08 13",
+    "published_date": "1993-09-01",
+    "pmid": "8370708",
+    "journal": "Science (New York, N.Y.)",
+    "openalex": "https://openalex.org/W1979781546",
+    "total_citations": 30,
+    "publication_year": 1993,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2013": 1
+      },
+      {
+        "2012": 2
+      },
+      {
+        "2011": 1
+      },
+      {
+        "2010": 1
+      },
+      {
+        "2006": 1
+      },
+      {
+        "2004": 3
+      },
+      {
+        "2002": 1
+      },
+      {
+        "2001": 1
+      },
+      {
+        "1999": 3
+      },
+      {
+        "1998": 7
+      },
+      {
+        "1997": 2
+      },
+      {
+        "1996": 3
+      },
+      {
+        "1995": 3
+      },
+      {
+        "1994": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2772795310",
+    "last_author_raw_affil_string": "Department of Internal Medicine, Tulane University Medical School, New Orleans, Louisiana 70112.",
+    "institute_name": "Tulane University",
+    "institute_url": "https://api.openalex.org/I114832834",
+    "geo_country": "US",
+    "geo_region": "Louisiana",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2021 06 09",
+    "published_date": "1994-05-01",
+    "pmid": "8190306",
+    "journal": "Nature communications",
+    "openalex": "https://openalex.org/W2069275960",
+    "total_citations": 78,
+    "publication_year": 1994,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 3
+      },
+      {
+        "2020": 2
+      },
+      {
+        "2019": 1
+      },
+      {
+        "2018": 3
+      },
+      {
+        "2017": 3
+      },
+      {
+        "2016": 7
+      },
+      {
+        "2015": 2
+      },
+      {
+        "2014": 14
+      },
+      {
+        "2013": 1
+      },
+      {
+        "2012": 5
+      },
+      {
+        "2011": 1
+      },
+      {
+        "2010": 3
+      },
+      {
+        "2009": 5
+      },
+      {
+        "2008": 3
+      },
+      {
+        "2007": 2
+      },
+      {
+        "2006": 2
+      },
+      {
+        "2005": 3
+      },
+      {
+        "2004": 3
+      },
+      {
+        "2003": 4
+      },
+      {
+        "2001": 4
+      },
+      {
+        "2000": 3
+      },
+      {
+        "1998": 2
+      },
+      {
+        "1996": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2239352941",
+    "last_author_raw_affil_string": "Department of Neurology, Albany Medical Center, NY 12208.",
+    "institute_name": "Albany Medical Center Hospital",
+    "institute_url": "https://api.openalex.org/I77920804",
+    "geo_country": "US",
+    "geo_region": "New York",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2021 10",
+    "published_date": "1994-05-01",
+    "pmid": "8089030",
+    "journal": "Annals of epidemiology",
+    "openalex": "https://openalex.org/W1985222930",
+    "total_citations": 3,
+    "publication_year": 1994,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "1997": 2
+      },
+      {
+        "1996": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2103385237",
+    "last_author_raw_affil_string": "Bristol Eye Hospital, Lower Maudlin Street, Bristol BS1 2LX, UK",
+    "institute_name": "Bristol Eye Hospital",
+    "institute_url": "https://api.openalex.org/I4210109786",
+    "geo_country": "GB",
+    "geo_region": null,
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2021 04 22",
+    "published_date": "1994-05-01",
+    "pmid": "8063090",
+    "journal": "Blood",
+    "openalex": "https://openalex.org/W2078473411",
+    "total_citations": 3,
+    "publication_year": 1994,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2012": 1
+      },
+      {
+        "1998": 1
+      },
+      {
+        "1997": 1
+      }
+    ],
+    "institute_name": null,
+    "institute_url": null,
+    "geo_country": null,
+    "geo_region": null,
+    "last_author_openalex": null,
+    "last_author_raw_affil_string": null,
+    "author_error": "Unhandled Exception: 'NoneType' object has no attribute 'replace'"
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2021 02 01",
+    "published_date": "1994-11-17",
+    "pmid": "7948008",
+    "journal": "American journal of physiology. Cell physiology",
+    "openalex": "https://openalex.org/W1994920684",
+    "total_citations": 14,
+    "publication_year": 1994,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2019": 1
+      },
+      {
+        "2006": 3
+      },
+      {
+        "2001": 2
+      },
+      {
+        "2000": 1
+      },
+      {
+        "1999": 3
+      },
+      {
+        "1998": 1
+      },
+      {
+        "1996": 2
+      },
+      {
+        "1995": 1
+      }
+    ],
+    "institute_name": null,
+    "institute_url": null,
+    "geo_country": null,
+    "geo_region": null,
+    "last_author_openalex": null,
+    "last_author_raw_affil_string": null,
+    "author_error": "Unhandled Exception: 'NoneType' object has no attribute 'replace'"
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2021 03",
+    "published_date": "1994-08-20",
+    "pmid": "7931802",
+    "journal": "Physiological reports",
+    "openalex": "https://openalex.org/W2332443186",
+    "total_citations": 0,
+    "publication_year": 1994,
+    "is_open_access": true,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A2582338765",
+    "last_author_raw_affil_string": "Department of Otolaryngology, Saitama University of Medicine",
+    "institute_name": "Saitama University",
+    "institute_url": "https://api.openalex.org/I72253084",
+    "geo_country": "JP",
+    "geo_region": null,
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2020 12",
+    "published_date": "1995-03-01",
+    "pmid": "7774824",
+    "journal": "The Journal of physiology",
+    "openalex": "https://openalex.org/W2169985427",
+    "total_citations": 43,
+    "publication_year": 1995,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2020": 1
+      },
+      {
+        "2019": 1
+      },
+      {
+        "2016": 2
+      },
+      {
+        "2015": 4
+      },
+      {
+        "2014": 2
+      },
+      {
+        "2013": 1
+      },
+      {
+        "2012": 6
+      },
+      {
+        "2011": 2
+      },
+      {
+        "2010": 1
+      },
+      {
+        "2009": 2
+      },
+      {
+        "2007": 2
+      },
+      {
+        "2006": 2
+      },
+      {
+        "2005": 5
+      },
+      {
+        "2004": 2
+      },
+      {
+        "2003": 1
+      },
+      {
+        "2002": 2
+      },
+      {
+        "2001": 4
+      },
+      {
+        "2000": 1
+      },
+      {
+        "1998": 1
+      },
+      {
+        "1997": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2573266504",
+    "last_author_raw_affil_string": "The University of Akron, College of Nursing, in Akron, Ohio, USA",
+    "institute_name": "University of Akron",
+    "institute_url": "https://api.openalex.org/I110152177",
+    "geo_country": "US",
+    "geo_region": "Ohio",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2020 09 29",
+    "published_date": "1995-01-01",
+    "pmid": "7540920",
+    "journal": "Journal of the American College of Cardiology",
+    "openalex": "https://openalex.org/W2080641611",
+    "total_citations": 1,
+    "publication_year": 1995,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2006": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2105535636",
+    "last_author_raw_affil_string": "Department of Surgery I, Saitama Medical School, Moroyama-machi, Iruma-gun, Saitama 350-04, Japan",
+    "institute_name": "Saitama Medical University",
+    "institute_url": "https://api.openalex.org/I8588240",
+    "geo_country": "JP",
+    "geo_region": null,
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2020 09",
+    "published_date": "1995-10-24",
+    "pmid": "7479806",
+    "journal": "The Journal of physiology",
+    "openalex": "https://openalex.org/W2051350553",
+    "total_citations": 2,
+    "publication_year": 1995,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2000": 1
+      },
+      {
+        "1998": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2431322009",
+    "last_author_raw_affil_string": "CAIP Center, Rutgers University, New Brunswick, NJ 08903, USA.",
+    "institute_name": "Rutgers, The State University of New Jersey",
+    "institute_url": "https://api.openalex.org/I102322142",
+    "geo_country": "US",
+    "geo_region": "New Jersey",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2020 08 25",
+    "published_date": "1980-11-01",
+    "pmid": "7456122",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "openalex": "https://openalex.org/W36326630",
+    "total_citations": 3,
+    "publication_year": 1980,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2020": 1
+      },
+      {
+        "1990": 1
+      },
+      {
+        "1983": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A668606097",
+    "last_author_raw_affil_string": "Department of Animal Science, University of Ibadan, Nigeria",
+    "institute_name": "University of Ibadan",
+    "institute_url": "https://api.openalex.org/I181631907",
+    "geo_country": "NG",
+    "geo_region": "Oyo",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2018 12",
+    "published_date": "1980-08-19",
+    "pmid": "6250583",
+    "journal": "Current heart failure reports",
+    "openalex": "https://openalex.org/W1983041459",
+    "total_citations": 277,
+    "publication_year": 1980,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2021": 7
+      },
+      {
+        "2020": 3
+      },
+      {
+        "2019": 2
+      },
+      {
+        "2018": 5
+      },
+      {
+        "2017": 8
+      },
+      {
+        "2016": 2
+      },
+      {
+        "2015": 7
+      },
+      {
+        "2014": 5
+      },
+      {
+        "2013": 3
+      },
+      {
+        "2012": 3
+      },
+      {
+        "2011": 8
+      },
+      {
+        "2010": 2
+      },
+      {
+        "2009": 1
+      },
+      {
+        "2008": 7
+      },
+      {
+        "2007": 7
+      },
+      {
+        "2006": 2
+      },
+      {
+        "2005": 2
+      },
+      {
+        "2004": 5
+      },
+      {
+        "2003": 2
+      },
+      {
+        "2002": 6
+      },
+      {
+        "2001": 3
+      },
+      {
+        "2000": 7
+      },
+      {
+        "1999": 1
+      },
+      {
+        "1998": 5
+      },
+      {
+        "1997": 7
+      },
+      {
+        "1996": 6
+      },
+      {
+        "1995": 8
+      },
+      {
+        "1994": 9
+      },
+      {
+        "1993": 8
+      },
+      {
+        "1992": 10
+      },
+      {
+        "1991": 8
+      },
+      {
+        "1990": 15
+      },
+      {
+        "1989": 8
+      },
+      {
+        "1988": 7
+      },
+      {
+        "1987": 9
+      },
+      {
+        "1986": 15
+      },
+      {
+        "1985": 10
+      },
+      {
+        "1984": 14
+      },
+      {
+        "1983": 16
+      },
+      {
+        "1982": 15
+      },
+      {
+        "1981": 8
+      },
+      {
+        "1980": 1
+      }
+    ],
+    "institute_name": null,
+    "institute_url": null,
+    "geo_country": null,
+    "geo_region": null,
+    "last_author_openalex": null,
+    "last_author_raw_affil_string": null,
+    "author_error": "Unhandled Exception: 'NoneType' object has no attribute 'replace'"
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2018 09 28",
+    "published_date": "1984-02-10",
+    "pmid": "6197482",
+    "journal": "Science (New York, N.Y.)",
+    "openalex": "https://openalex.org/W2043938429",
+    "total_citations": 24,
+    "publication_year": 1984,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2015": 1
+      },
+      {
+        "2001": 1
+      },
+      {
+        "1996": 2
+      },
+      {
+        "1994": 1
+      },
+      {
+        "1992": 2
+      },
+      {
+        "1991": 1
+      },
+      {
+        "1990": 1
+      },
+      {
+        "1989": 2
+      },
+      {
+        "1988": 1
+      },
+      {
+        "1987": 2
+      },
+      {
+        "1986": 4
+      },
+      {
+        "1985": 5
+      },
+      {
+        "1983": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2094315078",
+    "last_author_raw_affil_string": "The Clinical Research Unit of The Walter and Eliza Hall Institute of Medical Research and the Royal Melbourne Hospital, Post Office Royal Melbourne Hospital, Victoria 3050, Australia",
+    "institute_name": "Walter and Eliza Hall Institute of Medical Research",
+    "institute_url": "https://api.openalex.org/I196021976",
+    "geo_country": "AU",
+    "geo_region": "Victoria",
+    "author_error": null
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2018 09",
+    "published_date": "1981-12-01",
+    "pmid": "6119105",
+    "journal": "Nature genetics",
+    "openalex": "https://openalex.org/W1983509724",
+    "total_citations": 3,
+    "publication_year": 1981,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "1984": 2
+      },
+      {
+        "1983": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2709897282",
+    "last_author_raw_affil_string": null,
+    "institute_name": null,
+    "institute_url": null,
+    "geo_country": null,
+    "geo_region": null,
+    "author_error": "Author https://api.openalex.org/A2709897282 missing affiliation node for https://api.openalex.org/W1983509724"
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2018 Apr",
+    "published_date": "1967-03-01",
+    "pmid": "6059349",
+    "journal": "JACC. Basic to translational science",
+    "openalex": "https://openalex.org/W2078528934",
+    "total_citations": 16,
+    "publication_year": 1967,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2021": 1
+      },
+      {
+        "2020": 1
+      },
+      {
+        "2019": 2
+      },
+      {
+        "2018": 2
+      },
+      {
+        "2017": 1
+      },
+      {
+        "2015": 1
+      },
+      {
+        "2013": 1
+      },
+      {
+        "2011": 1
+      },
+      {
+        "2008": 1
+      },
+      {
+        "1987": 1
+      },
+      {
+        "1983": 1
+      },
+      {
+        "1982": 1
+      },
+      {
+        "1975": 1
+      },
+      {
+        "1968": 1
+      }
+    ],
+    "institute_name": null,
+    "institute_url": null,
+    "geo_country": null,
+    "geo_region": null,
+    "last_author_openalex": null,
+    "last_author_raw_affil_string": null,
+    "author_error": "Unhandled Exception: 'NoneType' object has no attribute 'replace'"
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2018 07",
+    "published_date": "1966-06-10",
+    "pmid": "6007084",
+    "journal": "Redox biology",
+    "openalex": "https://openalex.org/W2406199888",
+    "total_citations": 0,
+    "publication_year": 1966,
+    "is_open_access": true,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A2399643850",
+    "last_author_raw_affil_string": null,
+    "institute_name": null,
+    "institute_url": null,
+    "geo_country": null,
+    "geo_region": null,
+    "author_error": "Author https://api.openalex.org/A2399643850 missing affiliation node for https://api.openalex.org/W2406199888"
+  },
+  {
+    "program": "Molecular Transducers of Physical Activity Clinical Centers",
+    "publication_title": "2017 08 16",
+    "published_date": "1971-07-01",
+    "pmid": "5559603",
+    "journal": "Nature communications",
+    "openalex": "https://openalex.org/W1974871280",
+    "total_citations": 13,
+    "publication_year": 1971,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2008": 1
+      },
+      {
+        "1994": 1
+      },
+      {
+        "1987": 2
+      },
+      {
+        "1983": 2
+      },
+      {
+        "1981": 1
+      },
+      {
+        "1980": 1
+      },
+      {
+        "1979": 1
+      },
+      {
+        "1976": 3
+      },
+      {
+        "1973": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2244302456",
+    "last_author_raw_affil_string": null,
+    "institute_name": "University of Pennsylvania",
+    "institute_url": "https://api.openalex.org/I79576946",
+    "geo_country": "US",
+    "geo_region": "Pennsylvania",
+    "author_error": "Author https://api.openalex.org/A2244302456 missing affiliation node for https://api.openalex.org/W1974871280"
+  }
+]

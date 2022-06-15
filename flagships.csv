@@ -1,11 +1,14 @@
 DCC/Repo,Important Publication Title,PMID,Alex ID,Year Published,Funding,Competes with,Institution ID,Institution Name,Institution City,Institution Region,Notes
-4D nucleome,The 4D nucleome project,28905911,,2017,CFDE,NA,https://openalex.org/I36258959,"University of California, San Diego",San Diego,California,
-Glycoscience,GlyGen: Computational and Informatics Resources for Glycoscience.,31616925,,2019,CFDE,NA,https://openalex.org/I184565670,Georgetown University,Washington D.C.,District of Columbia,
-GTEx,The GTEx Consortium atlas of genetic regulatory effects across human tissues,32913098,,2020,CFDE,NA,https://openalex.org/I107606265,Broad Institute,Cambridge,Massachusetts,
-HuBMAP,The human body at cellular resolution: the NIH Human Biomolecular Atlas Program,31597973,,2019,CFDE,NA,https://explore.openalex.org/institutions/I97018004,Stanford University,Stanford,California,
-SPARC,The SPARC DRC: Building a Resource for the Autonomic Nervous System Community,34248680,,2021,CFDE,NA,https://openalex.org/I36258959,"University of California, San Diego",San Diego,California,
-MoTrPAC,Molecular Transducers of Physical Activity Consortium (MoTrPAC): Mapping the Dynamic Responses to Exercise,32589957,,2020,CFDE,NA,https://openalex.org/I33213144,University of Florida,Gainesville,Florida,
-Metabolomics,"Metabolomics Workbench: An international repository for metabolomics data and metadata, metabolite standards",26467476,,2016,CFDE,NA,https://openalex.org/I33213144,University of Florida,Gainesville,Florida,
+4D nucleome,The 4D nucleome project,28905911,,2017,CFDE,,https://openalex.org/I36258959,"University of California, San Diego",San Diego,California,
+Glycoscience,GlyGen: Computational and Informatics Resources for Glycoscience.,31616925,,2019,CFDE,,https://openalex.org/I184565670,Georgetown University,Washington D.C.,District of Columbia,
+GTEx,The GTEx Consortium atlas of genetic regulatory effects across human tissues,32913098,,2020,CFDE,,https://openalex.org/I107606265,Broad Institute,Cambridge,Massachusetts,
+HuBMAP,The human body at cellular resolution: the NIH Human Biomolecular Atlas Program,31597973,,2019,CFDE,,https://explore.openalex.org/institutions/I97018004,Stanford University,Stanford,California,
+SPARC,The SPARC DRC: Building a Resource for the Autonomic Nervous System Community,34248680,,2021,CFDE,,https://openalex.org/I36258959,"University of California, San Diego",San Diego,California,
+MoTrPAC,Molecular Transducers of Physical Activity Consortium (MoTrPAC): Mapping the Dynamic Responses to Exercise,32589957,,2020,CFDE,,https://openalex.org/I33213144,University of Florida,Gainesville,Florida,
+Metabolomics,"Metabolomics Workbench: An international repository for metabolomics data and metadata, metabolite standards",26467476,,2016,CFDE,,https://openalex.org/I33213144,University of Florida,Gainesville,Florida,
+HMP,The human microbiome project,17943116,https://openalex.org/W2131186249,2007,CFDE,,,,,,
+LINCS,LINCS Data Portal 2.0: next generation access point for perturbation-response signatures,31701147,https://openalex.org/W2984998864,2013,CFDE,,,,,,"They present a whole list of things to cite (if they are relevant to the researcher) instead of a single flagship, but this is the closest we have to the flagship paper. For the others, see: https://lincsproject.org/LINCS/publications"
+ExRNA,The Extracellular RNA Communication Consortium: Establishing Foundational Knowledge and Technologies for Extracellular RNA Research,30951667,https://openalex.org/W2929213012,2019,CFDE,,,,,,
 Exercise Transcriptome Meta-analysis,Time trajectories in the transcriptomic response to exercise - a meta-analysis,34108459,https://openalex.org/W3168414855,2021,External,MoTrPAC,,,,,
 HERITAGE,Human plasma proteomic profiles indicative of cardiorespiratory fitness,34045743,https://openalex.org/W3165518547,2021,External,MoTrPAC,,,,,
 MassIVE,Assembling the Community-Scale Discoverable Human Proteome,28600341,https://openalex.org/W2623410148,2017,External,Metabolomics,,,,,
@@ -13,15 +16,15 @@ MetaboLights,MetaboLights: a resource evolving in response to the needs of its s
 MetaboLights,MetaboLights—an open-access general-purpose repository for metabolomics studies and associated meta-data,23109552,https://openalex.org/W2069928158,2013,External,Metabolomics,,,,,
 MetaboLights,MetaboLights: An Open-Access Database Repository for Metabolomics Data,27010336,https://openalex.org/W2334617819,2016,External,Metabolomics,,,,,
 Kids First,The Cancer Genome Atlas (TCGA): an immeasurable source of knowledge,25691825,https://openalex.org/W2329659234,2015,External,Kids First,,,,,
-IDG,DrugBank: a comprehensive resource for in silico drug discovery and exploration,16381955,https://openalex.org/W2170146596,2006,CFDE,IDG,,,,,The DrugBank website mentions this as the primary citation for academic use.
-IDG,"DrugBank: a knowledgebase for drugs, drug actions and drug targets",18048412,https://openalex.org/W2009313526,2008,CFDE,IDG,,,,,
-IDG,DrugBank 3.0: a comprehensive resource for ‘Omics’ research on drugs,21059682,https://openalex.org/W2137052779,2011,CFDE,IDG,,,,,
-IDG,DrugBank 4.0: shedding new light on drug metabolism,24203711,https://openalex.org/W2018518196,2014,CFDE,IDG,,,,,
-IDG,DrugBank 5.0: a major update to the DrugBank database for 2018,29126136,https://openalex.org/W2767891136,2018,CFDE,IDG,,,,,
-IDG,PubChem in 2021: new data content and improved web interfaces,33151290,https://openalex.org/W3097145107,2021,CFDE,IDG,,,,,This is currently the article that PubChem says to cite when using data.
-IDG,PubChem as a public resource for drug discovery,20970519,https://openalex.org/W2085398335,2010,CFDE,IDG,,,,,
-IDG,PubChem3D: a new resource for scientists,21933373,https://openalex.org/W2169546341,2011,CFDE,IDG,,,,,
-IDG,PubChem's BioAssay Database,22140110,https://openalex.org/W2096560421,2012,CFDE,IDG,,,,,
+IDG,DrugBank: a comprehensive resource for in silico drug discovery and exploration,16381955,https://openalex.org/W2170146596,2006,CFDE,,,,,,The DrugBank website mentions this as the primary citation for academic use.
+IDG,"DrugBank: a knowledgebase for drugs, drug actions and drug targets",18048412,https://openalex.org/W2009313526,2008,CFDE,,,,,,
+IDG,DrugBank 3.0: a comprehensive resource for ‘Omics’ research on drugs,21059682,https://openalex.org/W2137052779,2011,CFDE,,,,,,
+IDG,DrugBank 4.0: shedding new light on drug metabolism,24203711,https://openalex.org/W2018518196,2014,CFDE,,,,,,
+IDG,DrugBank 5.0: a major update to the DrugBank database for 2018,29126136,https://openalex.org/W2767891136,2018,CFDE,,,,,,
+IDG,PubChem in 2021: new data content and improved web interfaces,33151290,https://openalex.org/W3097145107,2021,CFDE,,,,,,This is currently the article that PubChem says to cite when using data.
+IDG,PubChem as a public resource for drug discovery,20970519,https://openalex.org/W2085398335,2010,CFDE,,,,,,
+IDG,PubChem3D: a new resource for scientists,21933373,https://openalex.org/W2169546341,2011,CFDE,,,,,,
+IDG,PubChem's BioAssay Database,22140110,https://openalex.org/W2096560421,2012,CFDE,,,,,,
 EVAtlas,EVmiRNA: a database of miRNA profiling in extracellular vesicles,30335161,https://openalex.org/W2896958491,2019,External,ExRNA,,,,,EVmiRNA was updated to EVAatlas. It makes sense to group these two together.
 EVAtlas,EVAtlas: a comprehensive database for ncRNA expression in human extracellular vesicles,34387689,https://openalex.org/W3192067290,2021,External,ExRNA,,,,,EVmiRNA was updated to EVAatlas. It makes sense to group these two together.
 GEO,Gene Expression Omnibus: NCBI gene expression and hybridization array data repository,11752295,https://openalex.org/W2020541351,2002,External,GTEx,,,,,

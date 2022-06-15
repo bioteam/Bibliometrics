@@ -1,0 +1,50 @@
+[
+  {
+    "flagship_pmid": "34045743",
+    "program": "HERITAGE",
+    "pmid": "",
+    "openalex": "https://openalex.org/W4281486836",
+    "publication_title": "The HERITAGE Family Study: A Review of the Effects of Exercise Training on Cardiometabolic Health, with Insights into Molecular Transducers",
+    "published_date": "2022-05-01",
+    "publication_year": 2022,
+    "journal": "Medicine and Science in Sports and Exercise",
+    "total_citations": 0,
+    "is_open_access": true
+  },
+  {
+    "flagship_pmid": "34045743",
+    "program": "HERITAGE",
+    "pmid": "35361443",
+    "openalex": "https://openalex.org/W4220929830",
+    "publication_title": "Exercise Training Across the Spectrum of HFpEF",
+    "published_date": "2022-04-01",
+    "publication_year": 2022,
+    "journal": "Jacc-Heart Failure",
+    "total_citations": 0,
+    "is_open_access": false
+  },
+  {
+    "flagship_pmid": "34045743",
+    "program": "HERITAGE",
+    "pmid": "34970584",
+    "openalex": "https://openalex.org/W4200193126",
+    "publication_title": "Multiomics Approach to Precision Sports Nutrition: Limits, Challenges, and Possibilities",
+    "published_date": "2021-12-14",
+    "publication_year": 2021,
+    "journal": "Frontiers in Nutrition",
+    "total_citations": 0,
+    "is_open_access": true
+  },
+  {
+    "flagship_pmid": "34045743",
+    "program": "HERITAGE",
+    "pmid": "34880406",
+    "openalex": "https://openalex.org/W4200224224",
+    "publication_title": "Molecular transducers and the cardiometabolic benefits of exercise",
+    "published_date": "2021-12-08",
+    "publication_year": 2021,
+    "journal": "Nature Reviews Endocrinology",
+    "total_citations": 0,
+    "is_open_access": false
+  }
+]

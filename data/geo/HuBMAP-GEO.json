@@ -1,0 +1,3583 @@
+[
+  {
+    "program": "HuBMAP",
+    "publication_title": "Proteomics Standards Initiative's ProForma 2.0: Unifying the Encoding of Proteoforms and Peptidoforms.",
+    "published_date": "2022-04-01",
+    "pmid": "35290070",
+    "journal": "Journal of proteome research",
+    "openalex": "https://openalex.org/W4221020098",
+    "total_citations": 0,
+    "publication_year": 2022,
+    "is_open_access": true,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A2137679054",
+    "last_author_raw_affil_string": "European Molecular Biology Laboratory, EMBL-European Bioinformatics Institute (EMBL-EBI), Hinxton, Cambridge CB10 1SD, United Kingdom.",
+    "institute_name": "European Bioinformatics Institute",
+    "institute_url": "https://api.openalex.org/I1303153112",
+    "geo_country": "GB",
+    "geo_region": null,
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "TraSig: inferring cell-cell interactions from pseudotime ordering of scRNA-Seq data.",
+    "published_date": "2022-03-07",
+    "pmid": "35255944",
+    "journal": "Genome biology",
+    "openalex": "https://openalex.org/W4221044879",
+    "total_citations": 0,
+    "publication_year": 2022,
+    "is_open_access": true,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A4222930810",
+    "last_author_raw_affil_string": "Computational Biology Department, School of Computer Science, Carnegie Mellon Universit",
+    "institute_name": "Carnegie Mellon University",
+    "institute_url": "https://api.openalex.org/I74973139",
+    "geo_country": "US",
+    "geo_region": "Pennsylvania",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Limited extent and consequences of pancreatic SARS-CoV-2 infection.",
+    "published_date": "2022-02-01",
+    "pmid": "35247306",
+    "journal": "Cell reports",
+    "openalex": "https://openalex.org/W4225667321",
+    "total_citations": 0,
+    "publication_year": 2022,
+    "is_open_access": true,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A2268299973",
+    "last_author_raw_affil_string": "Precision Immunology Institute, Icahn School of Medicine at Mount Sinai, New York, NY, USA",
+    "institute_name": "Icahn School of Medicine at Mount Sinai",
+    "institute_url": "https://api.openalex.org/I98704320",
+    "geo_country": "US",
+    "geo_region": "New York",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Machine Learning Classifies Ferroptosis and Apoptosis Cell Death Modalities with TfR1 Immunostaining.",
+    "published_date": "2022-03-01",
+    "pmid": "35230809",
+    "journal": "ACS chemical biology",
+    "openalex": "https://openalex.org/W4214666071",
+    "total_citations": 0,
+    "publication_year": 2022,
+    "is_open_access": true,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A1823611366",
+    "last_author_raw_affil_string": "Department of Biological Sciences, Columbia University, New York, New York 10027, United States.",
+    "institute_name": "Columbia University",
+    "institute_url": "https://api.openalex.org/I78577930",
+    "geo_country": "US",
+    "geo_region": "New York",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Uncovering Molecular Heterogeneity in the Kidney With Spatially Targeted Mass Spectrometry.",
+    "published_date": "2022-02-11",
+    "pmid": "35222094",
+    "journal": "Frontiers in physiology",
+    "openalex": "https://openalex.org/W4211099904",
+    "total_citations": 0,
+    "publication_year": 2022,
+    "is_open_access": true,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A2130025508",
+    "last_author_raw_affil_string": "Department of Biochemistry, Vanderbilt University, Nashville, TN, United States",
+    "institute_name": "Vanderbilt University",
+    "institute_url": "https://api.openalex.org/I200719446",
+    "geo_country": "US",
+    "geo_region": "Tennessee",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Putting Humpty Dumpty Back Together Again: What Does Protein Quantification Mean in Bottom-Up Proteomics?",
+    "published_date": "2022-02-27",
+    "pmid": "35220718",
+    "journal": "Journal of proteome research",
+    "openalex": "https://openalex.org/W4214530719",
+    "total_citations": 0,
+    "publication_year": 2022,
+    "is_open_access": true,
+    "citation_counts_by_year": [],
+    "institute_name": null,
+    "institute_url": null,
+    "geo_country": null,
+    "geo_region": null,
+    "last_author_openalex": null,
+    "last_author_raw_affil_string": null,
+    "author_error": "Unhandled Exception: 'NoneType' object has no attribute 'replace'"
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Revealing new biology from multiplexed, metal-isotope-tagged, single-cell readouts.",
+    "published_date": "2022-02-01",
+    "pmid": "35181197",
+    "journal": "Trends in cell biology",
+    "openalex": "https://openalex.org/W4213032000",
+    "total_citations": 0,
+    "publication_year": 2022,
+    "is_open_access": false,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A1259518825",
+    "last_author_raw_affil_string": "Department of Pathology, School of Medicine, Stanford University, Stanford, CA, USA. Electronic address: bendall@stanford.edu.",
+    "institute_name": "Stanford University",
+    "institute_url": "https://api.openalex.org/I97018004",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Spatial-CUT&Tag: Spatially resolved chromatin modification profiling at the cellular level.",
+    "published_date": "2022-02-11",
+    "pmid": "35143307",
+    "journal": "Science (New York, N.Y.)",
+    "openalex": "https://openalex.org/W4211162540",
+    "total_citations": 0,
+    "publication_year": 2022,
+    "is_open_access": false,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A2236938311",
+    "last_author_raw_affil_string": "Department of Biomedical Engineering, Yale University, New Haven, CT 06520, USA.",
+    "institute_name": "Yale University",
+    "institute_url": "https://api.openalex.org/I32971472",
+    "geo_country": "US",
+    "geo_region": "Connecticut",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "The Blood Proteoform Atlas: A reference map of proteoforms in human hematopoietic cells.",
+    "published_date": "2022-01-28",
+    "pmid": "35084980",
+    "journal": "Science (New York, N.Y.)",
+    "openalex": "https://openalex.org/W4210380316",
+    "total_citations": 0,
+    "publication_year": 2022,
+    "is_open_access": false,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A15402447",
+    "last_author_raw_affil_string": "Department of Biochemistry and Molecular Genetics, Feinberg School of Medicine, Northwestern University, Chicago, IL, USA.",
+    "institute_name": "Northwestern University",
+    "institute_url": "https://api.openalex.org/I111979921",
+    "geo_country": "US",
+    "geo_region": "Illinois",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Transition to invasive breast cancer is associated with progressive changes in the structure and composition of tumor stroma.",
+    "published_date": "2022-01-01",
+    "pmid": "35063072",
+    "journal": "Cell",
+    "openalex": "https://openalex.org/W4226057452",
+    "total_citations": 0,
+    "publication_year": 2022,
+    "is_open_access": true,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A4226810078",
+    "last_author_raw_affil_string": "Department of Pathology, Stanford University School of Medicine, Stanford, CA, USA; Departments of Pathology & Immunology, Washington University School of Medicine, St. Louis, MO, USA. Electronic address: mangelo0@stanford.edu.",
+    "institute_name": "Stanford University",
+    "institute_url": "https://api.openalex.org/I97018004",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Comparison and evaluation of statistical error models for scRNA-seq.",
+    "published_date": "2022-01-18",
+    "pmid": "35042561",
+    "journal": "Genome biology",
+    "openalex": "https://openalex.org/W4225343266",
+    "total_citations": 0,
+    "publication_year": 2022,
+    "is_open_access": true,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A4225751126",
+    "last_author_raw_affil_string": "New York Genome Center",
+    "institute_name": "New York Genome Center",
+    "institute_url": "https://api.openalex.org/I4210151462",
+    "geo_country": "US",
+    "geo_region": "New York",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Pangenomics enables genotyping of known structural variants in 5202 diverse genomes.",
+    "published_date": "2021-12-17",
+    "pmid": "34914532",
+    "journal": "Science (New York, N.Y.)",
+    "openalex": "https://openalex.org/W4200597270",
+    "total_citations": 1,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2022": 3
+      }
+    ],
+    "institute_name": null,
+    "institute_url": null,
+    "geo_country": null,
+    "geo_region": null,
+    "last_author_openalex": null,
+    "last_author_raw_affil_string": null,
+    "author_error": "Unhandled Exception: 'NoneType' object has no attribute 'replace'"
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Multicellular modules as clinical diagnostic and therapeutic targets.",
+    "published_date": "2021-12-01",
+    "pmid": "34872889",
+    "journal": "Trends in cancer",
+    "openalex": "https://openalex.org/W4200574806",
+    "total_citations": 0,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A2701317621",
+    "last_author_raw_affil_string": "Department of Microbiology & Immunology, Stanford University School of Medicine, Stanford, CA 94305, USA; Department of Pathology, Stanford University School of Medicine, Stanford, CA 94305, USA. Electronic address: jwhickey@stanford.edu.",
+    "institute_name": "Stanford University",
+    "institute_url": "https://api.openalex.org/I97018004",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "geneBasis: an iterative approach for unsupervised selection of targeted gene panels from scRNA-seq.",
+    "published_date": "2021-12-01",
+    "pmid": "34872616",
+    "journal": "Genome biology",
+    "openalex": "https://openalex.org/W4225727976",
+    "total_citations": 0,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [],
+    "institute_name": null,
+    "institute_url": null,
+    "geo_country": null,
+    "geo_region": null,
+    "last_author_openalex": null,
+    "last_author_raw_affil_string": null,
+    "author_error": "Unhandled Exception: 'NoneType' object has no attribute 'replace'"
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Cross-Laboratory Standardization of Preclinical Lipidomics Using Differential Mobility Spectrometry and Multiple Reaction Monitoring.",
+    "published_date": "2021-12-03",
+    "pmid": "34859676",
+    "journal": "Analytical chemistry",
+    "openalex": "https://openalex.org/W3216809113",
+    "total_citations": 1,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 3
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2004708932",
+    "last_author_raw_affil_string": "Center for Proteomics and Metabolomics Leiden University Medical Center  Albinusdreef 2 Leiden 2333ZA The Netherlands",
+    "institute_name": "Leiden University Medical Center",
+    "institute_url": "https://api.openalex.org/I2800006345",
+    "geo_country": "NL",
+    "geo_region": null,
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Whole-cell segmentation of tissue images with human-level performance using large-scale data annotation and deep learning.",
+    "published_date": "2021-11-18",
+    "pmid": "34795433",
+    "journal": "Nature biotechnology",
+    "openalex": "https://openalex.org/W3214596602",
+    "total_citations": 10,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 7
+      },
+      {
+        "2021": 6
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2126347296",
+    "last_author_raw_affil_string": "Division of Biology and Bioengineering, California Institute of Technology, Pasadena, CA, USA",
+    "institute_name": "California Institute of Technology",
+    "institute_url": "https://api.openalex.org/I122411786",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Immune cell topography predicts response to PD-1 blockade in cutaneous T cell lymphoma.",
+    "published_date": "2021-11-18",
+    "pmid": "34795254",
+    "journal": "Nature communications",
+    "openalex": "https://openalex.org/W3214361718",
+    "total_citations": 3,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 5
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A1989754750",
+    "last_author_raw_affil_string": "Department of Pathology, Stanford University School of Medicine, Stanford, USA",
+    "institute_name": "Stanford University",
+    "institute_url": "https://api.openalex.org/I97018004",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Anatomical structures, cell types and biomarkers of the Human Reference Atlas.",
+    "published_date": "2021-11-01",
+    "pmid": "34750582",
+    "journal": "Nature cell biology",
+    "openalex": "https://openalex.org/W3212552860",
+    "total_citations": 4,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 3
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2147703715",
+    "last_author_raw_affil_string": "Department of Biomedical Informatics; Harvard Medical School; Boston MA USA",
+    "institute_name": "Harvard University",
+    "institute_url": "https://api.openalex.org/I136199984",
+    "geo_country": "US",
+    "geo_region": "Massachusetts",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Cell type ontologies of the Human Cell Atlas.",
+    "published_date": "2021-11-01",
+    "pmid": "34750578",
+    "journal": "Nature cell biology",
+    "openalex": "https://openalex.org/W3214179544",
+    "total_citations": 2,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A808621600",
+    "last_author_raw_affil_string": "Cavendish Laboratory, University of Cambridge, Cambridge, UK. st9@sanger.ac.uk.",
+    "institute_name": "Wellcome Sanger Institute",
+    "institute_url": "https://api.openalex.org/I2802476451",
+    "geo_country": "GB",
+    "geo_region": null,
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Stratification of chemotherapy-treated stage III colorectal cancer patients using multiplexed imaging and single-cell analysis of T-cell populations.",
+    "published_date": "2021-11-03",
+    "pmid": "34732839",
+    "journal": "Modern pathology : an official journal of the United States and Canadian Academy of Pathology, Inc",
+    "openalex": "https://openalex.org/W3209543778",
+    "total_citations": 1,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2032479818",
+    "last_author_raw_affil_string": "Patrick G. Johnston Centre for Cancer Research, School of Medicine, Dentistry and Biomedical Science, Queen's University Belfast, Northern Ireland, UK.",
+    "institute_name": "Queen's University Belfast",
+    "institute_url": "https://api.openalex.org/I126231945",
+    "geo_country": "GB",
+    "geo_region": null,
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Haplotype-aware variant calling with PEPPER-Margin-DeepVariant enables high accuracy in nanopore long-reads.",
+    "published_date": "2021-11-01",
+    "pmid": "34725481",
+    "journal": "Nature methods",
+    "openalex": "https://openalex.org/W3208186059",
+    "total_citations": 1,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 5
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A162893701",
+    "last_author_raw_affil_string": "UC Santa Cruz Genomics Institute, Santa Cruz, CA, USA.",
+    "institute_name": "University of California, Santa Cruz",
+    "institute_url": "https://api.openalex.org/I185103710",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Single-cell chromatin state analysis with Signac.",
+    "published_date": "2021-11-01",
+    "pmid": "34725479",
+    "journal": "Nature methods",
+    "openalex": "https://openalex.org/W3210860076",
+    "total_citations": 16,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 19
+      },
+      {
+        "2021": 3
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2026615643",
+    "last_author_raw_affil_string": "Center for Genomics and Systems Biology, New York University, New York City, NY, USA. rsatija@nygenome.org.",
+    "institute_name": "New York University",
+    "institute_url": "https://api.openalex.org/I57206974",
+    "geo_country": "US",
+    "geo_region": "New York",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Deep Learning Approach for Dynamic Sparse Sampling for High-Throughput Mass Spectrometry Imaging.",
+    "published_date": "2021-01-01",
+    "pmid": "34722959",
+    "journal": "IS&T International Symposium on Electronic Imaging",
+    "openalex": "https://openalex.org/W3183421954",
+    "total_citations": 0,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A2647224255",
+    "last_author_raw_affil_string": "Electrical and Computer Engineering; Marquette University; Milwaukee, Wisconsin, USA.",
+    "institute_name": "Marquette University",
+    "institute_url": "https://api.openalex.org/I102461120",
+    "geo_country": "US",
+    "geo_region": "Wisconsin",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Editorial: Footprints of Immune Cells in the Type 1 Diabetic Pancreas.",
+    "published_date": "2021-10-14",
+    "pmid": "34721308",
+    "journal": "Frontiers in endocrinology",
+    "openalex": "https://openalex.org/W3205965546",
+    "total_citations": 0,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A2282880168",
+    "last_author_raw_affil_string": "Institute of Diabetes Research, Helmholtz Zentrum M\u00fcnchen, German Research Center for Environmental Health, Munich-Neuherberg, Germany.",
+    "institute_name": "Helmholtz Zentrum M\u00fcnchen",
+    "institute_url": "https://api.openalex.org/I3018134672",
+    "geo_country": "DE",
+    "geo_region": null,
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Mass spectrometry-based targeted proteomics for analysis of protein mutations.",
+    "published_date": "2021-10-31",
+    "pmid": "34719806",
+    "journal": "Mass spectrometry reviews",
+    "openalex": "https://openalex.org/W3208349679",
+    "total_citations": 0,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A2133515730",
+    "last_author_raw_affil_string": "Biological Sciences Division Pacific Northwest National Laboratory  Richland Washington USA",
+    "institute_name": "Pacific Northwest National Laboratory",
+    "institute_url": "https://api.openalex.org/I142606810",
+    "geo_country": "US",
+    "geo_region": "Washington",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Deep learning and alignment of spatially resolved single-cell transcriptomes with Tangram.",
+    "published_date": "2021-10-28",
+    "pmid": "34711971",
+    "journal": "Nature methods",
+    "openalex": "https://openalex.org/W3208940117",
+    "total_citations": 4,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 8
+      },
+      {
+        "2021": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A1893730172",
+    "last_author_raw_affil_string": "Broad Institute of MIT and Harvard, Cambridge, MA, USA. aviv.regev.sc@gmail.com.",
+    "institute_name": "Broad Institute",
+    "institute_url": "https://api.openalex.org/I107606265",
+    "geo_country": "US",
+    "geo_region": "Massachusetts",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "3D virtual reality vs. 2D desktop registration user interface comparison.",
+    "published_date": "2021-01-01",
+    "pmid": "34705835",
+    "journal": "PloS one",
+    "openalex": "https://openalex.org/W3211141594",
+    "total_citations": 1,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2143783256",
+    "last_author_raw_affil_string": "Department of Intelligent Systems Engineering, Luddy School of Informatics, Computing, and Engineering, Indiana University, Bloomington, Indiana, United States of America.",
+    "institute_name": "Indiana University",
+    "institute_url": "https://api.openalex.org/I592451",
+    "geo_country": "US",
+    "geo_region": "Indiana",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "RAP-NET: COARSE-TO-FINE MULTI-ORGAN SEGMENTATION WITH SINGLE RANDOM ANATOMICAL PRIOR.",
+    "published_date": "2021-04-13",
+    "pmid": "34667487",
+    "journal": "Proceedings. IEEE International Symposium on Biomedical Imaging",
+    "openalex": "https://openalex.org/W3164847477",
+    "total_citations": 1,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2028345965",
+    "last_author_raw_affil_string": "Vanderbilt University,Electrical Engineering and Computer Science,Nashville,TN,USA",
+    "institute_name": "Vanderbilt University",
+    "institute_url": "https://api.openalex.org/I200719446",
+    "geo_country": "US",
+    "geo_region": "Tennessee",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Scalable dual-omics profiling with single-nucleus chromatin accessibility and mRNA expression sequencing 2 (SNARE-seq2).",
+    "published_date": "2021-10-14",
+    "pmid": "34650278",
+    "journal": "Nature protocols",
+    "openalex": "https://openalex.org/W3207419498",
+    "total_citations": 1,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2691904586",
+    "last_author_raw_affil_string": "Department of Bioengineering, University of California San Diego, La Jolla, CA, USA. kzhang@bioeng.ucsd.edu.",
+    "institute_name": "University of California, San Diego",
+    "institute_url": "https://api.openalex.org/I36258959",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "A Pilot Study of Urine Proteomics in Covid-19-associated Acute Kidney Injury.",
+    "published_date": "2021-12-01",
+    "pmid": "34642644",
+    "journal": "Kidney international reports",
+    "openalex": "https://openalex.org/W3205194111",
+    "total_citations": 1,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2422605780",
+    "last_author_raw_affil_string": "Department of Medicine, Washington University School of Medicine, St. Louis, Missouri, USA.",
+    "institute_name": "Washington University in St. Louis",
+    "institute_url": "https://api.openalex.org/I204465549",
+    "geo_country": "US",
+    "geo_region": "Missouri",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "rPAC: Route based pathway analysis for cohorts of gene expression data sets.",
+    "published_date": "2021-10-07",
+    "pmid": "34628030",
+    "journal": "Methods (San Diego, Calif.)",
+    "openalex": "https://openalex.org/W3204256587",
+    "total_citations": 1,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2021": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2146674710",
+    "last_author_raw_affil_string": "Computer Science and Engineering Department, University of Connecticut, Storrs, CT, USA",
+    "institute_name": "University of Connecticut",
+    "institute_url": "https://api.openalex.org/I140172145",
+    "geo_country": "US",
+    "geo_region": "Connecticut",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "In-depth triacylglycerol profiling using MS3 Q-Trap mass spectrometry.",
+    "published_date": "2021-09-03",
+    "pmid": "34625255",
+    "journal": "Analytica chimica acta",
+    "openalex": "https://openalex.org/W3196650236",
+    "total_citations": 1,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2344071295",
+    "last_author_raw_affil_string": "Department of Genetics, Stanford University, Stanford, CA, USA. Electronic address:",
+    "institute_name": "Stanford University",
+    "institute_url": "https://api.openalex.org/I97018004",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Highly multiplexed immunofluorescence of the human kidney using co-detection by indexing.",
+    "published_date": "2021-10-05",
+    "pmid": "34619231",
+    "journal": "Kidney international",
+    "openalex": "https://openalex.org/W3202994633",
+    "total_citations": 3,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2130025508",
+    "last_author_raw_affil_string": "Mass Spectrometry Research Center, Vanderbilt University, Nashville, Tennessee, USA",
+    "institute_name": "Vanderbilt University",
+    "institute_url": "https://api.openalex.org/I200719446",
+    "geo_country": "US",
+    "geo_region": "Tennessee",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Advances in spatial transcriptomic data analysis.",
+    "published_date": "2021-10-01",
+    "pmid": "34599004",
+    "journal": "Genome research",
+    "openalex": "https://openalex.org/W3203689742",
+    "total_citations": 5,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 5
+      },
+      {
+        "2021": 4
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2150062710",
+    "last_author_raw_affil_string": "5Precision Immunology Institute, Icahn School of Medicine at Mount Sinai, New York, New York 10029, USA",
+    "institute_name": "Icahn School of Medicine at Mount Sinai",
+    "institute_url": "https://api.openalex.org/I98704320",
+    "geo_country": "US",
+    "geo_region": "New York",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Renal Cortex, Medulla and Pelvicaliceal System Segmentation on Arterial Phase CT Images with Random Patch-based Networks.",
+    "published_date": "2021-02-15",
+    "pmid": "34531632",
+    "journal": "Proceedings of SPIE--the International Society for Optical Engineering",
+    "openalex": "https://openalex.org/W3129451312",
+    "total_citations": 0,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A2028345965",
+    "last_author_raw_affil_string": "Department of Electrical Engineering and Computer Science, Vanderbilt University, Nashville, TN, USA 37212.",
+    "institute_name": "Vanderbilt University",
+    "institute_url": "https://api.openalex.org/I200719446",
+    "geo_country": "US",
+    "geo_region": "Tennessee",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Integration of spatial and single-cell transcriptomic data elucidates mouse organogenesis.",
+    "published_date": "2021-09-06",
+    "pmid": "34489600",
+    "journal": "Nature biotechnology",
+    "openalex": "https://openalex.org/W3196495189",
+    "total_citations": 5,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 6
+      },
+      {
+        "2021": 3
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A258609416",
+    "last_author_raw_affil_string": "Cancer Research UK Cambridge Institute, University of Cambridge, Cambridge, UK. marioni@ebi.ac.uk.",
+    "institute_name": "Wellcome Sanger Institute",
+    "institute_url": "https://api.openalex.org/I2802476451",
+    "geo_country": "GB",
+    "geo_region": null,
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Strategies for Accurate Cell Type Identification in CODEX Multiplexed Imaging Data.",
+    "published_date": "2021-08-13",
+    "pmid": "34484237",
+    "journal": "Frontiers in immunology",
+    "openalex": "https://openalex.org/W3194189918",
+    "total_citations": 2,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 2
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2606330524",
+    "last_author_raw_affil_string": "Department of Pathology, Stanford University School of Medicine, Stanford, CA, United States.",
+    "institute_name": "Stanford University",
+    "institute_url": "https://api.openalex.org/I97018004",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "\u03b1-Cyano-4-hydroxycinnamic Acid and Tri-Potassium Citrate Salt Pre-Coated Silicon Nanopost Array Provides Enhanced Lipid Detection for High Spatial Resolution MALDI Imaging Mass Spectrometry.",
+    "published_date": "2021-09-14",
+    "pmid": "34449196",
+    "journal": "Analytical chemistry",
+    "openalex": "https://openalex.org/W3194709413",
+    "total_citations": 0,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A2130025508",
+    "last_author_raw_affil_string": "Mass Spectrometry Research Center, Vanderbilt University, Nashville, Tennessee 37235, United States.",
+    "institute_name": "Vanderbilt University",
+    "institute_url": "https://api.openalex.org/I200719446",
+    "geo_country": "US",
+    "geo_region": "Tennessee",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Immunophenotyping assessment in a COVID-19 cohort (IMPACC): A prospective longitudinal study.",
+    "published_date": "2021-08-10",
+    "pmid": "34376480",
+    "journal": "Science immunology",
+    "openalex": "https://openalex.org/W3192076274",
+    "total_citations": 2,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A3189906578",
+    "last_author_raw_affil_string": null,
+    "institute_name": null,
+    "institute_url": null,
+    "geo_country": null,
+    "geo_region": null,
+    "author_error": "Author https://api.openalex.org/A3189906578 missing affiliation node for https://api.openalex.org/W3192076274"
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Construction of a Multi-Phase Contrast Computed Tomography Kidney Atlas.",
+    "published_date": "2021-02-15",
+    "pmid": "34354322",
+    "journal": "Proceedings of SPIE--the International Society for Optical Engineering",
+    "openalex": "https://openalex.org/W3129618456",
+    "total_citations": 1,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2020": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2028345965",
+    "last_author_raw_affil_string": "Department of Electrical Engineering and Computer Science, Vanderbilt University, Nashville, TN, USA 37212.",
+    "institute_name": "Vanderbilt University Medical Center",
+    "institute_url": "https://api.openalex.org/I901861585",
+    "geo_country": "US",
+    "geo_region": "Tennessee",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Community-wide hackathons to identify central themes in single-cell multi-omics.",
+    "published_date": "2021-08-05",
+    "pmid": "34353350",
+    "journal": "Genome biology",
+    "openalex": "https://openalex.org/W3188474407",
+    "total_citations": 3,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 2
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2154922956",
+    "last_author_raw_affil_string": "Department of Applied Mathematics and Statistics, Johns Hopkins University Whiting School of Engineering, Baltimore, USA",
+    "institute_name": "Johns Hopkins Medicine",
+    "institute_url": "https://api.openalex.org/I2799853436",
+    "geo_country": "US",
+    "geo_region": "Maryland",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Facile One-Pot Nanoproteomics for Label-Free Proteome Profiling of 50-1000 Mammalian Cells.",
+    "published_date": "2021-08-05",
+    "pmid": "34351778",
+    "journal": "Journal of proteome research",
+    "openalex": "https://openalex.org/W3190820600",
+    "total_citations": 0,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A2133515730",
+    "last_author_raw_affil_string": "Biological Sciences Division, Pacific Northwest National Laboratory, Richland, Washington 99354, United States",
+    "institute_name": "Pacific Northwest National Laboratory",
+    "institute_url": "https://api.openalex.org/I142606810",
+    "geo_country": "US",
+    "geo_region": "Washington",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Mass spectrometry-based metabolomics: a guide for annotation, quantification and best reporting practices.",
+    "published_date": "2021-07-08",
+    "pmid": "34239102",
+    "journal": "Nature methods",
+    "openalex": "https://openalex.org/W3181660183",
+    "total_citations": 33,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 19
+      },
+      {
+        "2021": 25
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2127484256",
+    "last_author_raw_affil_string": "Max-Planck Institute of Molecular Plant Physiology",
+    "institute_name": "Max Planck Society",
+    "institute_url": "https://api.openalex.org/I149899117",
+    "geo_country": "DE",
+    "geo_region": null,
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "CODEX multiplexed tissue imaging with DNA-conjugated antibodies.",
+    "published_date": "2021-07-02",
+    "pmid": "34215862",
+    "journal": "Nature protocols",
+    "openalex": "https://openalex.org/W3176444924",
+    "total_citations": 13,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2022": 7
+      },
+      {
+        "2021": 11
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A1989754750",
+    "last_author_raw_affil_string": "Department of Pathology, Stanford University School of Medicine, Stanford, USA",
+    "institute_name": "Stanford University",
+    "institute_url": "https://api.openalex.org/I97018004",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Embryo-scale, single-cell spatial transcriptomics.",
+    "published_date": "2021-07-02",
+    "pmid": "34210887",
+    "journal": "Science (New York, N.Y.)",
+    "openalex": "https://openalex.org/W3176766013",
+    "total_citations": 14,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2022": 5
+      },
+      {
+        "2021": 12
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2010954046",
+    "last_author_raw_affil_string": "Department of Genome Sciences, University of Washington, Seattle, WA, USA.",
+    "institute_name": "University of Washington",
+    "institute_url": "https://api.openalex.org/I201448701",
+    "geo_country": "US",
+    "geo_region": "Washington",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "The emerging landscape of single-molecule protein sequencing technologies.",
+    "published_date": "2021-06-01",
+    "pmid": "34099939",
+    "journal": "Nature methods",
+    "openalex": "https://openalex.org/W3167479850",
+    "total_citations": 38,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 14
+      },
+      {
+        "2021": 28
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2162702474",
+    "last_author_raw_affil_string": "(Delft University of Technology)",
+    "institute_name": "Delft University of Technology",
+    "institute_url": "https://api.openalex.org/I98358874",
+    "geo_country": "NL",
+    "geo_region": "Zuid-Holland",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Highly Multiplexed Phenotyping of Immunoregulatory Proteins in the Tumor Microenvironment by CODEX Tissue Imaging.",
+    "published_date": "2021-05-19",
+    "pmid": "34093591",
+    "journal": "Frontiers in immunology",
+    "openalex": "https://openalex.org/W3162853653",
+    "total_citations": 10,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 3
+      },
+      {
+        "2021": 7
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2138469484",
+    "last_author_raw_affil_string": "Department of Pathology, Stanford University School of Medicine, Stanford, CA, United States",
+    "institute_name": "Stanford University",
+    "institute_url": "https://api.openalex.org/I97018004",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Integrated analysis of multimodal single-cell data.",
+    "published_date": "2021-06-24",
+    "pmid": "34062119",
+    "journal": "Cell",
+    "openalex": "https://openalex.org/W3164692211",
+    "total_citations": 346,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 145
+      },
+      {
+        "2021": 257
+      },
+      {
+        "2020": 5
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2026615643",
+    "last_author_raw_affil_string": "Center for Genomics and Systems Biology, New York University, New York, NY 10003, USA",
+    "institute_name": "New York University",
+    "institute_url": "https://api.openalex.org/I57206974",
+    "geo_country": "US",
+    "geo_region": "New York",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "New Interface for Faster Proteoform Analysis: Immunoprecipitation Coupled with SampleStream-Mass Spectrometry.",
+    "published_date": "2021-05-27",
+    "pmid": "34043341",
+    "journal": "Journal of the American Society for Mass Spectrometry",
+    "openalex": "https://openalex.org/W3165064209",
+    "total_citations": 1,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2021": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A15402447",
+    "last_author_raw_affil_string": "Department of Chemistry, Chemistry of Life Processes Institute and Proteomics Center of Excellence, Northwestern University, Evanston, Illinois 60208, United States",
+    "institute_name": "Northwestern University",
+    "institute_url": "https://api.openalex.org/I111979921",
+    "geo_country": "US",
+    "geo_region": "Illinois",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Multiomics Imaging Using High-Energy Water Gas Cluster Ion Beam Secondary Ion Mass Spectrometry [(H2O)n-GCIB-SIMS] of Frozen-Hydrated Cells and Tissue.",
+    "published_date": "2021-05-26",
+    "pmid": "34038090",
+    "journal": "Analytical chemistry",
+    "openalex": "https://openalex.org/W3165302562",
+    "total_citations": 2,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2071282100",
+    "last_author_raw_affil_string": "Department of Chemistry, Pennsylvania State University, University Park, Pennsylvania 16802,#R#United States",
+    "institute_name": "Pennsylvania State University",
+    "institute_url": "https://api.openalex.org/I130769515",
+    "geo_country": "US",
+    "geo_region": "Pennsylvania",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Spatial multi-omics sequencing for fixed tissue via DBiT-seq.",
+    "published_date": "2021-05-11",
+    "pmid": "34027489",
+    "journal": "STAR protocols",
+    "openalex": "https://openalex.org/W3163540757",
+    "total_citations": 3,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2236938311",
+    "last_author_raw_affil_string": "Yale Stem Cell Center and Yale Cancer Center, Yale School of Medicine, New Haven, CT 06520, USA",
+    "institute_name": "Yale University",
+    "institute_url": "https://api.openalex.org/I32971472",
+    "geo_country": "US",
+    "geo_region": "Connecticut",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Pancreas Optical Clearing and 3-D Microscopy in Health and Diabetes.",
+    "published_date": "2021-04-26",
+    "pmid": "33981285",
+    "journal": "Frontiers in endocrinology",
+    "openalex": "https://openalex.org/W3159365823",
+    "total_citations": 3,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 2
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2892673160",
+    "last_author_raw_affil_string": "Department of Medical Science and Institute of Biotechnology, National Tsing Hua University, Hsinchu, Taiwan",
+    "institute_name": "National Tsing Hua University",
+    "institute_url": "https://api.openalex.org/I25846049",
+    "geo_country": "TW",
+    "geo_region": null,
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "SpatialDWLS: accurate deconvolution of spatial transcriptomic data.",
+    "published_date": "2021-05-10",
+    "pmid": "33971932",
+    "journal": "Genome biology",
+    "openalex": "https://openalex.org/W3161009639",
+    "total_citations": 8,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 8
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2150062710",
+    "last_author_raw_affil_string": "Department of Genetics and Genomic Sciences, Charles Bronfman Institute for Personalized Medicine, Icahn School of Medicine at Mount Sinai, New York, USA",
+    "institute_name": "Harvard University",
+    "institute_url": "https://api.openalex.org/I136199984",
+    "geo_country": "US",
+    "geo_region": "Massachusetts",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Deep learning of gene relationships from single cell time-course expression data.",
+    "published_date": "2021-09-02",
+    "pmid": "33876191",
+    "journal": "Briefings in bioinformatics",
+    "openalex": "https://openalex.org/W3156304677",
+    "total_citations": 1,
+    "publication_year": 2021,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2021": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A96358963",
+    "last_author_raw_affil_string": "FORE Systems Professor of Computational Biology and Machine Learning at CMU, USA.",
+    "institute_name": "Carnegie Mellon University",
+    "institute_url": "https://api.openalex.org/I74973139",
+    "geo_country": "US",
+    "geo_region": "Pennsylvania",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "CytoTalk: De novo construction of signal transduction networks using single-cell transcriptomic data.",
+    "published_date": "2021-04-14",
+    "pmid": "33853780",
+    "journal": "Science advances",
+    "openalex": "https://openalex.org/W3155546248",
+    "total_citations": 7,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 3
+      },
+      {
+        "2021": 5
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2619351658",
+    "last_author_raw_affil_string": "Department of Pediatrics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104, USA",
+    "institute_name": "Children's Hospital of Philadelphia",
+    "institute_url": "https://api.openalex.org/I1335321130",
+    "geo_country": "US",
+    "geo_region": "Pennsylvania",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Deeper Protein Identification Using Field Asymmetric Ion Mobility Spectrometry in Top-Down Proteomics.",
+    "published_date": "2021-04-12",
+    "pmid": "33844503",
+    "journal": "Analytical chemistry",
+    "openalex": "https://openalex.org/W3154361343",
+    "total_citations": 5,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 3
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A15402447",
+    "last_author_raw_affil_string": "Northwestern University, National Resource for Translational and Developmental Proteomics, Evanston, Illinois 60208, United States",
+    "institute_name": "Northwestern University",
+    "institute_url": "https://api.openalex.org/I111979921",
+    "geo_country": "US",
+    "geo_region": "Illinois",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Islet sympathetic innervation and islet neuropathology in patients with type 1 diabetes.",
+    "published_date": "2021-03-22",
+    "pmid": "33753784",
+    "journal": "Scientific reports",
+    "openalex": "https://openalex.org/W3136074296",
+    "total_citations": 2,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 2
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2140263762",
+    "last_author_raw_affil_string": "Department of Pediatrics, College of Medicine, University of Florida, Gainesville, USA",
+    "institute_name": "University of Florida",
+    "institute_url": "https://api.openalex.org/I33213144",
+    "geo_country": "US",
+    "geo_region": "Florida",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Giotto: a toolbox for integrative analysis and visualization of spatial expression data.",
+    "published_date": "2021-03-08",
+    "pmid": "33685491",
+    "journal": "Genome biology",
+    "openalex": "https://openalex.org/W3134482219",
+    "total_citations": 51,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 19
+      },
+      {
+        "2021": 45
+      },
+      {
+        "2020": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2150062710",
+    "last_author_raw_affil_string": "Harvard Stem Cell Institute, Boston, USA",
+    "institute_name": "Icahn School of Medicine at Mount Sinai",
+    "institute_url": "https://api.openalex.org/I98704320",
+    "geo_country": "US",
+    "geo_region": "New York",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Advances in Proximity Ligation in situ Hybridization (PLISH).",
+    "published_date": "2020-11-05",
+    "pmid": "33659462",
+    "journal": "Bio-protocol",
+    "openalex": "https://openalex.org/W3097969921",
+    "total_citations": 1,
+    "publication_year": 2020,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2116601406",
+    "last_author_raw_affil_string": "Department of Internal Medicine, Division of Pulmonary, Allergy and Critical Care Medicine, Stanford University School of Medicine, Stanford, California, USA.",
+    "institute_name": "Stanford University",
+    "institute_url": "https://api.openalex.org/I97018004",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Surfactant-assisted one-pot sample preparation for label-free single-cell proteomics.",
+    "published_date": "2021-03-01",
+    "pmid": "33649493",
+    "journal": "Communications biology",
+    "openalex": "https://openalex.org/W3134913640",
+    "total_citations": 7,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 6
+      },
+      {
+        "2020": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2133515730",
+    "last_author_raw_affil_string": "Biological Sciences Division, Pacific Northwest National Laboratory, \u00a0, Richland, USA",
+    "institute_name": "Pacific Northwest National Laboratory",
+    "institute_url": "https://api.openalex.org/I142606810",
+    "geo_country": "US",
+    "geo_region": "Washington",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Spatial Segmentation of Mass Spectrometry Imaging Data by Combining Multivariate Clustering and Univariate Thresholding.",
+    "published_date": "2021-02-11",
+    "pmid": "33570915",
+    "journal": "Analytical chemistry",
+    "openalex": "https://openalex.org/W3126419250",
+    "total_citations": 3,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 2
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2114374388",
+    "last_author_raw_affil_string": " Department of Chemistry, Purdue University, West Lafayette, Indiana 47907 (United States)",
+    "institute_name": "Purdue University West Lafayette",
+    "institute_url": "https://api.openalex.org/I219193219",
+    "geo_country": "US",
+    "geo_region": "Indiana",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Highly multiplexed tissue imaging using repeated oligonucleotide exchange reaction.",
+    "published_date": "2021-02-06",
+    "pmid": "33548142",
+    "journal": "European journal of immunology",
+    "openalex": "https://openalex.org/W3126476181",
+    "total_citations": 13,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 12
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A1989754750",
+    "last_author_raw_affil_string": "Department of Pathology Stanford University School of Medicine Stanford CA USA",
+    "institute_name": "Stanford University",
+    "institute_url": "https://api.openalex.org/I97018004",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Integrated spatial genomics reveals global architecture of single nuclei.",
+    "published_date": "2021-01-27",
+    "pmid": "33505024",
+    "journal": "Nature",
+    "openalex": "https://openalex.org/W3125488134",
+    "total_citations": 50,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 18
+      },
+      {
+        "2021": 40
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2172239282",
+    "last_author_raw_affil_string": "Division of Biology and Biological Engineering, California Institute of Technology, Pasadena, USA.",
+    "institute_name": "California Institute of Technology",
+    "institute_url": "https://api.openalex.org/I122411786",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Supervised Adversarial Alignment of Single-Cell RNA-seq Data.",
+    "published_date": "2021-01-19",
+    "pmid": "33470876",
+    "journal": "Journal of computational biology : a journal of computational molecular cell biology",
+    "openalex": "https://openalex.org/W3019420398",
+    "total_citations": 6,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 6
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A96358963",
+    "last_author_raw_affil_string": "Machine Learning Department, Carnegie Mellon University, Pittsburgh, Pennsylvania, USA.",
+    "institute_name": "Carnegie Mellon University",
+    "institute_url": "https://api.openalex.org/I74973139",
+    "geo_country": "US",
+    "geo_region": "Pennsylvania",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Quantitative Mass Spectrometry Imaging of Biological Systems.",
+    "published_date": "2021-04-20",
+    "pmid": "33441032",
+    "journal": "Annual review of physical chemistry",
+    "openalex": "https://openalex.org/W3119456587",
+    "total_citations": 6,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 5
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2114374388",
+    "last_author_raw_affil_string": null,
+    "institute_name": "Purdue University West Lafayette",
+    "institute_url": "https://api.openalex.org/I219193219",
+    "geo_country": "US",
+    "geo_region": "Indiana",
+    "author_error": "Author https://api.openalex.org/A2114374388 missing affiliation node for https://api.openalex.org/W3119456587"
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "RIPK3-mediated inflammation is a conserved \u03b2 cell response to ER stress.",
+    "published_date": "2020-12-01",
+    "pmid": "33355143",
+    "journal": "Science advances",
+    "openalex": "https://openalex.org/W3112995472",
+    "total_citations": 8,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 7
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2167339325",
+    "last_author_raw_affil_string": "Department of Molecular Physiology & Biophysics, Vanderbilt University School of Medicine, 2215 Garland Avenue, Nashville, TN 37232, USA",
+    "institute_name": "Vanderbilt University",
+    "institute_url": "https://api.openalex.org/I200719446",
+    "geo_country": "US",
+    "geo_region": "Tennessee",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Effect of MALDI matrices on lipid analyses of biological tissues using MALDI-2 postionization mass spectrometry.",
+    "published_date": "2020-12-01",
+    "pmid": "33241625",
+    "journal": "Journal of mass spectrometry : JMS.",
+    "openalex": "https://openalex.org/W3089472526",
+    "total_citations": 4,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 4
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A17897085",
+    "last_author_raw_affil_string": "Department of Chemistry Vanderbilt University Nashville Tennessee 37232 USA",
+    "institute_name": "Vanderbilt University",
+    "institute_url": "https://api.openalex.org/I200719446",
+    "geo_country": "US",
+    "geo_region": "Tennessee",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Progenitor identification and SARS-CoV-2 infection in human distal lung organoids.",
+    "published_date": "2020-11-25",
+    "pmid": "33238290",
+    "journal": "Nature",
+    "openalex": "https://openalex.org/W3110287817",
+    "total_citations": 83,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 15
+      },
+      {
+        "2021": 71
+      },
+      {
+        "2020": 3
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2302676667",
+    "last_author_raw_affil_string": "Division of Hematology, Department of Medicine, Stanford University School of Medicine, Stanford, USA",
+    "institute_name": "Stanford University",
+    "institute_url": "https://api.openalex.org/I97018004",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Carrier-assisted One-pot Sample Preparation for Targeted Proteomics Analysis of Small Numbers of Human Cells.",
+    "published_date": "2020-11-06",
+    "pmid": "33226031",
+    "journal": "Journal of visualized experiments : JoVE.",
+    "openalex": "https://openalex.org/W3099294714",
+    "total_citations": 1,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2133515730",
+    "last_author_raw_affil_string": "Biological Sciences Division, Pacific Northwest National Laboratory;",
+    "institute_name": "Pacific Northwest National Laboratory",
+    "institute_url": "https://api.openalex.org/I142606810",
+    "geo_country": "US",
+    "geo_region": "Washington",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Predictive modeling of single-cell DNA methylome data enhances integration with transcriptome data.",
+    "published_date": "2021-01-01",
+    "pmid": "33219054",
+    "journal": "Genome research",
+    "openalex": "https://openalex.org/W3104116520",
+    "total_citations": 4,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 3
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2619351658",
+    "last_author_raw_affil_string": "1Center for Childhood Cancer Research, The Children's Hospital of Philadelphia, Philadelphia, Pennsylvania 19104, USA;",
+    "institute_name": "Children's Hospital of Philadelphia",
+    "institute_url": "https://api.openalex.org/I1335321130",
+    "geo_country": "US",
+    "geo_region": "Pennsylvania",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "High-Spatial-Resolution Multi-Omics Sequencing via Deterministic Barcoding in Tissue.",
+    "published_date": "2020-12-10",
+    "pmid": "33188776",
+    "journal": "Cell.",
+    "openalex": "https://openalex.org/W3100967665",
+    "total_citations": 90,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 16
+      },
+      {
+        "2021": 79
+      },
+      {
+        "2020": 1
+      },
+      {
+        "2019": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2236938311",
+    "last_author_raw_affil_string": "Yale Stem Cell Center and Yale Cancer Center, Yale School of Medicine, New Haven, CT 06520, USA",
+    "institute_name": "Yale University",
+    "institute_url": "https://api.openalex.org/I32971472",
+    "geo_country": "US",
+    "geo_region": "Connecticut",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Guidelines for reporting single-cell RNA-seq experiments.",
+    "published_date": "2019-10-31",
+    "pmid": "33188371",
+    "journal": "Nature biotechnology",
+    "openalex": "https://openalex.org/W2982597870",
+    "total_citations": 8,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 7
+      },
+      {
+        "2020": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2763010735",
+    "last_author_raw_affil_string": null,
+    "institute_name": "European Bioinformatics Institute",
+    "institute_url": "https://api.openalex.org/I1303153112",
+    "geo_country": "GB",
+    "geo_region": null,
+    "author_error": "Author https://api.openalex.org/A2763010735 missing affiliation node for https://api.openalex.org/W2982597870"
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Iterative point set registration for aligning scRNA-seq data.",
+    "published_date": "2020-10-27",
+    "pmid": "33108369",
+    "journal": "PLoS computational biology",
+    "openalex": "https://openalex.org/W3096271710",
+    "total_citations": 1,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A96358963",
+    "last_author_raw_affil_string": "Machine Learning Department, School of Computer Science, Carnegie Mellon University, Pittsburgh, Pennsylvania, United States of America.",
+    "institute_name": "Carnegie Mellon University",
+    "institute_url": "https://api.openalex.org/I74973139",
+    "geo_country": "US",
+    "geo_region": "Pennsylvania",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "CDKL5: a promising new therapeutic target for acute kidney injury?",
+    "published_date": "2020-10-19",
+    "pmid": "33073588",
+    "journal": "American journal of physiology. Renal physiology.",
+    "openalex": "https://openalex.org/W3092960214",
+    "total_citations": 0,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A2511848697",
+    "last_author_raw_affil_string": "Division of Nephrology, Department of Medicine, Vanderbilt University Medical Center, Nashville, Tennessee;",
+    "institute_name": "Vanderbilt University Medical Center",
+    "institute_url": "https://api.openalex.org/I901861585",
+    "geo_country": "US",
+    "geo_region": "Tennessee",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Landscape of coordinated immune responses to H1N1 challenge in humans.",
+    "published_date": "2020-11-02",
+    "pmid": "33044226",
+    "journal": "The Journal of clinical investigation.",
+    "openalex": "https://openalex.org/W3092108146",
+    "total_citations": 10,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 9
+      },
+      {
+        "2020": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2084640429",
+    "last_author_raw_affil_string": "Department of Microbiology and Immunology, Stanford University School of Medicine, Stanford, California, USA.",
+    "institute_name": "Stanford University",
+    "institute_url": "https://api.openalex.org/I97018004",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "A Generic Framework and Library for Exploration of Small Multiples through Interactive Piling.",
+    "published_date": "2021-01-28",
+    "pmid": "33026994",
+    "journal": "IEEE transactions on visualization and computer graphics",
+    "openalex": "https://openalex.org/W3092465494",
+    "total_citations": 0,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [],
+    "last_author_openalex": "https://api.openalex.org/A2102290556",
+    "last_author_raw_affil_string": "Cambridge, Harvard School of Engineering and Applied Sciences, MA, USA",
+    "institute_name": "Harvard University",
+    "institute_url": "https://api.openalex.org/I136199984",
+    "geo_country": "US",
+    "geo_region": "Massachusetts",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Integrating ion mobility and imaging mass spectrometry for comprehensive analysis of biological tissues: A brief review and perspective.",
+    "published_date": "2020-12-01",
+    "pmid": "32955134",
+    "journal": "Journal of mass spectrometry : JMS.",
+    "openalex": "https://openalex.org/W3038602829",
+    "total_citations": 13,
+    "publication_year": 2020,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2022": 3
+      },
+      {
+        "2021": 11
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2130025508",
+    "last_author_raw_affil_string": "Mass Spectrometry Research Center Vanderbilt University 465 21st Ave S #9160 Nashville TN 37235 USA",
+    "institute_name": "Vanderbilt University",
+    "institute_url": "https://api.openalex.org/I200719446",
+    "geo_country": "US",
+    "geo_region": "Tennessee",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Changes to Zonular Tension Alters the Subcellular Distribution of AQP5 in Regions of Influx and Efflux of Water in the Rat Lens.",
+    "published_date": "2020-09-01",
+    "pmid": "32945844",
+    "journal": "Investigative ophthalmology & visual science",
+    "openalex": "https://openalex.org/W3087648347",
+    "total_citations": 6,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 5
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A3199987790",
+    "last_author_raw_affil_string": "Department of Physiology, School of Medical Sciences, New Zealand National Eye Centre, University of Auckland, Auckland, New Zealand",
+    "institute_name": "University of Auckland",
+    "institute_url": "https://api.openalex.org/I154130895",
+    "geo_country": "NZ",
+    "geo_region": null,
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Targeting Phosphotyrosine in Native Proteins with Conditional, Bispecific Antibody Traps.",
+    "published_date": "2020-09-14",
+    "pmid": "32924468",
+    "journal": "Journal of the American Chemical Society",
+    "openalex": "https://openalex.org/W3084783011",
+    "total_citations": 2,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 2
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2095927384",
+    "last_author_raw_affil_string": "Department of Pharmaceutical Chemistry, University of California, San Francisco, California 94158, United States.",
+    "institute_name": "University of California, San Francisco",
+    "institute_url": "https://api.openalex.org/I180670191",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "The impact of air transport availability on research collaboration: A case study of four universities.",
+    "published_date": "2020-09-04",
+    "pmid": "32886681",
+    "journal": "PloS one",
+    "openalex": "https://openalex.org/W3083640067",
+    "total_citations": 1,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2143783256",
+    "last_author_raw_affil_string": "Indiana Network Science Institute, Indiana University, Bloomington, Indiana, United States of America.",
+    "institute_name": "Indiana University",
+    "institute_url": "https://api.openalex.org/I592451",
+    "geo_country": "US",
+    "geo_region": "Indiana",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Identifying signaling genes in spatial single-cell expression data.",
+    "published_date": "2021-05-17",
+    "pmid": "32886099",
+    "journal": "Bioinformatics (Oxford, England)",
+    "openalex": "https://openalex.org/W3083756487",
+    "total_citations": 12,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 5
+      },
+      {
+        "2021": 8
+      },
+      {
+        "2020": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A96358963",
+    "last_author_raw_affil_string": "Machine Learning Department, School of Computer Science, Carnegie Mellon University, Pittsburgh, PA 15213, USA",
+    "institute_name": "Carnegie Mellon University",
+    "institute_url": "https://api.openalex.org/I74973139",
+    "geo_country": "US",
+    "geo_region": "Pennsylvania",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Single-cell metabolic profiling of human cytotoxic T cells.",
+    "published_date": "2021-02-01",
+    "pmid": "32868913",
+    "journal": "Nature biotechnology.",
+    "openalex": "https://openalex.org/W3081828282",
+    "total_citations": 52,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 15
+      },
+      {
+        "2021": 39
+      },
+      {
+        "2020": 5
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A1259518825",
+    "last_author_raw_affil_string": "Stanford University ()",
+    "institute_name": "Stanford University",
+    "institute_url": "https://api.openalex.org/I97018004",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Coordinated Cellular Neighborhoods Orchestrate Antitumoral Immunity at the Colorectal Cancer Invasive Front.",
+    "published_date": "2020-09-03",
+    "pmid": "32763154",
+    "journal": "Cell.",
+    "openalex": "https://openalex.org/W3047081808",
+    "total_citations": 124,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 17
+      },
+      {
+        "2021": 106
+      },
+      {
+        "2020": 10
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A1989754750",
+    "last_author_raw_affil_string": "Department of Pathology Stanford University School of Medicine Stanford CA 94305 USA",
+    "institute_name": "Stanford University",
+    "institute_url": "https://api.openalex.org/I97018004",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "An Integrated Microfluidic Probe for Mass Spectrometry Imaging of Biological Samples*.",
+    "published_date": "2020-12-07",
+    "pmid": "32743957",
+    "journal": "Angewandte Chemie (International ed. in English)",
+    "openalex": "https://openalex.org/W3046600704",
+    "total_citations": 5,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 5
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2114374388",
+    "last_author_raw_affil_string": "Department of Chemistry, Purdue University, 560 Oval Drive, West Lafayette, IN 47907 (USA).",
+    "institute_name": "Purdue University West Lafayette",
+    "institute_url": "https://api.openalex.org/I219193219",
+    "geo_country": "US",
+    "geo_region": "Indiana",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Progenitor identification and SARS-CoV-2 infection in long-term human distal lung organoid cultures.",
+    "published_date": "2020-07-27",
+    "pmid": "32743583",
+    "journal": "bioRxiv : the preprint server for biology",
+    "openalex": "https://openalex.org/W3044040393",
+    "total_citations": 19,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 15
+      },
+      {
+        "2020": 4
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2302676667",
+    "last_author_raw_affil_string": "Department of Medicine, Divisions of Hematology, Stanford University School of Medicine",
+    "institute_name": "Stanford University",
+    "institute_url": "https://api.openalex.org/I97018004",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Nanopore sequencing and the Shasta toolkit enable efficient de novo assembly of eleven human genomes.",
+    "published_date": "2020-05-04",
+    "pmid": "32686750",
+    "journal": "Nature biotechnology.",
+    "openalex": "https://openalex.org/W3022783334",
+    "total_citations": 140,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 12
+      },
+      {
+        "2021": 98
+      },
+      {
+        "2020": 36
+      },
+      {
+        "2019": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A162893701",
+    "last_author_raw_affil_string": "UC Santa Cruz Genomics Institute, Santa Cruz, USA",
+    "institute_name": "University of California, Santa Cruz",
+    "institute_url": "https://api.openalex.org/I185103710",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Localization of the lens intermediate filament switch by imaging mass spectrometry.",
+    "published_date": "2020-07-16",
+    "pmid": "32682822",
+    "journal": "Experimental eye research",
+    "openalex": "https://openalex.org/W3043817842",
+    "total_citations": 2,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 2
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2231451644",
+    "last_author_raw_affil_string": "Department of Biochemistry, Vanderbilt University, Nashville, TN 37232,\u00a0USA.",
+    "institute_name": "Vanderbilt University",
+    "institute_url": "https://api.openalex.org/I200719446",
+    "geo_country": "US",
+    "geo_region": "Tennessee",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "An Integrated Multi-omic Single-Cell Atlas of Human B Cell Identity.",
+    "published_date": "2020-07-14",
+    "pmid": "32668225",
+    "journal": "Immunity.",
+    "openalex": "https://openalex.org/W3043633702",
+    "total_citations": 46,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 6
+      },
+      {
+        "2021": 35
+      },
+      {
+        "2020": 7
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A1259518825",
+    "last_author_raw_affil_string": "Immunology Graduate Program, Stanford University, Stanford, CA, 94305, USA",
+    "institute_name": "Stanford University",
+    "institute_url": "https://api.openalex.org/I97018004",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Lipid Landscape of the Human Retina and Supporting Tissues Revealed by High-Resolution Imaging Mass Spectrometry.",
+    "published_date": "2020-07-24",
+    "pmid": "32628476",
+    "journal": "Journal of the American Society for Mass Spectrometry",
+    "openalex": "https://openalex.org/W3038981895",
+    "total_citations": 8,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 7
+      },
+      {
+        "2020": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2231451644",
+    "last_author_raw_affil_string": "Department of Biochemistry and Mass Spectrometry Research Center, Vanderbilt University, Nashville, Tennessee 37240, United States",
+    "institute_name": "Vanderbilt University",
+    "institute_url": "https://api.openalex.org/I200719446",
+    "geo_country": "US",
+    "geo_region": "Tennessee",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "A Cancer Biologist's Primer on Machine Learning Applications in High-Dimensional Cytometry.",
+    "published_date": "2020-08-01",
+    "pmid": "32602650",
+    "journal": "Cytometry. Part A : the journal of the International Society for Analytical Cytology.",
+    "openalex": "https://openalex.org/W3039991853",
+    "total_citations": 12,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 7
+      },
+      {
+        "2020": 4
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2103305189",
+    "last_author_raw_affil_string": "Department of Pediatrics Stanford University School of Medicine Stanford, California",
+    "institute_name": "Stanford University",
+    "institute_url": "https://api.openalex.org/I97018004",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Multimodal Analysis of Composition and Spatial Architecture in Human Squamous Cell Carcinoma.",
+    "published_date": "2020-07-23",
+    "pmid": "32579974",
+    "journal": "Cell.",
+    "openalex": "https://openalex.org/W3036371598",
+    "total_citations": 124,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 28
+      },
+      {
+        "2021": 100
+      },
+      {
+        "2020": 17
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2285436648",
+    "last_author_raw_affil_string": "Stanford Cancer Institute, Stanford University School of Medicine, Stanford, CA 94305, USA",
+    "institute_name": "Veterans Health Administration",
+    "institute_url": "https://api.openalex.org/I2799886695",
+    "geo_country": "US",
+    "geo_region": "District of Columbia",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "The Importance of Clinical Tissue Imaging.",
+    "published_date": "2019-04-01",
+    "pmid": "32483555",
+    "journal": "Clinical mass spectrometry (Del Mar, Calif.).",
+    "openalex": "https://openalex.org/W2938876853",
+    "total_citations": 3,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 2
+      },
+      {
+        "2020": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2041328859",
+    "last_author_raw_affil_string": "Department of Chemistry, The University of Texas at Austin, Austin, TX, USA",
+    "institute_name": "The University of Texas at Austin",
+    "institute_url": "https://api.openalex.org/I86519309",
+    "geo_country": "US",
+    "geo_region": "Texas",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Use of Single-Cell -Omic Technologies to Study the Gastrointestinal Tract and Diseases, From Single Cell Identities to Patient Features.",
+    "published_date": "2020-05-14",
+    "pmid": "32417404",
+    "journal": "Gastroenterology.",
+    "openalex": "https://openalex.org/W3024506599",
+    "total_citations": 8,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 8
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2240257393",
+    "last_author_raw_affil_string": "Epithelial Biology Center and Department of Cell and Developmental Biology, Vanderbilt University School of Medicine, Nashville, Tennessee",
+    "institute_name": "Vanderbilt University",
+    "institute_url": "https://api.openalex.org/I200719446",
+    "geo_country": "US",
+    "geo_region": "Tennessee",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Discovering New Lipidomic Features Using Cell Type Specific Fluorophore Expression to Provide Spatial and Biological Specificity in a Multimodal Workflow with MALDI Imaging Mass Spectrometry.",
+    "published_date": "2020-04-16",
+    "pmid": "32298091",
+    "journal": "Analytical chemistry.",
+    "openalex": "https://openalex.org/W3017194027",
+    "total_citations": 16,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 12
+      },
+      {
+        "2020": 4
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A17897085",
+    "last_author_raw_affil_string": "Department of Chemistry, Vanderbilt University, 7330 Stevenson Center, Station B 351822, Nashville, Tennessee 37235, United States",
+    "institute_name": "Vanderbilt University",
+    "institute_url": "https://api.openalex.org/I200719446",
+    "geo_country": "US",
+    "geo_region": "Tennessee",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Tools for the analysis of high-dimensional single-cell RNA sequencing data.",
+    "published_date": "2020-03-27",
+    "pmid": "32221477",
+    "journal": "Nature reviews. Nephrology.",
+    "openalex": "https://openalex.org/W3013135635",
+    "total_citations": 29,
+    "publication_year": 2020,
+    "is_open_access": false,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 24
+      },
+      {
+        "2020": 4
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2691904586",
+    "last_author_raw_affil_string": "Department of Bioengineering, University of California at San Diego, La Jolla,,USA",
+    "institute_name": "University of California, San Diego",
+    "institute_url": "https://api.openalex.org/I36258959",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Multiplexed single-cell morphometry for hematopathology diagnostics.",
+    "published_date": "2020-03-11",
+    "pmid": "32161403",
+    "journal": "Nature medicine.",
+    "openalex": "https://openalex.org/W3011143950",
+    "total_citations": 12,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 7
+      },
+      {
+        "2020": 4
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A1259518825",
+    "last_author_raw_affil_string": "Immunology Graduate Program, Stanford University, Stanford, USA",
+    "institute_name": "Stanford University",
+    "institute_url": "https://api.openalex.org/I97018004",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "RETrace: simultaneous retrospective lineage tracing and methylation profiling of single cells.",
+    "published_date": "2020-03-03",
+    "pmid": "32127417",
+    "journal": "Genome research.",
+    "openalex": "https://openalex.org/W3009790836",
+    "total_citations": 6,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 6
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2691904586",
+    "last_author_raw_affil_string": "Department of Bioengineering, University of California San Diego, La Jolla, California 92093, USA.",
+    "institute_name": "University of California, San Diego",
+    "institute_url": "https://api.openalex.org/I36258959",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Integrated molecular imaging technologies for investigation of metals in biological systems: A brief review.",
+    "published_date": "2020-02-19",
+    "pmid": "32087551",
+    "journal": "Current opinion in chemical biology.",
+    "openalex": "https://openalex.org/W3008011304",
+    "total_citations": 5,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 4
+      },
+      {
+        "2020": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2058378296",
+    "last_author_raw_affil_string": "Vanderbilt Institute for Infection, Immunology and Inflammation, Vanderbilt University Medical Center, Nashville, TN, 37232, USA",
+    "institute_name": "Vanderbilt University Medical Center",
+    "institute_url": "https://api.openalex.org/I901861585",
+    "geo_country": "US",
+    "geo_region": "Tennessee",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Inferring TF activation order in time series scRNA-Seq studies.",
+    "published_date": "2020-02-18",
+    "pmid": "32069291",
+    "journal": "PLoS computational biology",
+    "openalex": "https://openalex.org/W3008369350",
+    "total_citations": 10,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 8
+      },
+      {
+        "2020": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A96358963",
+    "last_author_raw_affil_string": "Machine Learning Department, School of Computer Science, Carnegie Mellon University, Pittsburgh, Pennsylvania, United States of America.",
+    "institute_name": "Carnegie Mellon University",
+    "institute_url": "https://api.openalex.org/I74973139",
+    "geo_country": "US",
+    "geo_region": "Pennsylvania",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Reconstructed Single-Cell Fate Trajectories Define Lineage Plasticity Windows during Differentiation of Human PSC-Derived Distal Lung Progenitors.",
+    "published_date": "2020-04-02",
+    "pmid": "32004478",
+    "journal": "Cell stem cell",
+    "openalex": "https://openalex.org/W3004379083",
+    "total_citations": 64,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 8
+      },
+      {
+        "2021": 38
+      },
+      {
+        "2020": 21
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A1934542796",
+    "last_author_raw_affil_string": "Center for Regenerative Medicine of Boston University and Boston Medical Center, Boston, MA, 02118, USA.",
+    "institute_name": "Boston University",
+    "institute_url": "https://api.openalex.org/I111088046",
+    "geo_country": "US",
+    "geo_region": "Massachusetts",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Automated mass spectrometry imaging of over 2000 proteins from tissue sections at 100-?m spatial resolution.",
+    "published_date": "2020-01-07",
+    "pmid": "31911630",
+    "journal": "Nature communications.",
+    "openalex": "https://openalex.org/W2999277022",
+    "total_citations": 73,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 9
+      },
+      {
+        "2021": 52
+      },
+      {
+        "2020": 13
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A198217172",
+    "last_author_raw_affil_string": "Biological Sciences Division, Pacific Northwest National Laboratory, \u00a0, Richland, USA",
+    "institute_name": "Pacific Northwest National Laboratory",
+    "institute_url": "https://api.openalex.org/I142606810",
+    "geo_country": "US",
+    "geo_region": "Washington",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Immune monitoring using mass cytometry and related high-dimensional imaging approaches.",
+    "published_date": "2020-02-01",
+    "pmid": "31892734",
+    "journal": "Nature reviews. Rheumatology.",
+    "openalex": "https://openalex.org/W2998517834",
+    "total_citations": 58,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 10
+      },
+      {
+        "2021": 40
+      },
+      {
+        "2020": 14
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A1259518825",
+    "last_author_raw_affil_string": "Department of Pathology, School of Medicine, Stanford University, Palo Alto, USA",
+    "institute_name": "Stanford University",
+    "institute_url": "https://api.openalex.org/I97018004",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Normalization and variance stabilization of single-cell RNA-seq data using regularized negative binomial regression.",
+    "published_date": "2019-12-23",
+    "pmid": "31870423",
+    "journal": "Genome biology.",
+    "openalex": "https://openalex.org/W2997280954",
+    "total_citations": 884,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 94
+      },
+      {
+        "2021": 547
+      },
+      {
+        "2020": 266
+      },
+      {
+        "2019": 20
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2026615643",
+    "last_author_raw_affil_string": "Center for Genomics and Systems Biology, New York University, New York, USA",
+    "institute_name": "New York University",
+    "institute_url": "https://api.openalex.org/I57206974",
+    "geo_country": "US",
+    "geo_region": "New York",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Uncovering Matrix Effects on Lipid Analyses in MALDI Imaging Mass Spectrometry Experiments.",
+    "published_date": "2020-04-01",
+    "pmid": "31860760",
+    "journal": "Journal of mass spectrometry : JMS.",
+    "openalex": "https://openalex.org/W2996214998",
+    "total_citations": 19,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 3
+      },
+      {
+        "2021": 14
+      },
+      {
+        "2020": 3
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2130025508",
+    "last_author_raw_affil_string": "Mass Spectrometry Research Center, Vanderbilt University, Nashville, Tennessee.",
+    "institute_name": "Vanderbilt University",
+    "institute_url": "https://api.openalex.org/I200719446",
+    "geo_country": "US",
+    "geo_region": "Tennessee",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Toward a Common Coordinate Framework for the Human Body.",
+    "published_date": "2019-12-12",
+    "pmid": "31835027",
+    "journal": "Cell.",
+    "openalex": "https://openalex.org/W2996615913",
+    "total_citations": 42,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 4
+      },
+      {
+        "2021": 27
+      },
+      {
+        "2020": 13
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2026615643",
+    "last_author_raw_affil_string": "New York University, Center for Genomics and Systems Biology, New York, NY 10012, USA",
+    "institute_name": "New York University",
+    "institute_url": "https://api.openalex.org/I57206974",
+    "geo_country": "US",
+    "geo_region": "New York",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Deep learning for inferring gene relationships from single-cell expression data.",
+    "published_date": "2019-12-10",
+    "pmid": "31822622",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "openalex": "https://openalex.org/W2996140569",
+    "total_citations": 68,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 4
+      },
+      {
+        "2021": 45
+      },
+      {
+        "2020": 18
+      },
+      {
+        "2019": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A96358963",
+    "last_author_raw_affil_string": "Carnegie Mellon University",
+    "institute_name": "Carnegie Mellon University",
+    "institute_url": "https://api.openalex.org/I74973139",
+    "geo_country": "US",
+    "geo_region": "Pennsylvania",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "High spatial resolution imaging of biological tissues using nanospray desorption electrospray ionization mass spectrometry.",
+    "published_date": "2019-11-13",
+    "pmid": "31723300",
+    "journal": "Nature protocols.",
+    "openalex": "https://openalex.org/W2982932823",
+    "total_citations": 46,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 5
+      },
+      {
+        "2021": 32
+      },
+      {
+        "2020": 12
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2114374388",
+    "last_author_raw_affil_string": "Department of Chemistry , Purdue University , West Lafayette, USA",
+    "institute_name": "Purdue University West Lafayette",
+    "institute_url": "https://api.openalex.org/I219193219",
+    "geo_country": "US",
+    "geo_region": "Indiana",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "High-throughput sequencing of the transcriptome and chromatin accessibility in the same cell.",
+    "published_date": "2019-10-14",
+    "pmid": "31611697",
+    "journal": "Nature biotechnology.",
+    "openalex": "https://openalex.org/W2979911343",
+    "total_citations": 216,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 18
+      },
+      {
+        "2021": 139
+      },
+      {
+        "2020": 58
+      },
+      {
+        "2019": 9
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2691904586",
+    "last_author_raw_affil_string": "Department of Bioengineering, University of California, San Diego,La Jolla,USA",
+    "institute_name": "University of California, San Diego",
+    "institute_url": "https://api.openalex.org/I36258959",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Staphylococcus aureus exhibits heterogeneous siderophore production within the vertebrate host.",
+    "published_date": "2019-10-29",
+    "pmid": "31611408",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America.",
+    "openalex": "https://openalex.org/W2981274538",
+    "total_citations": 35,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 3
+      },
+      {
+        "2021": 18
+      },
+      {
+        "2020": 13
+      },
+      {
+        "2019": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A17897085",
+    "last_author_raw_affil_string": "Vanderbilt University,#TAB#",
+    "institute_name": "Vanderbilt University",
+    "institute_url": "https://api.openalex.org/I200719446",
+    "geo_country": "US",
+    "geo_region": "Tennessee",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry.",
+    "published_date": "2020-05-01",
+    "pmid": "31602691",
+    "journal": "Mass spectrometry reviews.",
+    "openalex": "https://openalex.org/W2979874034",
+    "total_citations": 56,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 39
+      },
+      {
+        "2020": 15
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A1971240840",
+    "last_author_raw_affil_string": "Delft Center for Systems and Control Delft University of Technology - TU Delft Delft The Netherlands",
+    "institute_name": "Vanderbilt University",
+    "institute_url": "https://api.openalex.org/I200719446",
+    "geo_country": "US",
+    "geo_region": "Tennessee",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "The human body at cellular resolution: the NIH Human Biomolecular Atlas Program.",
+    "published_date": "2019-10-09",
+    "pmid": "31597973",
+    "journal": "Nature.",
+    "openalex": "https://openalex.org/W3099559583",
+    "total_citations": 171,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 18
+      },
+      {
+        "2021": 102
+      },
+      {
+        "2020": 54
+      },
+      {
+        "2019": 6
+      },
+      {
+        "2018": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A3165599538",
+    "last_author_raw_affil_string": null,
+    "institute_name": null,
+    "institute_url": null,
+    "geo_country": null,
+    "geo_region": null,
+    "author_error": "Author https://api.openalex.org/A3165599538 missing affiliation node for https://api.openalex.org/W3099559583"
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "High-Performance Molecular Imaging with MALDI Trapped Ion-Mobility Time-of-Flight (timsTOF) Mass Spectrometry.",
+    "published_date": "2019-10-28",
+    "pmid": "31593446",
+    "journal": "Analytical chemistry.",
+    "openalex": "https://openalex.org/W2980266835",
+    "total_citations": 60,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 9
+      },
+      {
+        "2021": 31
+      },
+      {
+        "2020": 23
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A17897085",
+    "last_author_raw_affil_string": "Department of Pharmacology , Vanderbilt University , 2220 Pierce Avenue , Nashville , Tennessee 37232 , United States.",
+    "institute_name": "Vanderbilt University",
+    "institute_url": "https://api.openalex.org/I200719446",
+    "geo_country": "US",
+    "geo_region": "Tennessee",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "High-Parameter Immune Profiling with CyTOF.",
+    "published_date": "2020-01-01",
+    "pmid": "31502160",
+    "journal": "Methods in molecular biology (Clifton, N.J.).",
+    "openalex": "https://openalex.org/W2972321665",
+    "total_citations": 10,
+    "publication_year": 2020,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 9
+      },
+      {
+        "2020": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A1259518825",
+    "last_author_raw_affil_string": "Dept. of Pathology, Stanford University School of Medicine, Stanford, CA, USA,",
+    "institute_name": "Stanford University",
+    "institute_url": "https://api.openalex.org/I97018004",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Supervised classification enables rapid annotation of cell atlases.",
+    "published_date": "2019-09-09",
+    "pmid": "31501545",
+    "journal": "Nature methods.",
+    "openalex": "https://openalex.org/W2971398276",
+    "total_citations": 185,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 18
+      },
+      {
+        "2021": 92
+      },
+      {
+        "2020": 67
+      },
+      {
+        "2019": 15
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2010954046",
+    "last_author_raw_affil_string": "Department of Genome Sciences, University of Washington, Seattle, USA",
+    "institute_name": "University of Washington",
+    "institute_url": "https://api.openalex.org/I201448701",
+    "geo_country": "US",
+    "geo_region": "Washington",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "A pooled single-cell genetic screen identifies regulatory checkpoints in the continuum of the epithelial-to-mesenchymal transition.",
+    "published_date": "2019-09-01",
+    "pmid": "31477929",
+    "journal": "Nature genetics.",
+    "openalex": "https://openalex.org/W2971378659",
+    "total_citations": 88,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 11
+      },
+      {
+        "2021": 45
+      },
+      {
+        "2020": 32
+      },
+      {
+        "2019": 5
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2010954046",
+    "last_author_raw_affil_string": "Department of Genome Sciences, University of Washington, Seattle, USA",
+    "institute_name": "University of Washington",
+    "institute_url": "https://api.openalex.org/I201448701",
+    "geo_country": "US",
+    "geo_region": "Washington",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Immuno-SABER enables highly multiplexed and amplified protein imaging in tissues.",
+    "published_date": "2019-08-19",
+    "pmid": "31427819",
+    "journal": "Nature biotechnology.",
+    "openalex": "https://openalex.org/W2968292465",
+    "total_citations": 143,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 20
+      },
+      {
+        "2021": 74
+      },
+      {
+        "2020": 44
+      },
+      {
+        "2019": 7
+      },
+      {
+        "2018": 2
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2138086447",
+    "last_author_raw_affil_string": "Department of Systems Biology,  Harvard Medical School, Boston, USA",
+    "institute_name": "Wyss Institute for Biologically Inspired Engineering",
+    "institute_url": "https://api.openalex.org/I44142251",
+    "geo_country": "US",
+    "geo_region": null,
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "A recommended and verified procedure for in situ tryptic digestion of formalin-fixed paraffin-embedded tissues for analysis by matrix-assisted laser desorption/ionization imaging mass spectrometry.",
+    "published_date": "2019-08-01",
+    "pmid": "31254303",
+    "journal": "Journal of mass spectrometry : JMS.",
+    "openalex": "https://openalex.org/W2954548889",
+    "total_citations": 18,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 7
+      },
+      {
+        "2020": 8
+      },
+      {
+        "2019": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A17897085",
+    "last_author_raw_affil_string": "Mass Spectrometry Research Center Vanderbilt University Nashville TN USA",
+    "institute_name": "Vanderbilt University",
+    "institute_url": "https://api.openalex.org/I200719446",
+    "geo_country": "US",
+    "geo_region": "Tennessee",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Two Specific Sulfatide Species Are Dysregulated during Renal Development in a Mouse Model of Alport Syndrome.",
+    "published_date": "2019-06-01",
+    "pmid": "31197846",
+    "journal": "Lipids.",
+    "openalex": "https://openalex.org/W2953381028",
+    "total_citations": 1,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2020": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2106995030",
+    "last_author_raw_affil_string": "Division of Nephrology Vanderbilt University Medical Center Nashville TN 37232 USA",
+    "institute_name": "Vanderbilt University",
+    "institute_url": "https://api.openalex.org/I200719446",
+    "geo_country": "US",
+    "geo_region": "Tennessee",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Comprehensive Integration of Single-Cell Data.",
+    "published_date": "2019-06-13",
+    "pmid": "31178118",
+    "journal": "Cell.",
+    "openalex": "https://openalex.org/W2949177718",
+    "total_citations": 4138,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2023": 1
+      },
+      {
+        "2022": 426
+      },
+      {
+        "2021": 2424
+      },
+      {
+        "2020": 1301
+      },
+      {
+        "2019": 178
+      },
+      {
+        "2018": 4
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2026615643",
+    "last_author_raw_affil_string": "Center for Genomics and Systems Biology, New York University, New York, NY, USA.",
+    "institute_name": "New York University",
+    "institute_url": "https://api.openalex.org/I57206974",
+    "geo_country": "US",
+    "geo_region": "New York",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "MicroLESA: Integrating Autofluorescence Microscopy, In Situ Micro-Digestions, and Liquid Extraction Surface Analysis for High Spatial Resolution Targeted Proteomic Studies.",
+    "published_date": "2019-05-13",
+    "pmid": "31149808",
+    "journal": "Analytical chemistry.",
+    "openalex": "https://openalex.org/W2945771858",
+    "total_citations": 31,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 3
+      },
+      {
+        "2021": 16
+      },
+      {
+        "2020": 12
+      },
+      {
+        "2019": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2130025508",
+    "last_author_raw_affil_string": "Mass Spectrometry Research Center , Vanderbilt University , 465 21st Avenue South #9160 , Nashville , Tennessee 37235 , United States.",
+    "institute_name": "Vanderbilt University",
+    "institute_url": "https://api.openalex.org/I200719446",
+    "geo_country": "US",
+    "geo_region": "Tennessee",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "SABER amplifies FISH: enhanced multiplexed imaging of RNA and DNA in cells and tissues.",
+    "published_date": "2019-05-20",
+    "pmid": "31110282",
+    "journal": "Nature methods.",
+    "openalex": "https://openalex.org/W2945773152",
+    "total_citations": 115,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 15
+      },
+      {
+        "2021": 56
+      },
+      {
+        "2020": 40
+      },
+      {
+        "2019": 13
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2138086447",
+    "last_author_raw_affil_string": "Department of Systems Biology,  Harvard Medical School, Boston, USA",
+    "institute_name": "Wyss Institute for Biologically Inspired Engineering",
+    "institute_url": "https://api.openalex.org/I44142251",
+    "geo_country": "US",
+    "geo_region": null,
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Visualizing learner engagement, performance, and trajectories to evaluate and optimize online course design.",
+    "published_date": "2019-05-06",
+    "pmid": "31059546",
+    "journal": "PloS one.",
+    "openalex": "https://openalex.org/W2944709343",
+    "total_citations": 13,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 7
+      },
+      {
+        "2020": 4
+      },
+      {
+        "2019": 2
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2143783256",
+    "last_author_raw_affil_string": "Department of Intelligent Systems Engineering, School of Informatics, Computing, and Engineering, Indiana University, Bloomington, Indiana, United States of America",
+    "institute_name": "Indiana University",
+    "institute_url": "https://api.openalex.org/I592451",
+    "geo_country": "US",
+    "geo_region": "Indiana",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Continuous State HMMs for Modeling Time Series Single Cell RNA-Seq Data.",
+    "published_date": "2019-11-01",
+    "pmid": "31038684",
+    "journal": "Bioinformatics (Oxford, England).",
+    "openalex": "https://openalex.org/W2950391681",
+    "total_citations": 22,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 10
+      },
+      {
+        "2020": 8
+      },
+      {
+        "2019": 3
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A96358963",
+    "last_author_raw_affil_string": "Machine Learning Department, School of Computer Science, Carnegie Mellon University, Pittsburgh, PA 15213, US.",
+    "institute_name": "Carnegie Mellon University",
+    "institute_url": "https://api.openalex.org/I74973139",
+    "geo_country": "US",
+    "geo_region": "Pennsylvania",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "The 2019 mathematical oncology roadmap.",
+    "published_date": "2019-06-19",
+    "pmid": "30991381",
+    "journal": "Physical biology.",
+    "openalex": "https://openalex.org/W2938305903",
+    "total_citations": 91,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 7
+      },
+      {
+        "2021": 41
+      },
+      {
+        "2020": 38
+      },
+      {
+        "2019": 9
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2113510658",
+    "last_author_raw_affil_string": "Department of Translational Hematology and Oncology Research, Cleveland Clinic, Cleveland, OH 44195, United States of America",
+    "institute_name": "Cleveland Clinic",
+    "institute_url": "https://api.openalex.org/I1316902750",
+    "geo_country": "US",
+    "geo_region": "Ohio",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Imaging mass spectrometry enables molecular profiling of mouse and human pancreatic tissue.",
+    "published_date": "2019-04-06",
+    "pmid": "30955045",
+    "journal": "Diabetologia.",
+    "openalex": "https://openalex.org/W2932601740",
+    "total_citations": 21,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 8
+      },
+      {
+        "2020": 9
+      },
+      {
+        "2019": 2
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A17897085",
+    "last_author_raw_affil_string": "9160 MRB III, Department of Biochemistry, Vanderbilt University, Nashville, USA",
+    "institute_name": "Vanderbilt University",
+    "institute_url": "https://api.openalex.org/I200719446",
+    "geo_country": "US",
+    "geo_region": "Tennessee",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Slide-seq: A scalable technology for measuring genome-wide expression at high spatial resolution.",
+    "published_date": "2019-03-29",
+    "pmid": "30923225",
+    "journal": "Science (New York, N.Y.).",
+    "openalex": "https://openalex.org/W2915848182",
+    "total_citations": 642,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 52
+      },
+      {
+        "2021": 328
+      },
+      {
+        "2020": 209
+      },
+      {
+        "2019": 77
+      },
+      {
+        "2018": 2
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2090352283",
+    "last_author_raw_affil_string": "Broad Institute of Harvard and MIT, Cambridge, MA 02142, USA.",
+    "institute_name": "Harvard University",
+    "institute_url": "https://api.openalex.org/I136199984",
+    "geo_country": "US",
+    "geo_region": "Massachusetts",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Transcriptome-scale super-resolved imaging in tissues by RNA seqFISH.",
+    "published_date": "2019-03-25",
+    "pmid": "30911168",
+    "journal": "Nature.",
+    "openalex": "https://openalex.org/W2923300855",
+    "total_citations": 526,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 36
+      },
+      {
+        "2021": 265
+      },
+      {
+        "2020": 184
+      },
+      {
+        "2019": 61
+      },
+      {
+        "2018": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2172239282",
+    "last_author_raw_affil_string": "Division of Biology and Biological Engineering, California Institute of Technology, Pasadena, USA.",
+    "institute_name": "California Institute of Technology",
+    "institute_url": "https://api.openalex.org/I122411786",
+    "geo_country": "US",
+    "geo_region": "California",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Multiple TOF/TOF Events in a Single Laser Shot for Multiplexed Lipid Identifications in MALDI Imaging Mass Spectrometry.",
+    "published_date": "2019-03-01",
+    "pmid": "30906202",
+    "journal": "International journal of mass spectrometry.",
+    "openalex": "https://openalex.org/W2811048574",
+    "total_citations": 8,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 4
+      },
+      {
+        "2020": 3
+      },
+      {
+        "2019": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A17897085",
+    "last_author_raw_affil_string": "Department of Biochemistry, Vanderbilt University, Nashville, TN 37232, USA",
+    "institute_name": "Vanderbilt University",
+    "institute_url": "https://api.openalex.org/I200719446",
+    "geo_country": "US",
+    "geo_region": "Tennessee",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Cell lineage inference from SNP and scRNA-Seq data.",
+    "published_date": "2019-06-04",
+    "pmid": "30820578",
+    "journal": "Nucleic acids research.",
+    "openalex": "https://openalex.org/W2952107717",
+    "total_citations": 18,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 1
+      },
+      {
+        "2021": 10
+      },
+      {
+        "2020": 5
+      },
+      {
+        "2019": 2
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A96358963",
+    "last_author_raw_affil_string": "Machine Learning Department, Carnegie Mellon University, 5000 Forbes Ave, Pittsburgh, PA 15213, USA",
+    "institute_name": "Carnegie Mellon University",
+    "institute_url": "https://api.openalex.org/I74973139",
+    "geo_country": "US",
+    "geo_region": "Pennsylvania",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "The single-cell transcriptional landscape of mammalian organogenesis.",
+    "published_date": "2019-02-01",
+    "pmid": "30787437",
+    "journal": "Nature.",
+    "openalex": "https://openalex.org/W2916020270",
+    "total_citations": 871,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 90
+      },
+      {
+        "2021": 439
+      },
+      {
+        "2020": 274
+      },
+      {
+        "2019": 97
+      },
+      {
+        "2018": 3
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2016733444",
+    "last_author_raw_affil_string": "Department of Genome Sciences, University of Washington, Seattle, USA",
+    "institute_name": "University of Washington",
+    "institute_url": "https://api.openalex.org/I201448701",
+    "geo_country": "US",
+    "geo_region": "Washington",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Dhaka: Variational Autoencoder for Unmasking Tumor Heterogeneity from Single Cell Genomic Data.",
+    "published_date": "2021-07-12",
+    "pmid": "30768159",
+    "journal": "Bioinformatics (Oxford, England).",
+    "openalex": "https://openalex.org/W2950983802",
+    "total_citations": 23,
+    "publication_year": 2021,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 8
+      },
+      {
+        "2020": 7
+      },
+      {
+        "2019": 8
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2229492952",
+    "last_author_raw_affil_string": "Microsoft Research, , Redmond, USA#TAB#",
+    "institute_name": "Microsoft",
+    "institute_url": "https://api.openalex.org/I1290206253",
+    "geo_country": "US",
+    "geo_region": "Washington",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Data visualization literacy: Definitions, conceptual frameworks, exercises, and assessments.",
+    "published_date": "2019-02-05",
+    "pmid": "30718386",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America.",
+    "openalex": "https://openalex.org/W2913589238",
+    "total_citations": 63,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 5
+      },
+      {
+        "2021": 31
+      },
+      {
+        "2020": 22
+      },
+      {
+        "2019": 9
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2557015949",
+    "last_author_raw_affil_string": "School of Informatics, Computing, and Engineering, Indiana University, Bloomington, IN 47408.",
+    "institute_name": "Indiana University",
+    "institute_url": "https://api.openalex.org/I592451",
+    "geo_country": "US",
+    "geo_region": "Indiana",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Cell Hashing with barcoded antibodies enables multiplexing and doublet detection for single cell genomics.",
+    "published_date": "2018-12-19",
+    "pmid": "30567574",
+    "journal": "Genome biology.",
+    "openalex": "https://openalex.org/W2785085486",
+    "total_citations": 309,
+    "publication_year": 2018,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 23
+      },
+      {
+        "2021": 148
+      },
+      {
+        "2020": 100
+      },
+      {
+        "2019": 46
+      },
+      {
+        "2018": 2
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2026615643",
+    "last_author_raw_affil_string": "NYU Center for Genomics and Systems Biology, New York Genome Center, New York, USA",
+    "institute_name": "New York Genome Center",
+    "institute_url": "https://api.openalex.org/I4210151462",
+    "geo_country": "US",
+    "geo_region": "New York",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Forecasting innovations in science, technology, and education.",
+    "published_date": "2018-12-11",
+    "pmid": "30530683",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America.",
+    "openalex": "https://openalex.org/W2904226860",
+    "total_citations": 14,
+    "publication_year": 2018,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2021": 8
+      },
+      {
+        "2020": 5
+      },
+      {
+        "2019": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2420755856",
+    "last_author_raw_affil_string": "Boston Univ",
+    "institute_name": "Boston University",
+    "institute_url": "https://api.openalex.org/I111088046",
+    "geo_country": "US",
+    "geo_region": "Massachusetts",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Protein identification strategies in MALDI imaging mass spectrometry: a brief review.",
+    "published_date": "2019-02-01",
+    "pmid": "30476689",
+    "journal": "Current opinion in chemical biology.",
+    "openalex": "https://openalex.org/W2901890388",
+    "total_citations": 63,
+    "publication_year": 2019,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 2
+      },
+      {
+        "2021": 34
+      },
+      {
+        "2020": 20
+      },
+      {
+        "2019": 6
+      },
+      {
+        "2018": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A17897085",
+    "last_author_raw_affil_string": "Department of Chemistry, Vanderbilt University, 7330 Stevenson Center, Station B 351822, Nashville, TN 37235, USA",
+    "institute_name": "Vanderbilt University",
+    "institute_url": "https://api.openalex.org/I200719446",
+    "geo_country": "US",
+    "geo_region": "Tennessee",
+    "author_error": null
+  },
+  {
+    "program": "HuBMAP",
+    "publication_title": "Identification of spatially associated subpopulations by combining scRNAseq and sequential fluorescence in situ hybridization data.",
+    "published_date": "2018-10-29",
+    "pmid": "30371680",
+    "journal": "Nature biotechnology.",
+    "openalex": "https://openalex.org/W2899235059",
+    "total_citations": 97,
+    "publication_year": 2018,
+    "is_open_access": true,
+    "citation_counts_by_year": [
+      {
+        "2022": 6
+      },
+      {
+        "2021": 49
+      },
+      {
+        "2020": 29
+      },
+      {
+        "2019": 18
+      },
+      {
+        "2018": 1
+      }
+    ],
+    "last_author_openalex": "https://api.openalex.org/A2150062710",
+    "last_author_raw_affil_string": "Department of Biostatistics and Computational Biology, Dana-Farber Cancer Institute and Harvard T. H. Chan School of Public Health, Boston, USA",
+    "institute_name": "Harvard University",
+    "institute_url": "https://api.openalex.org/I136199984",
+    "geo_country": "US",
+    "geo_region": "Massachusetts",
+    "author_error": null
+  }
+]
