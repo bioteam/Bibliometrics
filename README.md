@@ -18,7 +18,7 @@ This program writes a JSON file with a list of DCC or competitors where each ent
     {"competes_with": null,
      "type": "cfde_dcc",
      "program": "HuBMAP",
-     "pmid_list": [1232145, 1231245,...]
+     "pmid_list": [1232145, 1231245, ...]
      },
      // ...
 
@@ -29,10 +29,44 @@ The JSON is written to a file named `keyword_results.json`. The other programs w
 
 The result files are processed (separately) by the `icite.py`, which requires a path to that file, which will be prefixed by "keyword", "cfde", or "flagship".
 
-## TODO icite metadata
+## Adding iCite metadata
+
 `icite.py --pmid-key keyword_results.json`
 
-This result is then passed to OpenAlex to complete the dataset generation. 
+This script takes each entry's list of PMIDs from `{keyword/cfde/flagship}_results.json`, and creates a new set of entries with the following keys, one for each publication:
+- `competes_with`
+- `type`
+- `program`
+- `source`
+- `icite_rcr`
+- `icite_apt`
+- `icite_nih_percentile`
+- `icite_is_clinical`
+- `icite_is_research_article`
+
+The results will look like the following:
+
+```
+[
+    {
+    "pmid": 1235325,
+    "competes_with": null,
+    "type": "cfde_dcc",
+    "program": "LINCS",
+    "source": "keyword_search",
+    "icite_rcr": null,
+    "icite_apt": 0.0,
+    "icite_nih_percentile": null,
+    "icite_is_clinical": "No",
+    "icite_is_research_article": "Yes"
+  },
+  // ...
+
+]
+```
+
+
+The file is written to `{keyword/cfde/flagship}_icite_results.json`, and can then be passed to OpenAlex.
 
 
 ## TODO openalex metadata
@@ -49,7 +83,7 @@ To read the data documents individually, use the following:
 
 ```{R}
 # one file
-one_file <- jsonlite::fromJSON("data/4D-Nucleome-GEO.json")
+full_dataset <- jsonlite::fromJSON()
 ```
 
 To read all files with the ending *-GEO.json in the data directory into one data frame, use:

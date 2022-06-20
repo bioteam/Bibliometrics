@@ -63,6 +63,16 @@ def make_call(entry):
     out["program"] = short
     if short == long_name:
         long_name = None
+    if short == "MassIVE":
+        print(f"[WARNING] Processing {long_name} instead of MassIVE")
+        # Do not process MassIVE's short name. Too many flase positives
+        short = long_name
+        long_name = None
+    if short == "GEO":
+        print(f"[WARNING] Processing {long_name} instead of GEO")
+        # Do not process GEO's short name. Too many flase positives
+        short = long_name
+        long_name = None
     target_url = build_esearch_url(short, long_name)
     json_out = helper.safe_request_json(target_url, INITIAL_DELAY)
     if not json_out:
@@ -89,4 +99,4 @@ if __name__ == "__main__":
         output_json.append(temp)
     with open("keyword_results.json", "w") as f:
         print("[INFO] Writing file to keyword_results.json")
-        json.dump(output_json, f, indent=2)
+        json.dump(output_json, f)
