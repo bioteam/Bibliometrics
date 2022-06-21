@@ -1,0 +1,23 @@
+DCC or Program Abbreviation,Full Name,Type,Similar Repository
+LINCS,Library of Integrated Network-Based Cellular Signatures,CFDE DCC,
+Glycoscience,Glycoscience,CFDE DCC,
+GTEx,Genotype-Tissue Expression,CFDE DCC,
+HuBMAP,Human BioMolecular Atlas Program,CFDE DCC,
+SPARC,Stimulating Peripheral Activity to Relieve Conditions,CFDE DCC,
+MoTrPAC,Molecular Transducers of Physical Activity Consortium,CFDE DCC,
+Metabolomics Workbench,National Metabolomics Data Repository,CFDE DCC,
+HMP,Human Microbiome Project,CFDE DCC,
+ExRNA,Extracellular RNA Communication,CFDE DCC,
+Kids First,Gabriella Miller Kids First Pediatric Research Program,CFDE DCC,
+IDG,Illuminating the Druggable Genome,CFDE DCC,
+4DN,4D Nucleome,CFDE DCC,
+EVAtlas,Extracellular Vesicle Atlas,External,ExRNA
+GEO,Gene Expression Omnibus,External,GTEx
+Expression Atlas,Expression Atlas,External,GTEx
+GlyCosmos,GlyCosmos Glycoscience Portal,External,Glycoscience
+GlyTouCan,GlyTouCan,External,Glycoscience
+TGDB,Total Glycome Database,External,Glycoscience
+The Visible Human Project,The Visible Human Project,External,HuBMAP
+MassIVE,Mass Spectrometry Interactive Virtual Environment,External,Metabolomics Workbench
+MetaboLights,MetaboLights,External,Metabolomics Workbench
+TCGA,The Cancer Genome Atlas,External,Kids First

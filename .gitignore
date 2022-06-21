@@ -4,3 +4,11 @@
 *.log
 *.Rproj
 .Rproj.user
+__pycache__
+
+old
+
+oa_errors.json
+
+dockercommand
+

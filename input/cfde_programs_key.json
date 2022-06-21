@@ -1,0 +1,14 @@
+{
+  "Genotype-Tissue Expression (GTEx)": {"url":"https://commonfund.nih.gov/publications?pid=6", "abbrev":"GTEx"},
+  "Human Microbiome Project": {"url":"https://commonfund.nih.gov/publications?pid=16","abbrev": "HMP"},
+  "Library of Integrated Network-Based Cellular Signatures (LINCS)": {"url":"https://commonfund.nih.gov/publications?pid=19","abbrev":"LINCS"},
+  "Metabolomics": {"url":"https://commonfund.nih.gov/publications?pid=29","abbrev":"Metabolomics Workbench"},
+  "ExRNA": {"url":"https://commonfund.nih.gov/publications?pid=31","abbrev":"ExRNA"},
+  "Illuminating the Druggable Genome": {"url":"https://commonfund.nih.gov/publications?pid=36","abbrev":"IDG"},
+  "Glycoscience": {"url":"https://commonfund.nih.gov/publications?pid=37","abbrev": "Glycoscience"},
+  "4D Nucleome": {"url":"https://commonfund.nih.gov/publications?pid=38","abbrev":"4D Nucleome"},
+  "Stimulating Peripheral Activity to Relieve Conditions (SPARC)": {"url":"https://commonfund.nih.gov/publications?pid=39", "abbrev":"SPARC"},
+  "Gabriella Miller Kids First": {"url":"https://commonfund.nih.gov/publications?pid=40","abbrev":"Kids First"},
+  "Molecular Transducers of Physical Activity Clinical Centers": {"url":"https://commonfund.nih.gov/publications?pid=41", "abbrev": "MoTrPAC"},
+  "HuBMAP": {"url":"https://commonfund.nih.gov/publications?pid=43", "abbrev":"HuBMAP"}
+}
