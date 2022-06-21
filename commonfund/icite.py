@@ -12,7 +12,7 @@ def create_cli(arguments=sys.argv[1:]):
         "--pmid-key",
         type=str,
         required=True,
-        help="Path to csv containing the key",
+        help="Path to JSON file containing the results",
         dest="pmid_key",
     )
     return parser.parse_args(arguments)

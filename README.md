@@ -69,9 +69,9 @@ The results will look like the following:
 The file is written to `{keyword/cfde/flagship}_icite_results.json`, and can then be passed to OpenAlex.
 
 
-## TODO openalex metadata
+## (In Progress) openalex metadata
 
-`openalex.py --icite-output keyword_icite_results.json` 
+`python openalex.py --icite-key keyword_icite_results.json` 
 
 Each program focuses on a different set of APIs to generate the initial set of PMIDs, which are then processed by `icite.py` and `openalex.py`. The results from `openalex.py` are then ready to be analyzed alone or in combination with the other sources. 
 

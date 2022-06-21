@@ -9,6 +9,9 @@ def safe_request_json(url, initial_delay=None):
     if res.ok:
         return res.json()
     # wait if rate limited
+    if res.status_code == 404:
+        print(f"[ERROR] URL {res.url} not found!")
+        return []
     print(
         f"Apparent rate limit for url {url}. Code: {res.status_code}. waiting 2 second then retry..."
     )
