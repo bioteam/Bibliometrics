@@ -45,6 +45,7 @@ This script takes each entry's list of PMIDs from `{keyword/cfde/flagship}_resul
 - `type`
 - `program`
 - `source`
+- `pmid`
 - `icite_rcr`
 - `icite_apt`
 - `icite_nih_percentile`
@@ -133,7 +134,7 @@ The keys listed above are added to the keys from `icite.py`, creating the final 
     "oa_institute_url": "https://api.openalex.org/I87216513",
     "oa_geo_region": "Michigan",
     "oa_geo_country": "US",
-    "oa_geo_city": "East Lansing"
+    "oa_geo_city": "East Lansing",
     "oa_mesh": [
       {
         "oa_mesh_id": "D002843",
@@ -151,7 +152,7 @@ The keys listed above are added to the keys from `icite.py`, creating the final 
         "oa_mesh_category": false
       },
     // ...
-    ],
+    ]
   },
   // ...
 ]
