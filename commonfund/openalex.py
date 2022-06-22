@@ -49,12 +49,31 @@ def get_institution_info(institution_list):
         target = institution_list[0]
     else:
         target = institution_list[-1]
-    out["oa_id"] = target.get("id", "").replace("https://", "https://api.")
-    response_institute = helper.safe_request_json(out["oa_id"] + POLITE)
-    out["region"] = response_institute.get("geo", {}).get("region")
-    out["country"] = response_institute.get("geo", {}).get("country_code")
-    out["name"] = response_institute.get("display_name", None)
-    out["city"] = response_institute.get("geo", {}).get("city")
+    # :'( I know. I just don't have time to properly fix it :'(
+    try:
+        out["oa_id"] = target.get("id", "").replace("https://", "https://api.")
+    except AttributeError as e:
+        out["oa_id"] = ""
+    if out["oa_id"]:
+        response_institute = helper.safe_request_json(out["oa_id"] + POLITE)
+    else:
+        response_institute = {}
+    try:
+        out["region"] = response_institute.get("geo", {}).get("region")
+    except AttributeError as e:
+        out["region"] = None
+    try:
+        out["country"] = response_institute.get("geo", {}).get("country_code")
+    except AttributeError as e:
+        out["country"] = None
+    try:
+        out["name"] = response_institute.get("display_name", None)
+    except AttributeError as e:
+        out["name"] = None
+    try:
+        out["city"] = response_institute.get("geo", {}).get("city")
+    except AttributeError as e:
+        out["city"] = None
     return out
 
 

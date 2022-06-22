@@ -5,7 +5,7 @@ GTEx,The GTEx Consortium atlas of genetic regulatory effects across human tissue
 HuBMAP,The human body at cellular resolution: the NIH Human Biomolecular Atlas Program,31597973,,2019,CFDE,,https://explore.openalex.org/institutions/I97018004,Stanford University,Stanford,California,
 SPARC,The SPARC DRC: Building a Resource for the Autonomic Nervous System Community,34248680,,2021,CFDE,,https://openalex.org/I36258959,"University of California, San Diego",San Diego,California,
 MoTrPAC,Molecular Transducers of Physical Activity Consortium (MoTrPAC): Mapping the Dynamic Responses to Exercise,32589957,,2020,CFDE,,https://openalex.org/I33213144,University of Florida,Gainesville,Florida,
-Metabolomics,"Metabolomics Workbench: An international repository for metabolomics data and metadata, metabolite standards",26467476,,2016,CFDE,,https://openalex.org/I33213144,University of Florida,Gainesville,Florida,
+Metabolomics Workbench,"Metabolomics Workbench: An international repository for metabolomics data and metadata, metabolite standards",26467476,,2016,CFDE,,https://openalex.org/I33213144,University of Florida,Gainesville,Florida,
 Kids First,,,,,,,,,,,
 HMP,The human microbiome project,17943116,https://openalex.org/W2131186249,2007,CFDE,,,,,,
 LINCS,LINCS Data Portal 2.0: next generation access point for perturbation-response signatures,31701147,https://openalex.org/W2984998864,2013,CFDE,,,,,,"They present a whole list of things to cite (if they are relevant to the researcher) instead of a single flagship, but this is the closest we have to the flagship paper. For the others, see: https://lincsproject.org/LINCS/publications"

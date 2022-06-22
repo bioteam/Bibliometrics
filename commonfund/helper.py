@@ -5,7 +5,11 @@ import time
 def safe_request_json(url, initial_delay=None):
     if initial_delay:
         time.sleep(initial_delay)  # problem with pubmed rate limits
-    res = requests.get(url)
+    try:
+        res = requests.get(url)
+    except requests.exceptions.SSLError:
+        print(f"[ERROR] OpenSSL Error for url {url}")
+        return []
     if res.ok:
         return res.json()
     # wait if rate limited
@@ -16,7 +20,11 @@ def safe_request_json(url, initial_delay=None):
         f"Apparent rate limit for url {url}. Code: {res.status_code}. waiting 2 second then retry..."
     )
     time.sleep(2)
-    res = requests.get(url)
+    try:
+        res = requests.get(url)
+    except requests.exceptions.SSLError:
+        print(f"[ERROR] OpenSSL Error for url {url}")
+        return []
     try:
         res.json()
     except Exception as e:
