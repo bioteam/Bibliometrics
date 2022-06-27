@@ -1,12 +1,25 @@
+import os
 import requests
 import time
 
 
+def make_out_dirs():
+    intermediate = os.path.join("data", "intermediate")
+    final = os.path.join("data", "final")
+    if not os.path.exists("data"):
+        os.mkdir("data")
+    if not os.path.exists(intermediate):
+        os.mkdir(intermediate)
+    if not os.path.exists(final):
+        os.mkdir(final)
+    return
+
+
 def safe_request_json(url, initial_delay=None):
     if initial_delay:
-        time.sleep(initial_delay)  # problem with pubmed rate limits
+        time.sleep(initial_delay)  # respect pubmed rate limit
     try:
-        res = requests.get(url)
+        res = requests.get(url, timeout=5)
     except requests.exceptions.SSLError:
         print(f"[ERROR] OpenSSL Error for url {url}")
         return []
@@ -21,7 +34,7 @@ def safe_request_json(url, initial_delay=None):
     )
     time.sleep(2)
     try:
-        res = requests.get(url)
+        res = requests.get(url, timeout=5)
     except requests.exceptions.SSLError:
         print(f"[ERROR] OpenSSL Error for url {url}")
         return []

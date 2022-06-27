@@ -1,5 +1,6 @@
 import argparse
 import json
+import os
 import sys
 
 from commonfund import helper
@@ -15,6 +16,12 @@ def create_cli(arguments=sys.argv[1:]):
         required=True,
         help="Path to JSON file containing the key",
         dest="icite_key",
+    )
+    parser.add_argument(
+        "--cache",
+        type=str,
+        help="Path to JSON file containing results from previous run. Speed up with a lookup",
+        dest="cache",
     )
     return parser.parse_args(arguments)
 
@@ -139,6 +146,30 @@ def call_openalex(entry):
     return openalex_response
 
 
+def parse_cache(path):
+    with open(path, "r") as f:
+        data = json.load(f)
+    out = {}
+    for item in data:
+        pmid = item.get("pmid", None)
+        if not pmid:
+            continue
+        out[pmid] = item
+    return out
+
+
+def use_cache(entry, cache=None):
+    if not cache:
+        return None
+    pmid = entry.get("pmid", None)
+    if pmid:
+        cache_entry = cache.get(pmid)
+        if cache_entry:
+            print(f"using cache for PMID: {pmid}")
+            return cache_entry
+    return None
+
+
 # testing
 # args = create_cli(["--icite-key", "keyword_icite_results.json"])
 # data = parse_icite_results(args.icite_key)
@@ -149,23 +180,35 @@ def call_openalex(entry):
 if __name__ == "__main__":
     args = create_cli()
     data = parse_icite_results(args.icite_key)
+    cache_path = args.cache
+    if cache_path:
+        cache = parse_cache(cache_path)
+    else:
+        cache = None
     total_len = len(data)
     oa_data = []
     for n, entry in enumerate(data):
         print(f"Processing {n} of {total_len} entries")
         try:
-            oa_call = call_openalex(entry)
-            parsed = parse_openalex(oa_call)
-            oa_data.append({**entry, **parsed})
+            cache_res = use_cache(entry, cache)
+            if cache_res:
+                oa_data.append(cache_res)
+            else:
+                oa_call = call_openalex(entry)
+                parsed = parse_openalex(oa_call)
+                oa_data.append({**entry, **parsed})
         except Exception as e:
             exception_string = (
-                f"[WARNING] Problem with {entry}, index {n}, Exception is {e}"
+                f"[WARNING] Problem with {entry}, index {n}, Exception is {e}\n"
             )
             print(exception_string)
             with open("oa_errors.json", "a") as f:
                 f.write(exception_string)
             continue
-    out_path = args.icite_key.replace("_results.json", "_oa_results.json")
+    helper.make_out_dirs()
+    old_base = os.path.split(args.icite_key)[-1]
+    out_name = old_base.replace("_results.json", "_oa_results.json")
+    out_path = os.path.join("data", "final", out_name)
     with open(out_path, "w") as f:
         json.dump(oa_data, f)
     print(f"[INFO] Wrote results to {out_path}")

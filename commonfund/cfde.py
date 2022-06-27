@@ -1,11 +1,14 @@
 import argparse
 import json
+import os
 import sys
 import xml.etree.ElementTree as et
 
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.support.ui import Select
+
+from commonfund import helper
 
 
 def create_cli(arguments=sys.argv[1:]):
@@ -80,7 +83,7 @@ def build_out(table, program):
 
 
 def build_entry(key):
-    args = create_cli(["--cfde-key", "input/cfde_programs_key.json"])
+    args = create_cli()
     prog_key = parse_json_key(args.cfde_key)
     opt = Options()
     opt.add_argument("-headless")
@@ -106,6 +109,8 @@ if __name__ == "__main__":
         except Exception as e:
             print(f"[ERROR] Problem with key {key}, exception is {e}")
             continue
-    with open(new_name, "w") as f:
+    helper.make_out_dirs()
+    out_path = os.path.join("data", "intermediate", new_name)
+    with open(out_path, "w") as f:
         json.dump(cfde_data, f)
-        print(f"[INFO] Writing results to {new_name}")
+        print(f"[INFO] Writing results to {out_path}")

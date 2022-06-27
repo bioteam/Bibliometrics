@@ -1,6 +1,6 @@
 DCC or Program Abbreviation,Full Name,Type,Similar Repository
 LINCS,Library of Integrated Network-Based Cellular Signatures,CFDE DCC,
-Glycoscience,Glycoscience,CFDE DCC,
+GlyGen,Glycoscience Program,CFDE DCC,
 GTEx,Genotype-Tissue Expression,CFDE DCC,
 HuBMAP,Human BioMolecular Atlas Program,CFDE DCC,
 SPARC,Stimulating Peripheral Activity to Relieve Conditions,CFDE DCC,
@@ -13,11 +13,11 @@ IDG,Illuminating the Druggable Genome,CFDE DCC,
 4DN,4D Nucleome,CFDE DCC,
 EVAtlas,Extracellular Vesicle Atlas,External,ExRNA
 GEO,Gene Expression Omnibus,External,GTEx
-Expression Atlas,Expression Atlas,External,GTEx
-GlyCosmos,GlyCosmos Glycoscience Portal,External,Glycoscience
-GlyTouCan,GlyTouCan,External,Glycoscience
-TGDB,Total Glycome Database,External,Glycoscience
-The Visible Human Project,The Visible Human Project,External,HuBMAP
+GlyCosmos,GlyCosmos Glycoscience Portal,External,GlyGen
+GlyTouCan,GlyTouCan,External,GlyGen
 MassIVE,Mass Spectrometry Interactive Virtual Environment,External,Metabolomics Workbench
-MetaboLights,MetaboLights,External,Metabolomics Workbench
 TCGA,The Cancer Genome Atlas,External,Kids First
+ENCODE,Encyclopedia of DNA Elements,External,GTEx
+DrugBank,DrugBank,External,IDG
+HERITAGE,HERITAGE Family Study,External,MoTrPAC
+Exercist Transcriptome Meta-analysis,Exercist Transcriptome Meta-analysis,External,MoTrPAC

@@ -2,6 +2,7 @@
 import argparse
 import csv
 import json
+import os
 import sys
 
 
@@ -56,9 +57,15 @@ def elink_api(entry):
 
     base = f"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&linkname=pubmed_pubmed_citedin&id={flagship_pmid}&retmode=json"
     json_out = helper.safe_request_json(base, INITIAL_DELAY)
+    if not json_out:
+        json_out = {}
     linksets = json_out.get("linksets")
     try:
-        pmid_list = json_out.get("linksets")[0].get("linksetdbs")[0].get("links")
+        pmid_list = (
+            json_out.get("linksets", [{}])[0].get("linksetdbs", [{}])[0].get("links")
+        )
+        if not pmid_list:
+            f"[WARNING] Problem getting PMIDs for {flagship_pmid}."
     except Exception as e:
         err_str = f"[WARNING] Problem getting PMIDs for {flagship_pmid}. Exception {e}"
         print(err_str)
@@ -87,6 +94,8 @@ if __name__ == "__main__":
             err = f"Problem with index {n}, entry {entry}, Exception is {e}"
             print(err)
             continue
-    with open(new_name, "w") as f:
+    helper.make_out_dirs()
+    out_path = os.path.join("data", "intermediate", new_name)
+    with open(out_path, "w") as f:
         json.dump(flagships_out, f)
-        print(f"Wrote results to {new_name}")
+        print(f"[INFO] Wrote results to {out_path}")

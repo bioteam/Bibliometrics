@@ -4,6 +4,7 @@
 import argparse
 import csv
 import json
+import os
 import sys
 
 import requests
@@ -63,14 +64,15 @@ def make_call(entry):
     out["program"] = short
     if short == long_name:
         long_name = None
-    if short == "MassIVE":
-        print(f"[WARNING] Processing {long_name} instead of MassIVE")
-        # Do not process MassIVE's short name. Too many flase positives
-        short = long_name
-        long_name = None
-    if short == "GEO":
-        print(f"[WARNING] Processing {long_name} instead of GEO")
-        # Do not process GEO's short name. Too many flase positives
+    if short in [
+        "MassIVE",
+        "GEO",
+        "SPARC",
+        "ENCODE",
+        "HERITAGE",
+        "HMP",
+    ]:
+        print(f"[WARNING] Processing {long_name} instead of {short}")
         short = long_name
         long_name = None
     target_url = build_esearch_url(short, long_name)
@@ -80,6 +82,8 @@ def make_call(entry):
         print(f"[WARNING] No entries returned for {entry}")
         return out
     pmid_list = json_out.get("esearchresult", {}).get("idlist", [])
+    if not pmid_list:
+        print(f"[WARNING] No entries returned for {entry}")
     out["pmid_list"] = pmid_list
     return out
 
@@ -97,6 +101,11 @@ if __name__ == "__main__":
     for entry in parsed_key:
         temp = make_call(entry)
         output_json.append(temp)
-    with open("keyword_results.json", "w") as f:
-        print("[INFO] Writing file to keyword_results.json")
+    helper.make_out_dirs()
+    out_path = os.path.join("data", "intermediate", "keyword_results.json")
+    with open(out_path, "w") as f:
         json.dump(output_json, f)
+        print(f"[INFO] Writing file to {out_path}")
+
+
+# MassIVE, HERITAGE, Exercise Transcriptome Meta-analysis

@@ -1,6 +1,7 @@
 ### parse and add icite keys
 import argparse
 import json
+import os
 import sys
 
 from commonfund import helper
@@ -28,11 +29,11 @@ def batch_pmids(pmids):
 
 
 def _check_path(path):
-    if path.startswith("keyword"):
+    if "keyword" in path:
         return "keyword_search"
-    if path.startswith("cfde"):
+    if "cfde" in path:
         return "cfde_website"
-    if path.startswith("flagship"):
+    if "flagship" in path:
         return "cites_a_flagship"
     else:
         raise (AssertionError(f"Cannot identify data source from {path}"))
@@ -134,7 +135,10 @@ if __name__ == "__main__":
             f"[INFO] Processing: {current.get('program','unknown')}, {n} of {len_results}"
         )
         icite_processed += process_pmid_key_entry(current)
-    new_name = args.pmid_key.replace("_results.json", "_icite_results.json")
-    with open(new_name, "w") as f:
+    old_base = os.path.split(args.pmid_key)[-1]
+    new_name = old_base.replace("_results.json", "_icite_results.json")
+    out_path = os.path.join("data", "intermediate", new_name)
+    helper.make_out_dirs()
+    with open(out_path, "w") as f:
         json.dump(icite_processed, f)
     print(f"[INFO] Wrote results to {new_name}")
