@@ -43,7 +43,9 @@ def elink_api(entry):
     if fund_type == "External":
         fund_name = "external"
     if not fund_name in ["cfde_dcc", "external"]:
-        err_str = "[WARNING] Prog type not known, using 'unknown"
+        err_str = (
+            f"[WARNING] Prog type not known, funding was '{fund_type}' using 'unknown'"
+        )
         print(err_str)
     if not competes_with:
         competes_with = None
