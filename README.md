@@ -180,3 +180,4 @@ library(jsonlite)
 data <- bind_rows(purrr::map(list.files(path=".", pattern="_icite_oa_results.json",full.names = T), fromJSON))
 
 ```
+
