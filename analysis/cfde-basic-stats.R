@@ -12,8 +12,14 @@ theme_set(theme_bw())
 black <- "#000000"
 blue <- "#2AC9E6"
 grey <- "#808080"
+red <- "#CC0000"
+green <- "#008F00"
 
-fill_manual <- c("CFDE Website" = black, "Cites Flagship" = blue, "Keyword Search" = grey)
+CHECK <- "*"
+PARTIAL <- "~"
+ABSENT <- "x"
+
+fill_manual <- c("Common Fund Website" = black, "Cites Flagship" = blue, "Keyword Search" = grey)
 
 theme_axis_legend <- theme(
   text = element_text(size = 14, face = "bold"),
@@ -27,7 +33,7 @@ theme_axis_legend <- theme(
 full_dataset <- bind_rows(purrr::map(list.files(path = "../data/final", pattern = "_icite_oa_results.json", full.names = T), fromJSON)) %>%
   mutate(
     source = case_when(
-      source == "cfde_website" ~ "CFDE Website",
+      source == "cfde_website" ~ "Common Fund Website",
       source == "cites_a_flagship" ~ "Cites Flagship",
       source == "keyword_search" ~ "Keyword Search",
       TRUE ~ "unknown"
@@ -39,28 +45,58 @@ full_dataset <- bind_rows(purrr::map(list.files(path = "../data/final", pattern 
   filter(oa_publication_year > 1999) %>%
   tidyr::drop_na(pmid, oa_publication_year)
 
-cfde <- "cfde_dcc"
-filter(full_dataset, type == cfde) %>%
-  group_by(program) %>%
-  distinct(pmid, .keep_all = T) %>%
-  ggplot(aes(x = forcats::fct_infreq(program), fill = source)) +
-  geom_bar(alpha = 0.8) +
-  labs(x = "", y = "Total Citations") +
-  scale_fill_manual(values = fill_manual) +
-  theme_axis_legend +
-  theme(
-    axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1),
-    legend.position = c(0.9, 0.9)
-  )
-
-ggsave("cfde_dcc_citations.png", width = 10, height = 7)
-
 
 cfde <- "cfde_dcc"
 rcr <- filter(full_dataset, type == cfde) %>%
   group_by(program) %>%
   distinct(pmid, .keep_all = T) %>%
-  summarize(n = n(), mean_rcr = mean(icite_rcr, na.rm = T))
+  summarize(n = n(), mean_rcr = mean(icite_rcr, na.rm = T),
+            median_rcr = median(icite_rcr, na.rm=T),
+            sd_rcr = sd(icite_rcr, na.rm=T),
+            sem_rcr = sd_rcr/n,
+            coeff_var = sd_rcr/mean_rcr)
+
+
+progs <- unique(full_dataset$program)
+label_dataset <- data.frame(program = as.factor(progs)) %>%
+  mutate(flag_sym = case_when(program == "4D Nucleome" ~ CHECK,
+                              program == "GlyGen" ~ CHECK,
+                              program == "MoTrPAC" ~ CHECK,
+                              program == "Kids First" ~ ABSENT,
+                              program == "GTEx" ~ PARTIAL,
+                              program == "HuBMAP" ~ PARTIAL,
+                              program == "SPARC" ~ ABSENT,
+                              program == "IDG" ~ PARTIAL,
+                              program == "LINCS" ~ PARTIAL,
+                              program == "Metabolomics Workbench" ~ PARTIAL,
+                              program == "HMP" ~ ABSENT,
+                              program == "ExRNA" ~ PARTIAL,
+                              TRUE ~ "???")) %>%
+  left_join(., rcr, by="program") %>%
+  mutate(y_pos_n = if_else(flag_sym == ABSENT, n+200, n+100),
+         y_pos_rcr = if_else(flag_sym == ABSENT, mean_rcr+1, mean_rcr+0.5),
+         y_pos_med_rcr = if_else(flag_sym == ABSENT, median_rcr+0.25, median_rcr+0.25))
+
+filter(full_dataset, type == cfde) %>%
+  group_by(program) %>%
+  distinct(pmid, .keep_all = T) %>%
+  ggplot(aes(x = forcats::fct_infreq(program), fill = source)) +
+  geom_bar(alpha = 0.8) +
+  geom_text(aes(x=program, y=y_pos_n),
+            label=filter(label_dataset, flag_sym != "???")$flag_sym,
+            data=filter(label_dataset, flag_sym != "???"), inherit.aes=F,
+            size=8,
+            fontface="bold") +
+  labs(x = "", y = "Total Citations") +
+  scale_fill_manual(values = fill_manual) +
+  theme_axis_legend +
+  theme(
+    axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1),
+    legend.position = c(0.85, 0.9)
+  )
+
+ggsave("cfde_dcc_citations.png", width = 10, height = 7)
+
 
 marg <- 10
 ggplot(rcr, aes(x = program, y = mean_rcr, fill = program)) +
@@ -69,13 +105,19 @@ ggplot(rcr, aes(x = program, y = mean_rcr, fill = program)) +
   theme_axis_legend +
   theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1)) +
   scale_fill_brewer(palette = "Paired") +
+  geom_text(aes(x=program, y=y_pos_rcr),
+            label=filter(label_dataset, flag_sym!="???")$flag_sym,
+            data=filter(label_dataset, flag_sym!="???"), inherit.aes=F,
+            size=8,
+            fontface="bold") +
   theme(
     legend.position = "none",
     plot.margin = margin(marg, marg, marg, marg)
   )
+
 ggsave("cfde_dcc_rcr.png", width = 11, height = 8)
 
-ggplot(rcr, aes(x = mean_rcr, y = n, color = program)) +
+ggplot(rcr, aes(x = median_rcr, y = n, color = program)) +
   geom_point(size = 6) +
   theme_axis_legend +
   theme(legend.position = "none") +
@@ -104,7 +146,7 @@ ggplot(rcr_source, aes(x=program,y=mean_rcr, fill=source)) +
   theme_axis_legend +
   theme(
     axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1),
-    legend.position = c(0.9, 0.9)
+    legend.position = c(0.85, 0.9)
   ) +
   labs(x="", y = "Mean RCR")
 
@@ -113,7 +155,7 @@ ggsave("cfde_dcc_by_category_rcr.png", width = 10, height = 7)
 full_dataset %>%
   mutate(year = lubridate::year(lubridate::as_date(oa_publication_date)))
 
-individual_dcc_rcr_source <- function(data, program_target, legend_pos = c(0.2, 0.9)) {
+individual_dcc_rcr_source <- function(data, program_target, legend_pos = c(0.2, 0.9), range_x = waiver()) {
   filtered_data <- filter(data, program == program_target, oa_publication_year > 1999) %>%
     #mutate(oa_publication_date = lubridate::as_date(oa_publication_date)) %>%
     distinct(pmid, .keep_all = T)
@@ -123,6 +165,7 @@ individual_dcc_rcr_source <- function(data, program_target, legend_pos = c(0.2, 
     geom_bar(alpha = 0.8) +
     labs(x = "", y = paste(program_target, "Citations", sep = " ")) +
     scale_fill_manual(values = fill_manual, drop = T) +
+    scale_x_continuous(breaks = range_x) +
     theme_axis_legend +
     theme(
       axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1),
@@ -147,13 +190,14 @@ individual_dcc_rcr_source <- function(data, program_target, legend_pos = c(0.2, 
   plot_grid(histogram, rcr_plot, labels = c("A.", "B."), vjust = c(1, 1), label_size = 12)
 }
 
-similar_dcc_plot <- function(data, program_target, legend_pos = c(0.2, 0.9)){
+similar_dcc_plot <- function(data, program_target, legend_pos = c(0.2, 0.9), range_x = waiver()){
   filtered_dataset <- data %>%
     filter(competes_with == program_target | program == program_target, oa_publication_year > 1999) #%>%
     #mutate(oa_publication_year = lubridate::year(oa_publication_date)))
   histogram <- ggplot(filtered_dataset, aes(x = oa_publication_year, fill = program)) +
     geom_bar(alpha = 0.8, position=position_dodge2(preserve="single")) +
     labs(x = "", y = "Total Citations") +
+    scale_x_continuous(breaks = range_x) +
     scale_fill_brewer(palette = "Paired") +
     theme_axis_legend +
     theme(
@@ -182,38 +226,38 @@ similar_dcc_plot <- function(data, program_target, legend_pos = c(0.2, 0.9)){
 
 #### Plots for similar and non-similar DCCs ####
 
-individual_dcc_rcr_source(full_dataset, "Metabolomics Workbench",  c(0.25, 0.85))
-ggsave("metabwork_dcc_plots.png", width=8, height=5)
+individual_dcc_rcr_source(full_dataset, "Metabolomics Workbench",  c(0.33, 0.92))
+ggsave("metabwork_dcc_plots.png", width=9, height=5)
 
-similar_dcc_plot(full_dataset, "Metabolomics Workbench", c(0.32,0.9))
+similar_dcc_plot(full_dataset, "Metabolomics Workbench", c(0.32,0.92))
 ggsave("metabwork_and_simialr_dcc_plots.png", width=9, height=5)
 
-individual_dcc_rcr_source(full_dataset, "GlyGen", c(0.3, 0.88))
+individual_dcc_rcr_source(full_dataset, "GlyGen", c(0.38, 0.88),c(2015, 2017,2019,2021))
 ggsave("glygen_dcc_plots.png", width=8,height=4)
 
-similar_dcc_plot(full_dataset, "GlyGen", c(0.3, 0.88))
+similar_dcc_plot(full_dataset, "GlyGen", c(0.2, 0.88), c(2015, 2017,2019,2021))
 ggsave("glygen_and_similar_dcc_plots.png", width=8,height=4)
 
-individual_dcc_rcr_source(full_dataset, "GTEx", c(0.25, 0.85))
+individual_dcc_rcr_source(full_dataset, "GTEx", c(0.35, 0.85))
 ggsave("gtex_dcc_plots.png", width=8, height=4)
 
-similar_dcc_plot(full_dataset, "GTEx", c(0.3, 0.88))
+similar_dcc_plot(full_dataset, "GTEx", c(0.25, 0.88))
 ggsave("gtex_and_similar_dcc_plots.png", width=9,height=5)
 
-individual_dcc_rcr_source(full_dataset, "IDG", c(0.3, 0.88))
+individual_dcc_rcr_source(full_dataset, "IDG", c(0.35, 0.88))
 ggsave("idg_dcc_plots.png", width=8, height=4)
 
-similar_dcc_plot(full_dataset, "IDG", c(0.3,0.88))
+similar_dcc_plot(full_dataset, "IDG", c(0.25,0.88))
 ggsave("idg_and_similar_dcc_plots.png", width=8, height=4)
 
-individual_dcc_rcr_source(full_dataset, "MoTrPAC", c(0.3, 0.88))
+individual_dcc_rcr_source(full_dataset, "MoTrPAC", c(0.33, 0.88))
 ggsave("motrpac_dcc_plots.png", width=8, height=4)
 
 similar_dcc_plot(filter(full_dataset, program != "Exercise Transcriptome Meta-analysis"), "MoTrPAC", c(0.2,0.9))
 ggsave("motrpac_and_similar_dcc_plots.png", width=8, height=4)
 
 individual_dcc_rcr_source(full_dataset, "ExRNA", c(0.3, 0.88))
-ggsave("exrna_dcc_plots.png", width=8, height=4)
+ggsave("exrna_dcc_plots.png", width=9, height=4)
 
 similar_dcc_plot(full_dataset, "ExRNA", c(0.2,0.88))
 ggsave("exrna_and_similar_dcc_plots.png", width=8, height=4)
@@ -226,7 +270,7 @@ similar_dcc_plot(full_dataset, "Kids First", c(0.2,0.88))
 ggsave("kidsfirst_and_similar_dcc_plots.png", width=8, height=4)
 
 #### Plots for Non-comparable DCCs ####
-individual_dcc_rcr_source(full_dataset, "LINCS", c(0.3, 0.85))
+individual_dcc_rcr_source(full_dataset, "LINCS", c(0.35, 0.85))
 ggsave("lincs_dcc_plots2.png", width = 8, height = 4)
 
 
@@ -298,12 +342,12 @@ filtered_data <- filter(full_dataset, program == program_tar)
 
 histogram <- ggplot(filtered_data, aes(x = oa_publication_year, fill = source)) +
   geom_bar(alpha = 0.8) +
-  labs(x = "", y = paste(program, "Citations", sep = " ")) +
+  labs(x = "", y = paste(program_tar, "Citations", sep = " ")) +
   scale_fill_manual(values = fill_manual, drop = T) +
   theme_axis_legend +
   theme(
     axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1),
-    legend.position = c(0.3,0.88)
+    legend.position = c(0.35,0.88)
   )
   # RCR Plot
 
